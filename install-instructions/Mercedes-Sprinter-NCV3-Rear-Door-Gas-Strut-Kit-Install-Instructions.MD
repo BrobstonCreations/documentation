@@ -32,6 +32,8 @@
 
 ![2-brackets-and-fasteners.jpg](../images/00-brackets-and-fasteners.jpg)
 
+## Installation:
+
 1. Using a T30 torx bit, remove the 3 torx bolts from the driver door bracket. Let the bracket hang by the cable.
 ![3-drivers-stock-bracket.jpg](../images/1-drivers-stock-bracket.jpg)
 
