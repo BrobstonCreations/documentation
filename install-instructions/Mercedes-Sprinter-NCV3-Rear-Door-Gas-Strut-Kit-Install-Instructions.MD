@@ -120,7 +120,7 @@
 ![PXL_20240930_173139417.jpg](../images/PXL_20240930_173139417.jpg)
 ![PXL_20240930_173146000.jpg](../images/PXL_20240930_173146000.jpg)
 ![PXL_20240930_173214846.PORTRAIT.jpg](../images/PXL_20240930_173214846.PORTRAIT.jpg)
-3. If the clip on the end of the gas strut pops loose. You can insert something big enough to help pry it back, in this case I used an allen wrench. Insert the allen wrench into the whole, rotate the top of the allen towards the side with the clip stuck too far through while pressing down on the clip from the top, the clip should pop back int place.
+3. If the clip on the end of the gas strut pops loose. You can insert something big enough to help pry it back, in this case I used an allen wrench. Insert the allen wrench into the whole, rotate the top of the allen towards the side with the clip stuck too far through while pressing down on the clip from the top, the clip should pop back into place.
 ![PXL_20240930_173251386.jpg](../images/PXL_20240930_173251386.jpg)
 ![PXL_20240930_173305872.jpg](../images/PXL_20240930_173305872.jpg)
 ![PXL_20240930_173320253.jpg](../images/PXL_20240930_173320253.jpg)
