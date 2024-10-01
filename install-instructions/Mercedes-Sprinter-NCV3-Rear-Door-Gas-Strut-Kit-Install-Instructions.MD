@@ -115,6 +115,7 @@
 27. Repeat steps 8-26 for the passenger side.
 
 ## Gotchas:
-1. Removing the gas struts.
-2. If the clip on the end of the gas strut pops loose.
-3. If you have trouble with a rivet nut and need to remove it.
+1. My rivet nuts are not aligned perfectly.
+2. Removing the gas struts.
+3. If the clip on the end of the gas strut pops loose.
+4. If you have trouble with a rivet nut and need to remove it.
