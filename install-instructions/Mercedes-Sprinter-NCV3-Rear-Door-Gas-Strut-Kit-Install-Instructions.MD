@@ -115,7 +115,14 @@
 27. Repeat steps 8-26 for the passenger side.
 
 ## Gotchas:
-1. My rivet nuts are not aligned perfectly.
-2. Removing the gas struts.
-3. If the clip on the end of the gas strut pops loose.
-4. If you have trouble with a rivet nut and need to remove it.
+1. If you finish installing your rivet nuts and they are not perfectly aligned, you can take a small circular metal file (or something similar) and file away a small bit of aluminum from the body side brackets.
+2. If you need to remove the gas struts, you can use a small flat head screwdriver to pop the clip off the end of the gas strut. Insert the flathead screw driver under the clip, lift up on the clip, while lifting up on the gas strut and wiggling back and forth. Lift the clip further until the gas strut releases.
+![PXL_20240930_173139417.jpg](../images/PXL_20240930_173139417.jpg)
+![PXL_20240930_173146000.jpg](../images/PXL_20240930_173146000.jpg)
+![PXL_20240930_173214846.PORTRAIT.jpg](../images/PXL_20240930_173214846.PORTRAIT.jpg)
+3. If the clip on the end of the gas strut pops loose. You can insert something big enough to help pry it back, in this case I used an allen wrench. Insert the allen wrench into the whole, rotate the top of the allen towards the side with the clip stuck too far through while pressing down on the clip from the top, the clip should pop back int place.
+![PXL_20240930_173251386.jpg](../images/PXL_20240930_173251386.jpg)
+![PXL_20240930_173305872.jpg](../images/PXL_20240930_173305872.jpg)
+![PXL_20240930_173320253.jpg](../images/PXL_20240930_173320253.jpg)
+![PXL_20240930_173329252.jpg](../images/PXL_20240930_173329252.jpg)
+4. If you have trouble with a rivet nut and need to remove it, you can use something like a 45 degree countersink bit in a drill to remove the top of the rivet nut, which splits the rivet nut into two pieces releasing it from the hole it was installed in. 
