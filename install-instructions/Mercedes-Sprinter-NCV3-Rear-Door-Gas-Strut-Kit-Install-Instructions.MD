@@ -55,7 +55,7 @@
 7. Install one 10mm ball stud with spacer as shown.
 ![7-drivers-door-gas-strut-bracket-ball-stud-installed.jpg](../images/7-drivers-door-gas-strut-bracket-ball-stud-installed.jpg)
 
-8. Align the driver body side bracket as shown. This bracket will serve as a mounting point for one end of the gas strut as well as a cover for the factory plastic that will be cut in the next steps.
+8. Align the driver body side bracket as shown. This bracket will serve as a mounting point for one end of the gas strut as well as a cover for the factory plastic that will be cut in the next step.
 ![8-drivers-side-align-body-side-bracket.jpg](../images/8-drivers-side-align-body-side-bracket.jpg)
 
 9. There are likely a few ways to accomplish the next step. While developing this kit, I marked where I wanted to cut, then completely removed the factory plastic cover, clamped it lightly in my bench vice and used an oscillating tool to cut the plastic. It is likely possible to release one (or a few) of the plastic square clips to lift part of the plastic cover and cut it in place. Another option, if you have or purchase larger drill bits, would be to drill three holes that are large enough to allow access to drill holes in the body and install the rivet nuts; this is likely the least intrusive option, but is untested. Note: To prevent the exposed metal from rusting, it is recommended to prime/paint the exposed metal before installing these rivet nuts.
