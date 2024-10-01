@@ -116,7 +116,7 @@
 
 ## Gotchas:
 1. If you finish installing your rivet nuts and they are not perfectly aligned, you can take a small circular metal file (or something similar) and file away a small bit of aluminum from the body side brackets.
-2. If you need to remove the gas struts, you can use a small flat head screwdriver to pop the clip off the end of the gas strut. Insert the flathead screw driver under the clip, lift up on the clip, while lifting up on the gas strut and wiggling back and forth. Lift the clip further until the gas strut releases.
+2. If you need to remove the gas struts, you can use a small flat head screwdriver to pop the clip off the end of the gas strut. Insert the flathead screw driver under the clip, progressively pry up more on the clip, while lifting up on the gas strut and wiggling back and forth until the gas strut releases.
 ![PXL_20240930_173139417.jpg](../images/PXL_20240930_173139417.jpg)
 ![PXL_20240930_173146000.jpg](../images/PXL_20240930_173146000.jpg)
 ![PXL_20240930_173214846.PORTRAIT.jpg](../images/PXL_20240930_173214846.PORTRAIT.jpg)
