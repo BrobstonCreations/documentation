@@ -70,7 +70,7 @@
 12. Prepare the driver body side bracket by installing three M6 x 25mm cap head allen bolts with washers as shown.
 ![12-drivers-body-side-bracket-fasteners.jpg](../images/12-drivers-body-side-bracket-fasteners.jpg)
 
-13. Align the driver body side bracket and the M6 x 25mm cap head bolts with the spacers. Using the 4mm allen wrench, tighten the bolts enough that the bracket is held in place, but can move.
+13. Align the driver body side bracket and the M6 x 25mm cap head bolts with the spacers. Using the 4mm allen wrench, tighten the bolts enough that the bracket is held in place, but can move. I would not recommended to use power tools with rivet nuts, if anything is misaligned it will likely ruin your day. 
 ![13-drivers-body-side-bracket-fasteners-aligned.jpg](../images/13-drivers-body-side-bracket-fasteners-aligned.jpg)
 
 14. Align the bracket to best cover any gaps.
