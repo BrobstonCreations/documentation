@@ -36,28 +36,24 @@
 3. Set the fridge door to the side.
 ![5-remove-fridge-door.jpg](2018-2020-Winnebago-Revel-Kitchen-Galley-Microwave-Install-Instructions-images/5-remove-fridge-door.jpg)
 
-4. a
+4. Remove the four caps and screws from the front left and right sides of the fridge.
 ![6-remove-fridge-caps-and-screws.jpg](2018-2020-Winnebago-Revel-Kitchen-Galley-Microwave-Install-Instructions-images/6-remove-fridge-caps-and-screws.jpg)
 
-5. a
+5. Begin removing the fridge.
 ![7-begin-removing-fridge.jpg](2018-2020-Winnebago-Revel-Kitchen-Galley-Microwave-Install-Instructions-images/7-begin-removing-fridge.jpg)
 
-6. a
+6. Disconnect the fridge wiring.
 ![8-begin-disconnecting-fridge-wiring.jpg](2018-2020-Winnebago-Revel-Kitchen-Galley-Microwave-Install-Instructions-images/8-begin-disconnecting-fridge-wiring.jpg)
-
-7. a
 ![9-remove-fridge-wiring.jpg](2018-2020-Winnebago-Revel-Kitchen-Galley-Microwave-Install-Instructions-images/9-remove-fridge-wiring.jpg)
 
-8. a
+8. Remove the induction cooktop.
 ![10-remove-induction-cooktop.jpg](2018-2020-Winnebago-Revel-Kitchen-Galley-Microwave-Install-Instructions-images/10-remove-induction-cooktop.jpg)
-
-9. a
 ![11-induction-cooktop-removed.jpg](2018-2020-Winnebago-Revel-Kitchen-Galley-Microwave-Install-Instructions-images/11-induction-cooktop-removed.jpg)
 
-10. a
+10. If you don't feel comfortable with this step, hire an electrician. I am not an electrician, so take everything I say with a grain of salt. For outlets, there should be two circuits; one 15 amp circuit for all the outlets in the van except the induction cooktop outlet and one 20 amp circuit for the induction cooktop outlet. In my install, I replaced the 15 amp induction cooktop outlet with a residential 20 amp outlet; this is a 20 amp circuit, everything on it should be rated for 20 amps, I believe this was a mistake on Winnebago's side. I switched to an outlet that allows me to run the induction cooktop and microwave off the same circuit. It may be possible to mount the 15 amp outlet that is on the front right of the kitchen galley somewhere inside the kitchen galley to avoid adjusting this circuit. It is also possible to do this and connect the microwave to that circuit. I personally removed this outlet, but this required me to run a new 14/2 w/ ground from the outlet on the front left of the kitchen galley to the outlets on the passenger side rear of the van.
 ![12-adjust-15-amp-and-20-amp-electrical.jpg](2018-2020-Winnebago-Revel-Kitchen-Galley-Microwave-Install-Instructions-images/12-adjust-15-amp-and-20-amp-electrical.jpg)
 
-11. a
+11. You will need to cut an opening for the microwave. I would recommend first marking a line for the opening and conservatively remove material since you can remove more, but cannot add it back. I cut near the line and then later used a palm sander to remove more where needed. Here are some rough dimensions. The left cut will be 1/8 in (3.175 mm) to the right of the cut for the fridge. The right cut will line up with the inner brace of the kitchen galley which is a little under 3/4 in (18.6 mm) from the pantry wall. The top cut will be 1 5/16 in (33.5 mm) below the countertop.
 ![13-galley-left-side-cut.jpg](2018-2020-Winnebago-Revel-Kitchen-Galley-Microwave-Install-Instructions-images/13-galley-left-side-cut.jpg)
 
 12. a
