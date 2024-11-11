@@ -2,6 +2,7 @@
 
 ### Tools Needed:
 
+- Adjustable wrench (not pictured)
 - Drill (not pictured)
 - Drill bits (not pictured)
 - Impact driver with philips bit or Philips screw driver 
