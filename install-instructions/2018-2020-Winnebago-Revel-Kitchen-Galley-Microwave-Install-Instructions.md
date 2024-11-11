@@ -46,110 +46,110 @@
 ![8-begin-disconnecting-fridge-wiring.jpg](2018-2020-Winnebago-Revel-Kitchen-Galley-Microwave-Install-Instructions-images/8-begin-disconnecting-fridge-wiring.jpg)
 ![9-remove-fridge-wiring.jpg](2018-2020-Winnebago-Revel-Kitchen-Galley-Microwave-Install-Instructions-images/9-remove-fridge-wiring.jpg)
 
-8. Remove the induction cooktop.
+7. Remove the induction cooktop.
 ![10-remove-induction-cooktop.jpg](2018-2020-Winnebago-Revel-Kitchen-Galley-Microwave-Install-Instructions-images/10-remove-induction-cooktop.jpg)
 ![11-induction-cooktop-removed.jpg](2018-2020-Winnebago-Revel-Kitchen-Galley-Microwave-Install-Instructions-images/11-induction-cooktop-removed.jpg)
 
-10. If you don't feel comfortable with this step, hire an electrician. I am not an electrician, so take everything I say with a grain of salt. For outlets, there should be two circuits; one 15 amp circuit for all the outlets in the van except the induction cooktop outlet and one 20 amp circuit for the induction cooktop outlet. In my install, I replaced the 15 amp induction cooktop outlet with a residential 20 amp outlet; this is a 20 amp circuit, everything on it should be rated for 20 amps, I believe this was a mistake on Winnebago's side. I switched to an outlet that allows me to run the induction cooktop and microwave off the same circuit. It may be possible to mount the 15 amp outlet that is on the front right of the kitchen galley somewhere inside the kitchen galley to avoid adjusting this circuit. It is also possible to do this and connect the microwave to that circuit. I personally removed this outlet, but this required me to run a new 14/2 w/ ground from the outlet on the front left of the kitchen galley to the outlets on the passenger side rear of the van.
+8. If you don't feel comfortable with this step, hire an electrician. I am not an electrician, so take everything I say with a grain of salt. For outlets, there should be two circuits; one 15 amp circuit for all the outlets in the van except the induction cooktop outlet and one 20 amp circuit for the induction cooktop outlet. In my install, I replaced the 15 amp induction cooktop outlet with a residential 20 amp outlet; this is a 20 amp circuit, everything on it should be rated for 20 amps, I believe this was a mistake on Winnebago's side. I switched to an outlet that allows me to run the induction cooktop and microwave off the same circuit. It may be possible to mount the 15 amp outlet that is on the front right of the kitchen galley somewhere inside the kitchen galley to avoid adjusting this circuit. It is also possible to do this and connect the microwave to that circuit. I personally removed this outlet, but this required me to run a new 14/2 w/ ground from the outlet on the front left of the kitchen galley to the outlets on the passenger side rear of the van.
 ![12-adjust-15-amp-and-20-amp-electrical.jpg](2018-2020-Winnebago-Revel-Kitchen-Galley-Microwave-Install-Instructions-images/12-adjust-15-amp-and-20-amp-electrical.jpg)
 
-11. You will need to cut an opening for the microwave. I would recommend first marking a line for the opening and conservatively remove material since you can remove more, but cannot add it back. I cut near the line and then later used a palm sander to remove more where needed. Here are some rough dimensions. The left cut will be 1/8 in (3.175 mm) to the right of the cut for the fridge. The right cut will line up with the inner brace of the kitchen galley which is a little under 3/4 in (18.6 mm) from the pantry wall. The top cut will be 1 5/16 in (33.5 mm) below the countertop.
+9. You will need to cut an opening for the microwave. I would recommend first marking a line for the opening and conservatively remove material since you can remove more, but cannot add it back. I cut near the line and then later used a palm sander to remove more where needed. Here are some rough dimensions. The left cut will be 1/8 in (3.175 mm) to the right of the cut for the fridge. The right cut will line up with the inner brace of the kitchen galley which is a little under 3/4 in (18.6 mm) from the pantry wall. The top cut will be 1 5/16 in (33.5 mm) below the countertop.
 ![13-galley-left-side-cut.jpg](2018-2020-Winnebago-Revel-Kitchen-Galley-Microwave-Install-Instructions-images/13-galley-left-side-cut.jpg)
 ![14-galley-right-side-cut.jpg](2018-2020-Winnebago-Revel-Kitchen-Galley-Microwave-Install-Instructions-images/14-galley-right-side-cut.jpg)
 ![15-galley-top-side-cut.jpg](2018-2020-Winnebago-Revel-Kitchen-Galley-Microwave-Install-Instructions-images/15-galley-top-side-cut.jpg)
 
-14. a
+10. a
 ![16-install-rear-vent.jpg](2018-2020-Winnebago-Revel-Kitchen-Galley-Microwave-Install-Instructions-images/16-install-rear-vent.jpg)
 
-15. a
+11. a
 ![17-factory-jack.jpg](2018-2020-Winnebago-Revel-Kitchen-Galley-Microwave-Install-Instructions-images/17-factory-jack.jpg)
 
-16. a
+12. a
 ![18-begin-aligning-microwave-shelf.jpg](2018-2020-Winnebago-Revel-Kitchen-Galley-Microwave-Install-Instructions-images/18-begin-aligning-microwave-shelf.jpg)
 
-17. a
+13. a
 ![19-align-microwave-shelf.jpg](2018-2020-Winnebago-Revel-Kitchen-Galley-Microwave-Install-Instructions-images/19-align-microwave-shelf.jpg)
 
-18. a
+14. a
 ![20-begin-test-fitting-microwave.jpg](2018-2020-Winnebago-Revel-Kitchen-Galley-Microwave-Install-Instructions-images/20-begin-test-fitting-microwave.jpg)
 
-19. a
+15. a
 ![21-be-sure-power-cable-is-clear.jpg](2018-2020-Winnebago-Revel-Kitchen-Galley-Microwave-Install-Instructions-images/21-be-sure-power-cable-is-clear.jpg)
 
-20. a
+16. a
 ![22-check-alignment-right.jpg](2018-2020-Winnebago-Revel-Kitchen-Galley-Microwave-Install-Instructions-images/22-check-alignment-right.jpg)
 
-21. a
+17. a
 ![23-check-alignment-top.jpg](2018-2020-Winnebago-Revel-Kitchen-Galley-Microwave-Install-Instructions-images/23-check-alignment-top.jpg)
 
-22. a
+18. a
 ![24-use-screw-slots-left.jpg](2018-2020-Winnebago-Revel-Kitchen-Galley-Microwave-Install-Instructions-images/24-use-screw-slots-left.jpg)
 
-23. a
+19. a
 ![25-use-screws-lots-right.jpg](2018-2020-Winnebago-Revel-Kitchen-Galley-Microwave-Install-Instructions-images/25-use-screws-lots-right.jpg)
 
-24. a
+20. a
 ![26-begin-removing-bottle-jack.jpg](2018-2020-Winnebago-Revel-Kitchen-Galley-Microwave-Install-Instructions-images/26-begin-removing-bottle-jack.jpg)
 
-25. a
+21. a
 ![27-remove-bottle-jack.jpg](2018-2020-Winnebago-Revel-Kitchen-Galley-Microwave-Install-Instructions-images/27-remove-bottle-jack.jpg)
 
-26. a
+22. a
 ![28-being-test-fitting-fridge.jpg](2018-2020-Winnebago-Revel-Kitchen-Galley-Microwave-Install-Instructions-images/28-being-test-fitting-fridge.jpg)
 
-27. a
+23. a
 ![29-test-fit-fridge.jpg](2018-2020-Winnebago-Revel-Kitchen-Galley-Microwave-Install-Instructions-images/29-test-fit-fridge.jpg)
 
-28. a
+24. a
 ![30-test-fit-microwave-bezel.jpg](2018-2020-Winnebago-Revel-Kitchen-Galley-Microwave-Install-Instructions-images/30-test-fit-microwave-bezel.jpg)
 
-29. a
+25. a
 ![31-install-adhesive-rubber-on-induction-cooktop-spacer.jpg](2018-2020-Winnebago-Revel-Kitchen-Galley-Microwave-Install-Instructions-images/31-install-adhesive-rubber-on-induction-cooktop-spacer.jpg)
 
-30. a
+26. a
 ![32-install-induction-cooktop-spacer.jpg](2018-2020-Winnebago-Revel-Kitchen-Galley-Microwave-Install-Instructions-images/32-install-induction-cooktop-spacer.jpg)
 
-31. a
+27. a
 ![33-get-induction-cooktop-mounts.jpg](2018-2020-Winnebago-Revel-Kitchen-Galley-Microwave-Install-Instructions-images/33-get-induction-cooktop-mounts.jpg)
 
-32. a
+28. a
 ![34-install-induction-cooktop-mounts.jpg](2018-2020-Winnebago-Revel-Kitchen-Galley-Microwave-Install-Instructions-images/34-install-induction-cooktop-mounts.jpg)
 
-33. a
+29. a
 ![35-being-screwing-down-induction-cooktop-mounts.jpg](2018-2020-Winnebago-Revel-Kitchen-Galley-Microwave-Install-Instructions-images/35-being-screwing-down-induction-cooktop-mounts.jpg)
 
-34. a
+30. a
 ![36-screw-down-induction-cooktop-mounts.jpg](2018-2020-Winnebago-Revel-Kitchen-Galley-Microwave-Install-Instructions-images/36-screw-down-induction-cooktop-mounts.jpg)
 
-35. a
+31. a
 ![37-plug-in-induction-cooktop.jpg](2018-2020-Winnebago-Revel-Kitchen-Galley-Microwave-Install-Instructions-images/37-plug-in-induction-cooktop.jpg)
 
-36. a
+32. a
 ![38-begin-installing-microwave-shelf-straps.jpg](2018-2020-Winnebago-Revel-Kitchen-Galley-Microwave-Install-Instructions-images/38-begin-installing-microwave-shelf-straps.jpg)
 
-37. a
+33. a
 ![39-install-microwave-shelf-straps.jpg](2018-2020-Winnebago-Revel-Kitchen-Galley-Microwave-Install-Instructions-images/39-install-microwave-shelf-straps.jpg)
 
-38. a
+34. a
 ![40-begin-installing-microwave.jpg](2018-2020-Winnebago-Revel-Kitchen-Galley-Microwave-Install-Instructions-images/40-begin-installing-microwave.jpg)
 
-39. a
+35. a
 ![41-pull-microwave-shelf-straps-over-microwave.jpg](2018-2020-Winnebago-Revel-Kitchen-Galley-Microwave-Install-Instructions-images/41-pull-microwave-shelf-straps-over-microwave.jpg)
 
-40. a
+36. a
 ![42-push-microwave-straps-into-place.jpg](2018-2020-Winnebago-Revel-Kitchen-Galley-Microwave-Install-Instructions-images/42-push-microwave-straps-into-place.jpg)
 
-41. a
+37. a
 ![43-finish-installing-microwave-straps.jpg](2018-2020-Winnebago-Revel-Kitchen-Galley-Microwave-Install-Instructions-images/43-finish-installing-microwave-straps.jpg)
 
-42. a
+38. a
 ![44-mark-microwave-bezel-hole-locations.jpg](2018-2020-Winnebago-Revel-Kitchen-Galley-Microwave-Install-Instructions-images/44-mark-microwave-bezel-hole-locations.jpg)
 
-43. a
+39. a
 ![45-drill-microwave-bezel-holes.jpg](2018-2020-Winnebago-Revel-Kitchen-Galley-Microwave-Install-Instructions-images/45-drill-microwave-bezel-holes.jpg)
 
-44. a
+40. a
 ![46-install-bezel.jpg](2018-2020-Winnebago-Revel-Kitchen-Galley-Microwave-Install-Instructions-images/46-install-bezel.jpg)
 
-45. a
+41. a
 ![47-finished.jpg](2018-2020-Winnebago-Revel-Kitchen-Galley-Microwave-Install-Instructions-images/47-finished.jpg)
