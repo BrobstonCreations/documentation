@@ -26,5 +26,11 @@
 
 ## Installation:
 
-1. asdf
+1. Remove the fridge door top fastener.
 ![3-remove-fridge-door-top-fastener.jpg](2018-2020-Winnebago-Revel-Kitchen-Galley-Microwave-Install-Instructions-images/3-remove-fridge-door-top-fastener.jpg)
+
+2. Tilt the fridge door forward and lift it off the bottom hinge.
+![4-begin-removing-fridge-door.jpg](2018-2020-Winnebago-Revel-Kitchen-Galley-Microwave-Install-Instructions-images/4-begin-removing-fridge-door.jpg)
+
+3. Set the fridge door to the side.
+![5-remove-fridge-door.jpg](2018-2020-Winnebago-Revel-Kitchen-Galley-Microwave-Install-Instructions-images/5-remove-fridge-door.jpg)
