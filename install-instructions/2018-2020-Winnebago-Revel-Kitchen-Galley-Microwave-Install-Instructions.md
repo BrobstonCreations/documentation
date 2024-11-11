@@ -35,8 +35,6 @@
 
 3. Set the fridge door to the side.
 ![5-remove-fridge-door.jpg](2018-2020-Winnebago-Revel-Kitchen-Galley-Microwave-Install-Instructions-images/5-remove-fridge-door.jpg)
-<<<<<<< Updated upstream
-=======
 
 4. a
 ![5-remove-fridge-door.jpg](2018-2020-Winnebago-Revel-Kitchen-Galley-Microwave-Install-Instructions-images/5-remove-fridge-door.jpg)
@@ -163,4 +161,3 @@
 
 45. a
 ![47-finished.jpg](2018-2020-Winnebago-Revel-Kitchen-Galley-Microwave-Install-Instructions-images/47-finished.jpg)
->>>>>>> Stashed changes
