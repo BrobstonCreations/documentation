@@ -8,6 +8,7 @@
 - Impact driver with philips bit or Philips screw driver 
 - Oscillating tool
 - Jigsaw
+- Palm sander (not pictured)
 - Bottle jack
 - Light (optional)
 - 90 degree impact tool (optional)
