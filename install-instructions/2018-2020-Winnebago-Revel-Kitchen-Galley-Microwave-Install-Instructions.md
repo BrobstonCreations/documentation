@@ -55,11 +55,7 @@
 
 11. You will need to cut an opening for the microwave. I would recommend first marking a line for the opening and conservatively remove material since you can remove more, but cannot add it back. I cut near the line and then later used a palm sander to remove more where needed. Here are some rough dimensions. The left cut will be 1/8 in (3.175 mm) to the right of the cut for the fridge. The right cut will line up with the inner brace of the kitchen galley which is a little under 3/4 in (18.6 mm) from the pantry wall. The top cut will be 1 5/16 in (33.5 mm) below the countertop.
 ![13-galley-left-side-cut.jpg](2018-2020-Winnebago-Revel-Kitchen-Galley-Microwave-Install-Instructions-images/13-galley-left-side-cut.jpg)
-
-12. a
 ![14-galley-right-side-cut.jpg](2018-2020-Winnebago-Revel-Kitchen-Galley-Microwave-Install-Instructions-images/14-galley-right-side-cut.jpg)
-
-13. a
 ![15-galley-top-side-cut.jpg](2018-2020-Winnebago-Revel-Kitchen-Galley-Microwave-Install-Instructions-images/15-galley-top-side-cut.jpg)
 
 14. a
