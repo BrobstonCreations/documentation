@@ -74,10 +74,8 @@
 13. Be sure the power cable is clear.
 ![21-be-sure-power-cable-is-clear.jpg](2018-2020-Winnebago-Revel-Kitchen-Galley-Microwave-Install-Instructions-images/21-be-sure-power-cable-is-clear.jpg)
 
-14. Check alignment on the right.
+14. Check alignment on the right and top, if you need to remove more material, I would recommend using a palm sander.
 ![22-check-alignment-right.jpg](2018-2020-Winnebago-Revel-Kitchen-Galley-Microwave-Install-Instructions-images/22-check-alignment-right.jpg)
-
-15. Check alignment on the top.
 ![23-check-alignment-top.jpg](2018-2020-Winnebago-Revel-Kitchen-Galley-Microwave-Install-Instructions-images/23-check-alignment-top.jpg)
 
 16. Use screw slots so that you can temporary mount the shelf, allowing you to test fit the fridge. Align the screws near the center of the support board.
