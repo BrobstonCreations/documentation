@@ -25,6 +25,7 @@
 - Kitchen Galley vent bracket
 - 10x - self tapping countersunk head screws
 - 15x - self tapping cap head screws
+- Rubber with adhesive backing
 
 ## Installation:
 
