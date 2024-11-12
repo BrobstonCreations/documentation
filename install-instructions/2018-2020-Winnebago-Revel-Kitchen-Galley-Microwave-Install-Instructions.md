@@ -63,10 +63,8 @@
 10. Prepare the bottle jack.
 ![17-factory-jack.jpg](2018-2020-Winnebago-Revel-Kitchen-Galley-Microwave-Install-Instructions-images/17-factory-jack.jpg)
 
-11. Begin aligning the microwave shelf.
+11. Align the microwave shelf.
 ![18-begin-aligning-microwave-shelf.jpg](2018-2020-Winnebago-Revel-Kitchen-Galley-Microwave-Install-Instructions-images/18-begin-aligning-microwave-shelf.jpg)
-
-12. Align the microwave shelf.
 ![19-align-microwave-shelf.jpg](2018-2020-Winnebago-Revel-Kitchen-Galley-Microwave-Install-Instructions-images/19-align-microwave-shelf.jpg)
 
 13. Begin test fitting the microwave.
@@ -81,74 +79,56 @@
 17. Check alignment on the top.
 ![23-check-alignment-top.jpg](2018-2020-Winnebago-Revel-Kitchen-Galley-Microwave-Install-Instructions-images/23-check-alignment-top.jpg)
 
-18. Use screw slots on the left.
+18. Use screw slots so that you can temporary mount the shelf, allowing you to test fit the fridge. Align the screws near the center of the support board.
 ![24-use-screw-slots-left.jpg](2018-2020-Winnebago-Revel-Kitchen-Galley-Microwave-Install-Instructions-images/24-use-screw-slots-left.jpg)
-
-19. Use screw slots on the right.
 ![25-use-screws-lots-right.jpg](2018-2020-Winnebago-Revel-Kitchen-Galley-Microwave-Install-Instructions-images/25-use-screws-lots-right.jpg)
 
-20. Begin removing the bottle jack.
-![26-begin-removing-bottle-jack.jpg](2018-2020-Winnebago-Revel-Kitchen-Galley-Microwave-Install-Instructions-images/26-begin-removing-bottle-jack.jpg)
-
 21. Remove the bottle jack.
+![26-begin-removing-bottle-jack.jpg](2018-2020-Winnebago-Revel-Kitchen-Galley-Microwave-Install-Instructions-images/26-begin-removing-bottle-jack.jpg)
 ![27-remove-bottle-jack.jpg](2018-2020-Winnebago-Revel-Kitchen-Galley-Microwave-Install-Instructions-images/27-remove-bottle-jack.jpg)
 
-22. Begin test fitting the fridge.
+23. Test fit the fridge. This is a tight fit. The fridge will likely bind some, be sure the fridge is going in square; you may need to press from the top and the bottom and wiggle it in.
 ![28-being-test-fitting-fridge.jpg](2018-2020-Winnebago-Revel-Kitchen-Galley-Microwave-Install-Instructions-images/28-being-test-fitting-fridge.jpg)
-
-23. Test fit the fridge.
 ![29-test-fit-fridge.jpg](2018-2020-Winnebago-Revel-Kitchen-Galley-Microwave-Install-Instructions-images/29-test-fit-fridge.jpg)
 
 24. Test fit the microwave bezel.
 ![30-test-fit-microwave-bezel.jpg](2018-2020-Winnebago-Revel-Kitchen-Galley-Microwave-Install-Instructions-images/30-test-fit-microwave-bezel.jpg)
-
-25. Install adhesive rubber on the induction cooktop spacer.
+25. Remove the fridge and microwave to begin test fitting the induction cooktop.
+26. Install adhesive rubber on the induction cooktop spacer.
 ![31-install-adhesive-rubber-on-induction-cooktop-spacer.jpg](2018-2020-Winnebago-Revel-Kitchen-Galley-Microwave-Install-Instructions-images/31-install-adhesive-rubber-on-induction-cooktop-spacer.jpg)
 
-26. Install the induction cooktop spacer.
+26. Install the induction cooktop spacer with the rubber side down.
 ![32-install-induction-cooktop-spacer.jpg](2018-2020-Winnebago-Revel-Kitchen-Galley-Microwave-Install-Instructions-images/32-install-induction-cooktop-spacer.jpg)
 
-27. Get the induction cooktop mounts.
+27. Get the induction cooktop mounts and fasteners (reused the machine screws from the original induction cooktop mount)
 ![33-get-induction-cooktop-mounts.jpg](2018-2020-Winnebago-Revel-Kitchen-Galley-Microwave-Install-Instructions-images/33-get-induction-cooktop-mounts.jpg)
 
 28. Install the induction cooktop mounts.
 ![34-install-induction-cooktop-mounts.jpg](2018-2020-Winnebago-Revel-Kitchen-Galley-Microwave-Install-Instructions-images/34-install-induction-cooktop-mounts.jpg)
 
-29. Begin screwing down the induction cooktop mounts.
-![35-being-screwing-down-induction-cooktop-mounts.jpg](2018-2020-Winnebago-Revel-Kitchen-Galley-Microwave-Install-Instructions-images/35-being-screwing-down-induction-cooktop-mounts.jpg)
-
 30. Screw down the induction cooktop mounts.
+![35-being-screwing-down-induction-cooktop-mounts.jpg](2018-2020-Winnebago-Revel-Kitchen-Galley-Microwave-Install-Instructions-images/35-being-screwing-down-induction-cooktop-mounts.jpg)
 ![36-screw-down-induction-cooktop-mounts.jpg](2018-2020-Winnebago-Revel-Kitchen-Galley-Microwave-Install-Instructions-images/36-screw-down-induction-cooktop-mounts.jpg)
 
 31. Plug in the induction cooktop.
 ![37-plug-in-induction-cooktop.jpg](2018-2020-Winnebago-Revel-Kitchen-Galley-Microwave-Install-Instructions-images/37-plug-in-induction-cooktop.jpg)
 
-32. Begin installing the microwave shelf straps.
+33. Install the microwave shelf straps and microwave.
 ![38-begin-installing-microwave-shelf-straps.jpg](2018-2020-Winnebago-Revel-Kitchen-Galley-Microwave-Install-Instructions-images/38-begin-installing-microwave-shelf-straps.jpg)
-
-33. Install the microwave shelf straps.
 ![39-install-microwave-shelf-straps.jpg](2018-2020-Winnebago-Revel-Kitchen-Galley-Microwave-Install-Instructions-images/39-install-microwave-shelf-straps.jpg)
-
-34. Begin installing the microwave.
 ![40-begin-installing-microwave.jpg](2018-2020-Winnebago-Revel-Kitchen-Galley-Microwave-Install-Instructions-images/40-begin-installing-microwave.jpg)
-
-35. Pull the microwave shelf straps over the microwave.
 ![41-pull-microwave-shelf-straps-over-microwave.jpg](2018-2020-Winnebago-Revel-Kitchen-Galley-Microwave-Install-Instructions-images/41-pull-microwave-shelf-straps-over-microwave.jpg)
-
-36. Push the microwave straps into place.
 ![42-push-microwave-straps-into-place.jpg](2018-2020-Winnebago-Revel-Kitchen-Galley-Microwave-Install-Instructions-images/42-push-microwave-straps-into-place.jpg)
-
-37. Finish installing the microwave straps.
 ![43-finish-installing-microwave-straps.jpg](2018-2020-Winnebago-Revel-Kitchen-Galley-Microwave-Install-Instructions-images/43-finish-installing-microwave-straps.jpg)
 
 38. Mark the microwave bezel hole locations.
 ![44-mark-microwave-bezel-hole-locations.jpg](2018-2020-Winnebago-Revel-Kitchen-Galley-Microwave-Install-Instructions-images/44-mark-microwave-bezel-hole-locations.jpg)
 
-39. Drill the microwave bezel holes.
+39. Remove the microwave and drill the microwave bezel holes. Use a drill bit that is equal to or slightly smaller than the diameter of the screw (not the threads).
 ![45-drill-microwave-bezel-holes.jpg](2018-2020-Winnebago-Revel-Kitchen-Galley-Microwave-Install-Instructions-images/45-drill-microwave-bezel-holes.jpg)
 
-40. Install the bezel.
+40. Install the bezel, reinstall the fridge screws/caps, and install the fridge door.
 ![46-install-bezel.jpg](2018-2020-Winnebago-Revel-Kitchen-Galley-Microwave-Install-Instructions-images/46-install-bezel.jpg)
 
-41. Finished.
+41. You are finished! We hope you enjoy your new microwave as much as we do!
 ![47-finished.jpg](2018-2020-Winnebago-Revel-Kitchen-Galley-Microwave-Install-Instructions-images/47-finished.jpg)
