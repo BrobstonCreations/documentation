@@ -129,5 +129,5 @@
 29. Install the bezel, reinstall the fridge screws/caps (be sure to reconnect the wiring), and install the fridge door.
 ![46-install-bezel.jpg](2018-2020-Winnebago-Revel-Kitchen-Galley-Microwave-Install-Instructions-images/46-install-bezel.jpg)
 
-30. You are finished! We hope you enjoy your new microwave as much as we do!
+30. You are finished!
 ![47-finished.jpg](2018-2020-Winnebago-Revel-Kitchen-Galley-Microwave-Install-Instructions-images/47-finished.jpg)
