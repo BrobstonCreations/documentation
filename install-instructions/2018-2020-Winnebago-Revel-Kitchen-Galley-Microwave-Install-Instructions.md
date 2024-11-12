@@ -78,7 +78,7 @@
 ![22-check-alignment-right.jpg](2018-2020-Winnebago-Revel-Kitchen-Galley-Microwave-Install-Instructions-images/22-check-alignment-right.jpg)
 ![23-check-alignment-top.jpg](2018-2020-Winnebago-Revel-Kitchen-Galley-Microwave-Install-Instructions-images/23-check-alignment-top.jpg)
 
-16. Use screw slots so that you can temporary mount the shelf, allowing you to test fit the fridge. Align the screws near the center of the support board.
+16. Use screw slots so that you can temporary mount the shelf, allowing you to test fit the fridge. Align the screws so that they do not miss the support board.
 ![24-use-screw-slots-left.jpg](2018-2020-Winnebago-Revel-Kitchen-Galley-Microwave-Install-Instructions-images/24-use-screw-slots-left.jpg)
 ![25-use-screws-lots-right.jpg](2018-2020-Winnebago-Revel-Kitchen-Galley-Microwave-Install-Instructions-images/25-use-screws-lots-right.jpg)
 
