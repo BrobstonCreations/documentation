@@ -23,8 +23,9 @@
 - Induction cooktop spacer
 - Induction cooktop mount brackets
 - Kitchen Galley vent bracket
-- 10x - self tapping countersunk head screws
-- 15x - self tapping cap head screws
+- 8x - self tapping countersunk head screws (for shelf)
+- 4x - self tapping cap head screws (for induction cooktop mounts)
+- 15x - self tapping cap head screws (for microwave bezel)
 - Rubber with adhesive backing
 
 ## Installation:
