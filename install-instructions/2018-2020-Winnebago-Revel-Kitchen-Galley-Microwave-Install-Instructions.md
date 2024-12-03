@@ -26,6 +26,8 @@
 - 8x - self tapping countersunk head screws (for shelf)
 - 4x - self tapping cap head screws (for induction cooktop mounts)
 - 15x - self tapping cap head screws (for microwave bezel)
+- 2x - philips machine screws (for macerator switch)
+- 2x - machine nuts (for macerator switch)
 - Rubber with adhesive backing
 
 ## Installation:
