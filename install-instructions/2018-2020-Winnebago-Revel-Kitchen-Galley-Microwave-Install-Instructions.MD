@@ -29,6 +29,7 @@
 - 2x - philips machine screws (for macerator switch)
 - 2x - machine nuts (for macerator switch)
 - Rubber with adhesive backing
+- 2x - cam buckle tie down straps
 
 ## Installation:
 
@@ -77,7 +78,7 @@
 13. Be sure the power cable is clear.
 ![21-be-sure-power-cable-is-clear.jpg](2018-2020-Winnebago-Revel-Kitchen-Galley-Microwave-Install-Instructions-images/21-be-sure-power-cable-is-clear.jpg)
 
-14. Check alignment on the right and top, if you need to remove more material, I would recommend using a palm sander.
+14. Check alignment on the right and top, if you need to remove more material, I would recommend using a palm sander. Once enough material is removed, align the microwave to the front of the kitchen galley, you should have a consistent amount of microwave sticking out (I would recommend 1/16-1/8 of space between the front of the microwave bezel and the microwave door). Once the stick-out is consistent, be sure to slide the microwave shelf forward until the top of the back edge touches the back of the microwave.
 ![22-check-alignment-right.jpg](2018-2020-Winnebago-Revel-Kitchen-Galley-Microwave-Install-Instructions-images/22-check-alignment-right.jpg)
 ![23-check-alignment-top.jpg](2018-2020-Winnebago-Revel-Kitchen-Galley-Microwave-Install-Instructions-images/23-check-alignment-top.jpg)
 
@@ -96,10 +97,10 @@
 18. Test fit the microwave bezel.
 ![30-test-fit-microwave-bezel.jpg](2018-2020-Winnebago-Revel-Kitchen-Galley-Microwave-Install-Instructions-images/30-test-fit-microwave-bezel.jpg)
 19. Remove the fridge and microwave to begin test fitting the induction cooktop.
-20. Install adhesive rubber on the induction cooktop spacer.
+20. Install adhesive rubber on the induction cooktop spacer. (Order: Induction cooktop -> original padding -> 3/8 in. cooktop spacer -> new padding -> countertop)
 ![31-install-adhesive-rubber-on-induction-cooktop-spacer.jpg](2018-2020-Winnebago-Revel-Kitchen-Galley-Microwave-Install-Instructions-images/31-install-adhesive-rubber-on-induction-cooktop-spacer.jpg)
 
-21. Install the induction cooktop spacer with the rubber side down.
+21. Install the induction cooktop spacer with the rubber side down. (Note: The holes in the cooktop spacer are not intended to be used, our manufacturer requires them for their powder coating process.)
 ![32-install-induction-cooktop-spacer.jpg](2018-2020-Winnebago-Revel-Kitchen-Galley-Microwave-Install-Instructions-images/32-install-induction-cooktop-spacer.jpg)
 
 22. Get the induction cooktop mounts and fasteners (reused the machine screws from the original induction cooktop mount)
@@ -115,7 +116,7 @@
 25. Plug in the induction cooktop.
 ![37-plug-in-induction-cooktop.jpg](2018-2020-Winnebago-Revel-Kitchen-Galley-Microwave-Install-Instructions-images/37-plug-in-induction-cooktop.jpg)
 
-26. Install the microwave shelf straps and microwave.
+26. Install the microwave shelf straps and microwave. The next few pictures show how to manage the microwave and the straps; it is somewhat tricky to get the straps around the microwave and this is the easiest approach I have found.
 ![38-begin-installing-microwave-shelf-straps.jpg](2018-2020-Winnebago-Revel-Kitchen-Galley-Microwave-Install-Instructions-images/38-begin-installing-microwave-shelf-straps.jpg)
 ![39-install-microwave-shelf-straps.jpg](2018-2020-Winnebago-Revel-Kitchen-Galley-Microwave-Install-Instructions-images/39-install-microwave-shelf-straps.jpg)
 ![40-begin-installing-microwave.jpg](2018-2020-Winnebago-Revel-Kitchen-Galley-Microwave-Install-Instructions-images/40-begin-installing-microwave.jpg)
@@ -129,7 +130,7 @@
 28. Remove the microwave and drill pilot holes for the microwave bezel mounting holes. Use a drill bit that is equal to or slightly smaller than the diameter of the screw shank (not the threads). (Do not install the fridge yet, disregard the fridge in the image)
 ![45-drill-microwave-bezel-holes.jpg](2018-2020-Winnebago-Revel-Kitchen-Galley-Microwave-Install-Instructions-images/45-drill-microwave-bezel-holes.jpg)
 
-29. Install the bezel, reinstall the fridge screws/caps (be sure to reconnect the wiring), and install the fridge door.
+29. Install the macerator switch (using the two machine cap head screws, four washers, and two lock nuts) into the microwave bezel, attach the macerator switch wiring, install the microwave bezel, reinstall the fridge screws/caps (be sure to reconnect the wiring), and install the fridge door.
 ![46-install-bezel.jpg](2018-2020-Winnebago-Revel-Kitchen-Galley-Microwave-Install-Instructions-images/46-install-bezel.jpg)
 
 30. You are finished!
