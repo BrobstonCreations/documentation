@@ -104,16 +104,18 @@
 ![32-install-induction-cooktop-spacer.jpg](2018-2020-Winnebago-Revel-Kitchen-Galley-Microwave-Install-Instructions-images/32-install-induction-cooktop-spacer.jpg)
 
 22. Get the induction cooktop mounts and fasteners. You will reuse the long machine screws from the original induction cooktop rubber feet (in my testing I was able to thread these in without issue, feel free to thread them in slowly to confirm). These machine screws will be reused for the induction cooktop side of the mounts and the same small self-tapping screws that are used for the microwave bezel will be used for the countertop side of the mount.
-**(pictures coming)**
+![33-get-induction-cooktop-mounts.jpg](2018-2020-Winnebago-Revel-Kitchen-Galley-Microwave-Install-Instructions-images/33-get-induction-cooktop-mounts.jpg)
 
 23. With the induction cooktop face-down, pick the correct mount to avoid hitting existing cooktop hardward, thread a machine screw through one mount, leave it loose enough that the mount can be moved out of the way for when we flip the cooktop over into the countertop opening. Install the three other mounts following the same steps.
-**(pictures coming)**
+![34-install-induction-cooktop-mounts.jpg](2018-2020-Winnebago-Revel-Kitchen-Galley-Microwave-Install-Instructions-images/34-install-induction-cooktop-mounts.jpg)
+![34.5-orient-the-cooktop-mounts-for-install.jpg](2018-2020-Winnebago-Revel-Kitchen-Galley-Microwave-Install-Instructions-images/34.5-orient-the-cooktop-mounts-for-install.jpg)
 
-24. Flip the induction cooktop over and put it inside of the countertop opening. From under the countertop, turn the mounts to be pointed to the side of the cooktop, screw down the induction cooktop machine screws until they are tight. Position the cooktop to be centered in the opening. Install the small self-tapping screws into the countertop side of the mounts, feel free to drill pilot holes, and be careful not to drill or screw through the countertop.
-**(pictures coming)**
+24. Flip the induction cooktop over and put it inside of the countertop opening. From under the countertop, turn the mounts to be pointed to the side of the cooktop, screw down the induction cooktop machine screws until they are tight. Position the cooktop to be centered in the opening. Before screwing into the countertop, be sure you are using the correct screws and they will not poke through the top of the countertop! Install the small self-tapping screws into the countertop side of the mounts, feel free to drill pilot holes, and be careful not to drill or screw through the countertop.
+![34.75-place-induction-cooktop-in-opening-and-square-the-induction-cooktop-to-the-countertop.jpg](2018-2020-Winnebago-Revel-Kitchen-Galley-Microwave-Install-Instructions-images/34.75-place-induction-cooktop-in-opening-and-square-the-induction-cooktop-to-the-countertop.jpg)
+![35-being-screwing-down-induction-cooktop-mounts.jpg](2018-2020-Winnebago-Revel-Kitchen-Galley-Microwave-Install-Instructions-images/35-being-screwing-down-induction-cooktop-mounts.jpg)
 
 25. Plug in the induction cooktop.
-![37-plug-in-induction-cooktop.jpg](2018-2020-Winnebago-Revel-Kitchen-Galley-Microwave-Install-Instructions-images/37-plug-in-induction-cooktop.jpg)
+![36-screw-down-induction-cooktop-mounts.jpg](2018-2020-Winnebago-Revel-Kitchen-Galley-Microwave-Install-Instructions-images/36-screw-down-induction-cooktop-mounts.jpg)
 
 26. Install the microwave shelf straps and microwave. The next few pictures show how to manage the microwave and the straps; it is somewhat tricky to get the straps around the microwave and this is the easiest approach I have found.
 ![38-begin-installing-microwave-shelf-straps.jpg](2018-2020-Winnebago-Revel-Kitchen-Galley-Microwave-Install-Instructions-images/38-begin-installing-microwave-shelf-straps.jpg)
