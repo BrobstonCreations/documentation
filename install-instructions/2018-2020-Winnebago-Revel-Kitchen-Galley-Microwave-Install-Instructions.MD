@@ -30,7 +30,6 @@
 - 2x - philips machine screws (for macerator switch)
 - 2x - machine nuts (for macerator switch)
 - Rubber with adhesive backing
-- 2x - cam buckle tie down straps
 
 ## Installation:
 
@@ -117,7 +116,7 @@
 
 26. Plug in the induction cooktop.
 
-27. Install the microwave shelf straps and microwave. The next few pictures show how to manage the microwave and the straps; it is somewhat tricky to get the straps around the microwave and this is the easiest approach I have found.
+27. This step is optional. I have pretty throughly tested installing the microwave without straps. Assuming the microwave shelf is far enough forward to prevent the microwave from being able to be pushed back and the microwave bezel is tight around the microwave, I have not seen the microwave move at all. The upside to not using straps is slightly better ventilation. If you would still prefer to install straps they can be ordered on Amazon (https://www.amazon.com/dp/B0BKVKY1L3). Install the microwave shelf straps and microwave. The next few pictures show how to manage the microwave and the straps; it is somewhat tricky to get the straps around the microwave and this is the easiest approach I have found.
 ![38-begin-installing-microwave-shelf-straps.jpg](2018-2020-Winnebago-Revel-Kitchen-Galley-Microwave-Install-Instructions-images/38-begin-installing-microwave-shelf-straps.jpg)
 ![39-install-microwave-shelf-straps.jpg](2018-2020-Winnebago-Revel-Kitchen-Galley-Microwave-Install-Instructions-images/39-install-microwave-shelf-straps.jpg)
 ![40-begin-installing-microwave.jpg](2018-2020-Winnebago-Revel-Kitchen-Galley-Microwave-Install-Instructions-images/40-begin-installing-microwave.jpg)
