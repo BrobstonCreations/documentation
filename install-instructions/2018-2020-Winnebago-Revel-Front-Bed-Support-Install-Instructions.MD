@@ -18,4 +18,4 @@
 ![2-PXL_20251108_165554400~2.jpg](2018-2020-Winnebago-Revel-Front-Bed-Support-images/2-PXL_20251108_165554400~2.jpg)
 
 3. Align the threaded inserts with the first hole and some force, press while pulling the trigger of the impact driver or drill, drive the threaded insert in until it is flush.
-![3-PXL_20251108_165630692~2](2018-2020-Winnebago-Revel-Front-Bed-Support-images/3-PXL_20251108_165630692~2)
+![3-PXL_20251108_165630692~2.jpg](2018-2020-Winnebago-Revel-Front-Bed-Support-images/3-PXL_20251108_165630692~2.jpg)
