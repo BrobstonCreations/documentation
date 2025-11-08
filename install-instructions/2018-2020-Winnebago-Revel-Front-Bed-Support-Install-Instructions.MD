@@ -8,7 +8,7 @@
 - Hex Key Set
 
 ### Brackets and fasteners included in the kit:
-- Revel Front Bed Support bracket
+- 1x - Revel Front Bed Support bracket
 - 8x - Hex-Drive Flat Head Machine Screws 
 - 8x - Threaded Inserts for Wood
 
