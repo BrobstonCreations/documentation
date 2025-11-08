@@ -32,7 +32,7 @@
 ![8-PXL_20251108_170129695~2.jpg](2018-2020-Winnebago-Revel-Front-Bed-Support-images/8-PXL_20251108_170129695~2.jpg)
 ![9-PXL_20251108_170142870~2.jpg](2018-2020-Winnebago-Revel-Front-Bed-Support-images/9-PXL_20251108_170142870~2.jpg)
 
-6. Insert the Hex-Drive Flat Head Machine Screws into the support bracket, align the bracket and machine screws with the threade inserts, start the threads by hand, then tighten with a hex key or hex socket; be sure not to over torque.
+6. Insert the Hex-Drive Flat Head Machine Screws into the support bracket, align the bracket and machine screws with the threaded inserts, start the threads by hand, then tighten with a hex key or hex socket; be sure not to over torque.
 ![10-PXL_20251108_170256785~3.jpg](2018-2020-Winnebago-Revel-Front-Bed-Support-images/10-PXL_20251108_170256785~3.jpg)
 ![11-PXL_20251108_170422413~2.jpg](2018-2020-Winnebago-Revel-Front-Bed-Support-images/11-PXL_20251108_170422413~2.jpg)
 
