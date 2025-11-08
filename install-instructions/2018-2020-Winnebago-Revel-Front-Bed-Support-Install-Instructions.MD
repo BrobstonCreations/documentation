@@ -19,3 +19,4 @@
 
 3. Align the threaded inserts with the first hole and some force, press while pulling the trigger of the impact driver or drill, drive the threaded insert in until it is flush. Install the remaining 7 (2 more for the square tube and 5 more for the support bracket).
 ![3-PXL_20251108_165630692~2.jpg](2018-2020-Winnebago-Revel-Front-Bed-Support-images/3-PXL_20251108_165630692~2.jpg)
+![4-PXL_20251108_165652275.jpg](2018-2020-Winnebago-Revel-Front-Bed-Support-images/4-PXL_20251108_165652275.jpg)
