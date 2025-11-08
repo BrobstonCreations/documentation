@@ -19,11 +19,11 @@
 
 ### Brackets and fasteners included in the kit:
 
-- Microwave bezel bracket
-- Microwave shelf bracket
-- Induction cooktop spacer
-- Induction cooktop mount brackets
-- Kitchen Galley vent bracket
+- 1x - Microwave bezel bracket
+- 1x - Microwave shelf bracket
+- 1x - Induction cooktop spacer
+- 1x - Induction cooktop mount brackets
+- 1x - Kitchen Galley vent bracket
 - 8x - self tapping countersunk head screws (for shelf)
 - 4x - self tapping cap head screws (for induction cooktop mounts)
 - 15x - self tapping cap head screws (for microwave bezel)
