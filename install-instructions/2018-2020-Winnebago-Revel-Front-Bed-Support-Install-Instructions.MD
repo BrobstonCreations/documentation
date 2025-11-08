@@ -25,3 +25,7 @@
 ![5-PXL_20251108_165913446~2.jpg](2018-2020-Winnebago-Revel-Front-Bed-Support-images/5-PXL_20251108_165913446~2.jpg)
 ![6-PXL_20251108_165922415~2.jpg](2018-2020-Winnebago-Revel-Front-Bed-Support-images/6-PXL_20251108_165922415~2.jpg)
 ![7-PXL_20251108_170013401.MP~2.jpg](2018-2020-Winnebago-Revel-Front-Bed-Support-images/7-PXL_20251108_170013401.MP~2.jpg)
+
+5. Align the square tube and machine screws with the threaded inserts, tighten, and reinstall the plastic caps.
+![8-PXL_20251108_170129695~2.jpg](2018-2020-Winnebago-Revel-Front-Bed-Support-images/8-PXL_20251108_170129695~2.jpg)
+![9-PXL_20251108_170142870~2.jpg](2018-2020-Winnebago-Revel-Front-Bed-Support-images/9-PXL_20251108_170142870~2.jpg)
