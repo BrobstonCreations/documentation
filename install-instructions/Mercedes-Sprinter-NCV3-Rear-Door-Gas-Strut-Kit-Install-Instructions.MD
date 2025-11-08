@@ -15,10 +15,10 @@
 
 ### Brackets and fasteners included in the kit:
 
-- Driver door bracket
-- Driver body side bracket
-- Passenger body side bracket
-- Passenger door bracket
+- 1x - Driver door bracket
+- 1x - Driver body side bracket
+- 1x - Passenger body side bracket
+- 1x - Passenger door bracket
 - 4x - 10mm ball studs 5/16-18 x 1/2
 - 2x - ball stud spacers
 - 2x - washers
