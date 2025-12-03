@@ -29,3 +29,6 @@
 
 7.
 ![7-remove-fridge-front-door-cover.jpg](Gloss-Black-Magnetic-Fridge-Front-for-Nova-Kool-R3100-images/7-remove-fridge-front-door-cover.jpg)
+
+8. Install your new fridge front.
+9. Repeat reassembly in reverse.
