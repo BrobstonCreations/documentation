@@ -27,7 +27,7 @@
 6. Pull back the fridge bottom trim.
 ![6-pull-back-fridge-button-trim.jpg](Gloss-Black-Magnetic-Fridge-Front-for-Nova-Kool-R3100-images/6-pull-back-fridge-button-trim.jpg)
 
-7. Pull the originl fridge door front out. The cardboard behind it may try to come with, this is fine, you can install it behind when inserting the new fridge front cover.
+7. Pull the original fridge door front out. The cardboard behind it may try to come with, this is fine, you can install it behind when inserting the new fridge front cover.
 ![7-remove-fridge-front-door-cover.jpg](Gloss-Black-Magnetic-Fridge-Front-for-Nova-Kool-R3100-images/7-remove-fridge-front-door-cover.jpg)
 
 8. Install your new fridge front cover.
