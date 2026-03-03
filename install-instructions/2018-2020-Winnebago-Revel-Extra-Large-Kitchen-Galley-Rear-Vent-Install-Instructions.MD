@@ -28,4 +28,6 @@
 13. Be sure that your jig saw blade is not too long that it will hit the door seal.
 14. Carefully cut along the line from the inside of the kitchen galley, make the cut as straight as possible. You may need to cut the top and bottom with your oscillating tool.
 ![5-PXL_20260227_185341800.jpg](2018-2020-Winnebago-Revel-Extra-Large-Kitchen-Galley-Rear-Vent-images/5-PXL_20260227_185341800.jpg)
+15. Reinstall the vent from the outside of the kitchen galley.
 ![6-PXL_20260227_190022052.jpg](2018-2020-Winnebago-Revel-Extra-Large-Kitchen-Galley-Rear-Vent-images/6-PXL_20260227_190022052.jpg)
+16. You are finished!
