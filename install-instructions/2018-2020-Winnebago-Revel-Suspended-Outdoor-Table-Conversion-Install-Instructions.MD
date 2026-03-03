@@ -11,6 +11,7 @@
 
 ### Brackets and fasteners included in the kit:
 - 1x - Table Side Bracket
+- 1x - Jig (to avoid top side wood tearout)
 - 1x - 6 inch L-Track
 - 1x - Black Vinyl Coated Suspension Cable
 - 6x - Hex-Drive Flat Head Machine Screws
