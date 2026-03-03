@@ -8,7 +8,8 @@
 - Oscillating tool
 
 ### Brackets and fasteners included in the kit:
-
+- 1x - Extra Large Vent Bracket
+- 16x - self tapping cap head screws
 
 1. Remove the fridge
 2. Position the vent. The right edge of the vent should be just under 1/4 inch spaced away from the table. The top edge of the vent should be 3/16 of an inch below the bottom of the countertop.
