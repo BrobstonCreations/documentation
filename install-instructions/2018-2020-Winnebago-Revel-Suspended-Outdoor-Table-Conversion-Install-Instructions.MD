@@ -37,3 +37,9 @@
 
 ![4-PXL_20260301_141651669.MP.jpg](2018-2020-Winnebago-Revel-Suspended-Outdoor-Table-Conversion-images/4-PXL_20260301_141651669.MP.jpg)
 ![3-PXL_20260301_141635061.jpg](2018-2020-Winnebago-Revel-Suspended-Outdoor-Table-Conversion-images/3-PXL_20260301_141635061.jpg)
+
+9. Steps to install the cord on the table side:
+![PXL_20260303_183057590.jpg](2018-2020-Winnebago-Revel-Suspended-Outdoor-Table-Conversion-images/PXL_20260303_183057590.jpg)
+![PXL_20260303_183108662.jpg](2018-2020-Winnebago-Revel-Suspended-Outdoor-Table-Conversion-images/PXL_20260303_183108662.jpg)
+![PXL_20260303_183124021.jpg](2018-2020-Winnebago-Revel-Suspended-Outdoor-Table-Conversion-images/PXL_20260303_183124021.jpg)
+![PXL_20260303_183128205.jpg](2018-2020-Winnebago-Revel-Suspended-Outdoor-Table-Conversion-images/PXL_20260303_183128205.jpg)
