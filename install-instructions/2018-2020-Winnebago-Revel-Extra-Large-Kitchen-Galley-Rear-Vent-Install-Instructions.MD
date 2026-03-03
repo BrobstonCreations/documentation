@@ -13,6 +13,10 @@
 6. (This step isn't completely necessary, but later will help to show if your cut was square.) Use a straight edge to draw a line just outside of the pencil marks made in the last step.
 7. Use a drill bit slightly smaller than the holes created from the screws that were previously installed to drill a few holes all the way through to the other side of the panel.
 ![3-PXL_20260227_170736187.jpg](2018-2020-Winnebago-Revel-Extra-Large-Kitchen-Galley-Rear-Vent-images/3-PXL_20260227_170736187.jpg)
+8. In the same orientation, but on the other size of the panel, screw the panel on from the inside.
+9. Mark the inside left and right of each vent opening with a mechanical pencil.
+10. Remove the vent.
+11. Use a straight edge to draw a line just outside of the pencil marks made in the last step.
 ![4-PXL_20260227_183811368.MP.jpg](2018-2020-Winnebago-Revel-Extra-Large-Kitchen-Galley-Rear-Vent-images/4-PXL_20260227_183811368.MP.jpg)
 ![5-PXL_20260227_185341800.jpg](2018-2020-Winnebago-Revel-Extra-Large-Kitchen-Galley-Rear-Vent-images/5-PXL_20260227_185341800.jpg)
 ![6-PXL_20260227_190022052.jpg](2018-2020-Winnebago-Revel-Extra-Large-Kitchen-Galley-Rear-Vent-images/6-PXL_20260227_190022052.jpg)
