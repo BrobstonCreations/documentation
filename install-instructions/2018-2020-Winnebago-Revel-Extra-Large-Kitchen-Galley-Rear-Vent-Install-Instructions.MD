@@ -1,8 +1,14 @@
 # 2018-2020 Winnebago Revel Extra Large Kitchen Galley Rear Vent
 
 ### Tools Needed:
+- Mechanical Pencil
+- Drill
+- Impact driver with philips bit or Philips screw driver
+- Jigsaw
+- Oscillating tool
 
 ### Brackets and fasteners included in the kit:
+
 
 1. Remove the fridge
 2. Position the vent. The right edge of the vent should be just under 1/4 inch spaced away from the table. The top edge of the vent should be 3/16 of an inch below the bottom of the countertop.
@@ -18,5 +24,8 @@
 10. Remove the vent.
 11. Use a straight edge to draw a line just outside of the pencil marks made in the last step.
 ![4-PXL_20260227_183811368.MP.jpg](2018-2020-Winnebago-Revel-Extra-Large-Kitchen-Galley-Rear-Vent-images/4-PXL_20260227_183811368.MP.jpg)
+12. Use your drill and a drill bit bigger than the blade on your jigsaw to drill a hole inside of your cut area as a location to start your jigsaw cut.
+13. Be sure that your jig saw blade is not too long that it will hit the door seal.
+14. Carefully cut along the line from the inside of the kitchen galley, make the cut as straight as possible. You may need to cut the top and bottom with your oscillating tool.
 ![5-PXL_20260227_185341800.jpg](2018-2020-Winnebago-Revel-Extra-Large-Kitchen-Galley-Rear-Vent-images/5-PXL_20260227_185341800.jpg)
 ![6-PXL_20260227_190022052.jpg](2018-2020-Winnebago-Revel-Extra-Large-Kitchen-Galley-Rear-Vent-images/6-PXL_20260227_190022052.jpg)
