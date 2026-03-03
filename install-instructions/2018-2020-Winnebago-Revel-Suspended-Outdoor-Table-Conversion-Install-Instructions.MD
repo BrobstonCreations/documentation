@@ -4,6 +4,7 @@
 - Drill
 - Drill Bits
 - Drill Stop Bit Collar Set (https://www.amazon.com/dp/B073VS72R3)
+- Countersink Drill Bit with Depth Stop
 - Hex Key Set
 
 ### Brackets and fasteners included in the kit:
