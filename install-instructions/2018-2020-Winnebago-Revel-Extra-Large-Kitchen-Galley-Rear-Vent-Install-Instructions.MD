@@ -6,7 +6,7 @@
 
 
 1. Position the vent. The right edge of the vent should be just under 1/4 inch spaced away from the table. The top edge of the vent should be 3/16 of an inch below the bottom of the countertop.
-2. While holding the vent in place, install the screws (feel free to drill a pilot hole, but it does not seem to be necessary in this case), I would recommend starting from one end and work your way down.
+2. While holding the vent in place, install the screws (feel free to drill a pilot hole, but it does not seem to be necessary in this case), I would recommend starting from the top and work your way down.
 ![1-PXL_20260227_161947553.jpg](2018-2020-Winnebago-Revel-Extra-Large-Kitchen-Galley-Rear-Vent-images/1-PXL_20260227_161947553.jpg)
 
 
