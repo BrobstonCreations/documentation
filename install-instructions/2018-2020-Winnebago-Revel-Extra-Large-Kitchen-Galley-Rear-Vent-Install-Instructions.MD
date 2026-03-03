@@ -11,6 +11,8 @@
 - 1x - Extra Large Vent Bracket
 - 16x - self tapping cap head screws
 
+## Installation:
+
 1. Remove the fridge door top fastener.
 ![3-remove-fridge-door-top-fastener.jpg](2018-2020-Winnebago-Revel-Kitchen-Galley-Microwave-Install-Instructions-images/3-remove-fridge-door-top-fastener.jpg)
 
