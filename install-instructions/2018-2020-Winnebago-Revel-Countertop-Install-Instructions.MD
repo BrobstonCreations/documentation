@@ -56,9 +56,9 @@
 ![PXL_20260227_150544943.MP.jpg](2018-2020-Winnebago-Revel-Countertop-Install-images/PXL_20260227_150544943.MP.jpg)
 ![PXL_20260227_150628333.jpg](2018-2020-Winnebago-Revel-Countertop-Install-images/PXL_20260227_150628333.jpg)
 
-17. Set the sink into the countertop.
+17. Test fit the sink in the countertop (don't install the mounting hardware yet).
 
+18. Insert the sink faucet (and drinking water faucet if applicable) into the countertop holes. Thread the faucet nut on the bottom but do not install the rest of the faucet components.
 
-Insert the sink faucet (and drinking water faucet of applicable) into the countertop holes. Thread the faucet nut on the bottom but so not install the rest of the faucet components.
-With the countertop square to the pantry wall, as far forward as possible (after trimming the support), verify overall fitment and trim more of the support of necessary. If you are satisfied with the fitment, using a sharpie or other writing utensil, and begin marking the slots of the countertop mounts between the bracket and the countertop. I personally marked two, flipped the countertop, drilled a pilot hole, flipped the countertop back, and installed the two screws, then did two more, and repeated until finish. Use your best judgement here. I would recommend drill center of the slot as wood will expand and contract some as temperatures rise and fall.
+19. With the countertop square to the pantry wall, as far forward as possible (after trimming the support), verify overall fitment and trim more of the support if necessary. If you are satisfied with the fitment, using a sharpie or other writing utensil, and begin marking the slots of the countertop mounts between the bracket and the countertop. I would recommend drilling center of the slot as the countertop will expand and contract some as temperatures rise and fall.
 Though I have not done this yet, I would recommend leaving a small gap and/or using a some silicone between the countertop and pantry wall. My setup developed a squeak after installing the new countertop right to the pantry wall.
