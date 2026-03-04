@@ -5,8 +5,24 @@
 ### Brackets and fasteners included in the kit:
 
 ## Installation:
-Shut off the AC Breakers for the Cooktop and all outlets
-Remove Fridge
+1. Shut off the AC Breakers for the Cooktop and all outlets
+
+2. Remove the fridge door top fastener.
+![3-remove-fridge-door-top-fastener.jpg](2018-2020-Winnebago-Revel-Kitchen-Galley-Microwave-Install-Instructions-images/3-remove-fridge-door-top-fastener.jpg)
+
+3. Tilt the fridge door forward and lift it off the bottom hinge.
+![4-begin-removing-fridge-door.jpg](2018-2020-Winnebago-Revel-Kitchen-Galley-Microwave-Install-Instructions-images/4-begin-removing-fridge-door.jpg)
+![5-remove-fridge-door.jpg](2018-2020-Winnebago-Revel-Kitchen-Galley-Microwave-Install-Instructions-images/5-remove-fridge-door.jpg)
+
+4. Remove the four caps and screws from the front left and right sides of the fridge.
+![6-remove-fridge-caps-and-screws.jpg](2018-2020-Winnebago-Revel-Kitchen-Galley-Microwave-Install-Instructions-images/6-remove-fridge-caps-and-screws.jpg)
+
+5. Begin removing the fridge.
+![7-begin-removing-fridge.jpg](2018-2020-Winnebago-Revel-Kitchen-Galley-Microwave-Install-Instructions-images/7-begin-removing-fridge.jpg)
+
+6. Disconnect the fridge wiring.
+![8-begin-disconnecting-fridge-wiring.jpg](2018-2020-Winnebago-Revel-Kitchen-Galley-Microwave-Install-Instructions-images/8-begin-disconnecting-fridge-wiring.jpg)
+![9-remove-fridge-wiring.jpg](2018-2020-Winnebago-Revel-Kitchen-Galley-Microwave-Install-Instructions-images/9-remove-fridge-wiring.jpg)
 Remove Microwave (if installed)
 Remove kitchen galley drawers
 Remove Cooktop
