@@ -41,7 +41,7 @@
 14. Without installing any components in it, set the new kitchen galley countertop on top of the kitchen galley.
 
 15. Trim the front support inside the kitchen galley to allow space for the sink. There may be a screw in the area that you are trimming, but sure to remove it before trimming. After you've finished trimming, (and be sure your screw is not too long, you may need to replace it with one shorter) drill a pilot hole with a drill bit stop to limit the depth,.and replace the screw.
-
+![PXL_20260227_150544943.MP.jpg](2018-2020-Winnebago-Revel-Countertop-Install-images/PXL_20260227_150544943.MP.jpg)
 
 Set the sink into the countertop.
 Swap the narrow mount in the back right (near the cooktop) with the wide one from the front left of the kitchen galley. Move the narrow mount into the furthest front left corner, verify with the countertop sitting on top and the sink sitting in it, that the bracket will not interfere. Screw the bracket into the kitchen galley.
