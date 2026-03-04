@@ -32,12 +32,12 @@
 
 10. Remove the sink. Lift the glass top, there are three screws under ruber bumpers, loosen these. Disconnect the hot and cold water feeds for the faucet and disconnect the sink drain.
 
-Remove all screws between the countertop and kitchen galley on either the countertop side or galley side of the bracket, whichever is easiest to remove.
-Remove old countertop
-Remove the vanity plate and unscrew the 110v outlet from the front left of the kitchen galley, a spacer will be installed (similar to the one below the bed on the other side of the bathroom).
-Remove contents from kitchen pantry
-Remove shelves from kitchen pantry
-Remove the shelf at the bottom of the pantry that allows access to the macerator
+11. Remove all screws between the countertop and kitchen galley on either the countertop side or galley side of the bracket, whichever is easiest to remove.
+
+12. Remove old countertop
+
+13. Remove the vanity plate and unscrew the 110v outlet from the front left of the kitchen galley, a spacer will be installed (similar to the one below the bed on the other side of the bathroom).
+
 Without installing any components in it, set the new kitchen galley countertop on top of the kitchen galley.
 Trim the front support inside the kitchen galley to allow space for the sink. There may be a screw in the area that you are trimming, but sure to remove it before trimming. After you've finished trimming, (and be sure your screw is not too long, you may need to replace it with one shorter) drill a pilot hole with a drill bit stop to limit the depth,.and replace the screw.
 Set the sink into the countertop.
