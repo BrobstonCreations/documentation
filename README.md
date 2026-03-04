@@ -6,5 +6,5 @@
 - [2018-2020 Winnebago Revel Front Bed Support Install Instructions](/install-instructions/2018-2020-Winnebago-Revel-Front-Bed-Support-Install-Instructions.MD)
 - [2018-2020 Winnebago Revel Countertop Install Instructions](/install-instructions/2018-2020-Winnebago-Revel-Countertop-Install-Instructions.MD)
 - [2018-2020 Winnebago Revel Suspended Outdoor Table Conversion Install Instructions](/install-instructions/2018-2020-Winnebago-Revel-Suspended-Outdoor-Table-Conversion-Install-Instructions.MD)
-- [2018-2020-Winnebago Revel Extra Large Kitchen Galley Rear Vent Install Instructions](/install-instructions/2018-2020-Winnebago-Revel-Extra-Large-Kitchen-Galley-Rear-Vent-Install-Instructions.MD)
+- [2018-2020 Winnebago Revel Extra Large Kitchen Galley Rear Vent Install Instructions](/install-instructions/2018-2020-Winnebago-Revel-Extra-Large-Kitchen-Galley-Rear-Vent-Install-Instructions.MD)
 - [Gloss Black Magnetic Fridge Front for Nova Kool R3100](/install-instructions/Gloss-Black-Magnetic-Fridge-Front-for-Nova-Kool-R3100-Install-Instructions.MD)
