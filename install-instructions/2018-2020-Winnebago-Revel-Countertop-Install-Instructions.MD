@@ -38,8 +38,11 @@
 
 13. Remove the vanity plate and unscrew the 110v outlet from the front left of the kitchen galley, a spacer will be installed (similar to the one below the bed on the other side of the bathroom).
 
-Without installing any components in it, set the new kitchen galley countertop on top of the kitchen galley.
-Trim the front support inside the kitchen galley to allow space for the sink. There may be a screw in the area that you are trimming, but sure to remove it before trimming. After you've finished trimming, (and be sure your screw is not too long, you may need to replace it with one shorter) drill a pilot hole with a drill bit stop to limit the depth,.and replace the screw.
+14. Without installing any components in it, set the new kitchen galley countertop on top of the kitchen galley.
+
+15. Trim the front support inside the kitchen galley to allow space for the sink. There may be a screw in the area that you are trimming, but sure to remove it before trimming. After you've finished trimming, (and be sure your screw is not too long, you may need to replace it with one shorter) drill a pilot hole with a drill bit stop to limit the depth,.and replace the screw.
+
+
 Set the sink into the countertop.
 Swap the narrow mount in the back right (near the cooktop) with the wide one from the front left of the kitchen galley. Move the narrow mount into the furthest front left corner, verify with the countertop sitting on top and the sink sitting in it, that the bracket will not interfere. Screw the bracket into the kitchen galley.
 Insert the sink faucet (and drinking water faucet of applicable) into the countertop holes. Thread the faucet nut on the bottom but so not install the rest of the faucet components.
