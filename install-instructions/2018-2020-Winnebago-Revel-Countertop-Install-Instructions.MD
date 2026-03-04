@@ -23,9 +23,12 @@
 6. Disconnect the fridge wiring.
 ![8-begin-disconnecting-fridge-wiring.jpg](2018-2020-Winnebago-Revel-Kitchen-Galley-Microwave-Install-Instructions-images/8-begin-disconnecting-fridge-wiring.jpg)
 ![9-remove-fridge-wiring.jpg](2018-2020-Winnebago-Revel-Kitchen-Galley-Microwave-Install-Instructions-images/9-remove-fridge-wiring.jpg)
-Remove Microwave (if installed)
+
+7. Remove Microwave (if installed).
+
+8. Remove the induction cooktop. There are four screws between the original mounting bracket and the countertop and four screws between the mounting bracket and the cooktop.
+
 Remove kitchen galley drawers
-Remove Cooktop
 Remove Sink
 Remove all screws between the countertop and kitchen galley on either the countertop side or galley side of the bracket, whichever is easiest to remove.
 Remove old countertop
