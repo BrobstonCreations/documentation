@@ -1,8 +1,17 @@
 # 2018-2020 Winnebago Revel Countertop
 
 ### Tools Needed:
+- Adjustable wrench
+- Drill
+- Drill bits
+- Drill Stop Bit Collar Set (https://www.amazon.com/dp/B073VS72R3)
+- Impact driver with philips bit or Philips screw driver
+- 90 degree impact tool
+- Oscillating tool
+- Sharpie
 
 ### Brackets and fasteners included in the kit:
+- CNC Machined Countertop
 
 ## Installation:
 1. Shut off the AC Breakers for the Cooktop and all outlets
