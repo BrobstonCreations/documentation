@@ -61,7 +61,7 @@
 ![12-adjust-15-amp-and-20-amp-electrical.jpg](2018-2020-Winnebago-Revel-Kitchen-Galley-Microwave-Install-Instructions-images/12-adjust-15-amp-and-20-amp-electrical.jpg)
 
 
-10. Install the rear vent. Mark the four outer mounting holes. Mark the corners of the top and bottom vent openings and then drawer a line between each corner to form a rectangle of the area you need to remove. You will likely need to use an oscillating tool to cut this opening. If you are able to use a jigsaw, I would recommend drilling each corner using a drill bit larger than the width of your jigsaw blade.
+10. If you bought the extra large rear vent [follow the instructions here](2018-2020-Winnebago-Revel-Extra-Large-Kitchen-Galley-Rear-Vent-Install-Instructions.MD) otherwise if you bought the small upper vent, follow these instructions: Install the rear vent. Mark the four outer mounting holes. Mark the corners of the top and bottom vent openings and then drawer a line between each corner to form a rectangle of the area you need to remove. You will likely need to use an oscillating tool to cut this opening. If you are able to use a jigsaw, I would recommend drilling each corner using a drill bit larger than the width of your jigsaw blade.
 ![16-install-rear-vent.jpg](2018-2020-Winnebago-Revel-Kitchen-Galley-Microwave-Install-Instructions-images/16-install-rear-vent.jpg)
 
 11. Prepare the bottle jack.
