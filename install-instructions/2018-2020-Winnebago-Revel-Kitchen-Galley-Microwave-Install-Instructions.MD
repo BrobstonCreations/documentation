@@ -13,7 +13,6 @@
 - Bottle jack
 - Light (optional)
 - 90 degree impact tool (optional)
-- Circular saw (optional)
 
 ![1-tools.jpg](2018-2020-Winnebago-Revel-Kitchen-Galley-Microwave-Install-Instructions-images/1-tools.jpg)
 
