@@ -131,14 +131,18 @@
 ![42-push-microwave-straps-into-place.jpg](2018-2020-Winnebago-Revel-Kitchen-Galley-Microwave-Install-Instructions-images/42-push-microwave-straps-into-place.jpg)
 ![43-finish-installing-microwave-straps.jpg](2018-2020-Winnebago-Revel-Kitchen-Galley-Microwave-Install-Instructions-images/43-finish-installing-microwave-straps.jpg)
 
-28. Mark the microwave bezel mounting hole locations. (Do not install the fridge yet, disregard the fridge in the image)
+28. If you are happy with the stick-out of the microwave from the front face of the kitchen galley, go ahead and finalize the mounting of the microwave shelf. On the mounting points of the shelf that are slots and holes, screw in the self tapping countersunk head screws into the holes to lock the microwave shelf into place.
+
+29. Mark the microwave bezel mounting hole locations.
 ![44-mark-microwave-bezel-hole-locations.jpg](2018-2020-Winnebago-Revel-Kitchen-Galley-Microwave-Install-Instructions-images/44-mark-microwave-bezel-hole-locations.jpg)
 
-29. Remove the microwave and drill pilot holes for the microwave bezel mounting holes. Use a drill bit that is equal to or slightly smaller than the diameter of the screw shank (not the threads). (Do not install the fridge yet, disregard the fridge in the image)
+30. Remove the microwave and drill pilot holes for the microwave bezel mounting holes. Use a drill bit that is equal to or slightly smaller than the diameter of the screw shank (not the threads). (Do not install the fridge yet, disregard the fridge in the image)
 ![45-drill-microwave-bezel-holes.jpg](2018-2020-Winnebago-Revel-Kitchen-Galley-Microwave-Install-Instructions-images/45-drill-microwave-bezel-holes.jpg)
 
-30. Install the macerator switch (using the two machine cap head screws, four washers, and two lock nuts) into the microwave bezel, attach the macerator switch wiring, install the microwave bezel, reinstall the fridge screws/caps (be sure to reconnect the wiring), and install the fridge door.
+31. Install the macerator switch (using the two machine cap head screws, four washers, and two lock nuts) into the microwave bezel, attach the macerator switch wiring, install the microwave bezel.
 ![46-install-bezel.jpg](2018-2020-Winnebago-Revel-Kitchen-Galley-Microwave-Install-Instructions-images/46-install-bezel.jpg)
 
-31. You are finished!
+32. Reinstall the fridge. Reconnect the fridge wiring, reinstall the screws/caps, and install the fridge door.
+
+33. You are finished!
 ![47-finished.jpg](2018-2020-Winnebago-Revel-Kitchen-Galley-Microwave-Install-Instructions-images/47-finished.jpg)
