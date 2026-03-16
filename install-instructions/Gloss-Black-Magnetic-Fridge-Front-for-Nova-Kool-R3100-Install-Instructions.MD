@@ -1,3 +1,6 @@
+Do you have questions, ideas, or concerns? Feel free to reach out to us on [Facebook Messenger](https://www.facebook.com/BrobstonCreationsLLC) or by Email (brobstoncreations@gmail.com).
+
+
 # Gloss Black Magnetic Fridge Front for Nova Kool R3100
 
 ### Tools Needed:
