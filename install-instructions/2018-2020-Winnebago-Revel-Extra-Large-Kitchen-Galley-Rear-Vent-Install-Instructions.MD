@@ -4,6 +4,7 @@
 
 ### Tools Needed:
 - Drill
+- Drill bits
 - Impact driver with philips bit or Philips screw driver
 - Jigsaw
 - Oscillating tool
