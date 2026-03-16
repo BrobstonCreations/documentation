@@ -30,6 +30,11 @@
 - 2x - machine nuts (for macerator switch)
 - Rubber with adhesive backing
 
+### Not included in the kit:
+- 1x - [Microwave](https://www.walmart.com/ip/Mainstays-0-7-Cu-ft-Countertop-Microwave-Oven-700-Watts-Black-New/5125973778)
+- 1x - 120v 20amp outlet
+- 1x - Single gang electrical box
+
 ## Installation:
 
 1. Remove the fridge door top fastener.
