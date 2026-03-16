@@ -1,5 +1,7 @@
 # Mercedes Sprinter NCV3 Rear Door Gas Strut Kit Install Instructions
 
+### While this kit can be installed yourself, for best results we recommend having it professionally installed.
+
 ### Tools Needed:
  
 - Drill
