@@ -10,6 +10,7 @@
 - Oscillating tool
 - Adjustable Wrench
 - Mechanical Pencil
+- Straight edge (for drawing a line between pencil marks)
 
 ### Brackets and fasteners included in the kit:
 - 1x - Extra Large Vent Bracket
