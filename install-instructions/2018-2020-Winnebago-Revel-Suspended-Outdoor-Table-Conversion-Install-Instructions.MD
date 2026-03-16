@@ -19,10 +19,10 @@
 - 6x - Hex-Drive Flat Head Machine Screws
 - 6x - Threaded Inserts for Wood
 
-***Be sure to read these instructions thoroughly before beginning***
 
 ![1-PXL_20260227_193403413.jpg](2018-2020-Winnebago-Revel-Suspended-Outdoor-Table-Conversion-images/1-PXL_20260227_193403413.jpg)
 ![2-PXL_20260227_194831873.jpg](2018-2020-Winnebago-Revel-Suspended-Outdoor-Table-Conversion-images/2-PXL_20260227_194831873.jpg)
+***Be sure to read these instructions thoroughly before beginning***
 1. Line the Table Side Bracket up as pictured. The top of the bracket should be 8 7/8 inch from the top of the table. (The table side of the suspension cable will wrap around the left middle of the bracket. We want the cable as close to the table as possible. From the left side of the bracket, the furthest right part of the slot should line up with the left side of the table).
 2. Apply some painters tape where the holes will be drilled. This helps to avoid wood tearout.
 3. Using a mechanical pencil while holding the bracket in place, mark the perimeter of the first hole in the bracket.
