@@ -29,7 +29,8 @@
 - 4x - self tapping cap head screws (for induction cooktop mounts)
 - 15x - self tapping cap head screws (for microwave bezel)
 - 2x - philips machine screws (for macerator switch)
-- 2x - machine nuts (for macerator switch)
+- 2x - locking machine nuts (for macerator switch)
+- 4x - washers (for macerator switch)
 - Rubber with adhesive backing
 
 ### Not included in the kit:
