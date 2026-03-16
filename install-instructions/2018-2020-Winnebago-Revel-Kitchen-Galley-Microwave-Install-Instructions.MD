@@ -1,5 +1,7 @@
 # 2018-2020 Winnebago Revel Kitchen Galley Microwave Install Instructions
 
+## While this kit can be installed yourself, for best results we recommend having it professionally installed.
+
 ### Tools Needed:
 
 - Adjustable wrench (not pictured)
