@@ -19,7 +19,7 @@
 - 6x - Hex-Drive Flat Head Machine Screws
 - 6x - Threaded Inserts for Wood
 
-*Be sure to read these instructions thoroughly before beginning*
+***Be sure to read these instructions thoroughly before beginning***
 
 ![1-PXL_20260227_193403413.jpg](2018-2020-Winnebago-Revel-Suspended-Outdoor-Table-Conversion-images/1-PXL_20260227_193403413.jpg)
 ![2-PXL_20260227_194831873.jpg](2018-2020-Winnebago-Revel-Suspended-Outdoor-Table-Conversion-images/2-PXL_20260227_194831873.jpg)
