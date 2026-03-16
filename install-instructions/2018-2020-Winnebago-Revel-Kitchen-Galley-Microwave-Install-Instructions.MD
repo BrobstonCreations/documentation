@@ -1,5 +1,7 @@
 # 2018-2020 Winnebago Revel Kitchen Galley Microwave Install Instructions
 
+### While this kit can be installed yourself, for best results we recommend having it professionally installed
+
 ### Tools Needed:
 
 - Adjustable wrench (not pictured)
@@ -13,7 +15,6 @@
 - Bottle jack
 - Light (optional)
 - 90 degree impact tool (optional)
-- Circular saw (optional)
 
 ![1-tools.jpg](2018-2020-Winnebago-Revel-Kitchen-Galley-Microwave-Install-Instructions-images/1-tools.jpg)
 
@@ -28,8 +29,14 @@
 - 4x - self tapping cap head screws (for induction cooktop mounts)
 - 15x - self tapping cap head screws (for microwave bezel)
 - 2x - philips machine screws (for macerator switch)
-- 2x - machine nuts (for macerator switch)
+- 2x - locking machine nuts (for macerator switch)
+- 4x - washers (for macerator switch)
 - Rubber with adhesive backing
+
+### Not included in the kit:
+- 1x - [Microwave](https://www.walmart.com/ip/Mainstays-0-7-Cu-ft-Countertop-Microwave-Oven-700-Watts-Black-New/5125973778)
+- 1x - 120v 20amp outlet
+- 1x - Single gang electrical box
 
 ## Installation:
 
@@ -61,7 +68,7 @@
 ![12-adjust-15-amp-and-20-amp-electrical.jpg](2018-2020-Winnebago-Revel-Kitchen-Galley-Microwave-Install-Instructions-images/12-adjust-15-amp-and-20-amp-electrical.jpg)
 
 
-10. Install the rear vent. Mark the four outer mounting holes. Mark the corners of the top and bottom vent openings and then drawer a line between each corner to form a rectangle of the area you need to remove. You will likely need to use an oscillating tool to cut this opening. If you are able to use a jigsaw, I would recommend drilling each corner using a drill bit larger than the width of your jigsaw blade.
+10. If you bought the extra large rear vent [follow the instructions here](2018-2020-Winnebago-Revel-Extra-Large-Kitchen-Galley-Rear-Vent-Install-Instructions.MD) otherwise if you bought the small upper vent, follow these instructions: Install the rear vent. Mark the four outer mounting holes. Mark the corners of the top and bottom vent openings and then drawer a line between each corner to form a rectangle of the area you need to remove. You will likely need to use an oscillating tool to cut this opening. If you are able to use a jigsaw, I would recommend drilling each corner using a drill bit larger than the width of your jigsaw blade.
 ![16-install-rear-vent.jpg](2018-2020-Winnebago-Revel-Kitchen-Galley-Microwave-Install-Instructions-images/16-install-rear-vent.jpg)
 
 11. Prepare the bottle jack.

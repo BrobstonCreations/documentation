@@ -1,5 +1,7 @@
 # 2018-2020 Winnebago Revel Suspended Outdoor Table Conversion Install Instructions
 
+### While this kit can be installed yourself, for best results we recommend having it professionally installed
+
 ### Tools Needed:
 - Drill
 - Drill Bits
@@ -19,13 +21,15 @@
 - 6x - Hex-Drive Flat Head Machine Screws
 - 6x - Threaded Inserts for Wood
 
+
 ![1-PXL_20260227_193403413.jpg](2018-2020-Winnebago-Revel-Suspended-Outdoor-Table-Conversion-images/1-PXL_20260227_193403413.jpg)
 ![2-PXL_20260227_194831873.jpg](2018-2020-Winnebago-Revel-Suspended-Outdoor-Table-Conversion-images/2-PXL_20260227_194831873.jpg)
+***Be sure to read these instructions thoroughly before beginning***
 1. Line the Table Side Bracket up as pictured. The top of the bracket should be 8 7/8 inch from the top of the table. (The table side of the suspension cable will wrap around the left middle of the bracket. We want the cable as close to the table as possible. From the left side of the bracket, the furthest right part of the slot should line up with the left side of the table).
 2. Apply some painters tape where the holes will be drilled. This helps to avoid wood tearout.
 3. Using a mechanical pencil while holding the bracket in place, mark the perimeter of the first hole in the bracket.
 4. Set the bracket to the side, using a punch and a hammer, punch the middle of the first hole.
-5. Read these instructions thoroughly before beginning. The goal in the next step is to drill about 10mm into the table without drilling through the other side and then slightly countersink the hole opening so that the threaded insert sits flush with the table. Do one hole at a time before proceeding to the next hole. Be sure to install a drill stop on your drill bit. Start with a small drill bit and work your way up. Double check on the side of the table that the drill bit will not drill all the way through the table. To determine the final drill bit size, compare the drill bit diameter to the inner cyclindrical part of the threaded insert. In my experience, the threaded insert should not be hard to thread in, if it is difficult to thread in, you may need to use the next size drill bit to increase the diameter of the hole. Once the threaded insert is flush with the table, stop tightening; if you over tighten, the insert may crack; this does not seem to effect its performance. If you happen to need to remove an insert, it may be possible with an easy-out. Install the first bolt into the bracket, align the bracket again with the left edge of the table and repeat these steps for the next hole.
+5. The goal in the next step is to drill about 10mm into the table without drilling through the other side and then slightly countersink the hole opening so that the threaded insert sits flush with the table. Do one hole at a time before proceeding to the next hole. Be sure to install a drill stop on your drill bit. Start with a small drill bit and work your way up. Double check on the side of the table that the drill bit will not drill all the way through the table. To determine the final drill bit size, compare the drill bit diameter to the inner cyclindrical part of the threaded insert. In my experience, the threaded insert should not be hard to thread in, if it is difficult to thread in, you may need to use the next size drill bit to increase the diameter of the hole. Once the threaded insert is flush with the table, stop tightening; if you over tighten, the insert may crack; this does not seem to effect its performance. If you happen to need to remove an insert, it may be possible with an easy-out. Install the first bolt into the bracket, align the bracket again with the left edge of the table and repeat these steps for the next hole.
 6. (Optional) Originally I had planned to not drill all the way through the table, but after a short bit of time the top side developed some small cracks. I designed a jig to drill a few relief holes on the top side of the table that will help to avoid the top cracking further. Here is the process: Apply painters tape on the top side, remove the center two bolts, clamp the jig in place, find the drillbit that fits the jig holes, drill the two holes just deep enough to drill through, reinstall the two middle bolts, adjust the clamps, remove the outer two bolts, and repeat the steps.
 ![PXL_20260303_182632828.jpg](2018-2020-Winnebago-Revel-Suspended-Outdoor-Table-Conversion-images/PXL_20260303_182632828.jpg)
 ![PXL_20260303_182857427~2.jpg](2018-2020-Winnebago-Revel-Suspended-Outdoor-Table-Conversion-images/PXL_20260303_182857427~2.jpg)

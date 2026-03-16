@@ -1,12 +1,16 @@
 # 2018-2020 Winnebago Revel Extra Large Kitchen Galley Rear Vent
 
+### While this kit can be installed yourself, for best results we recommend having it professionally installed
+
 ### Tools Needed:
 - Drill
+- Drill bits
 - Impact driver with philips bit or Philips screw driver
 - Jigsaw
 - Oscillating tool
 - Adjustable Wrench
 - Mechanical Pencil
+- Straight edge (for drawing a line between pencil marks)
 
 ### Brackets and fasteners included in the kit:
 - 1x - Extra Large Vent Bracket
