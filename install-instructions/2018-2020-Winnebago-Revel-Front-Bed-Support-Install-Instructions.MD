@@ -1,5 +1,7 @@
 # 2018-2020 Winnebago Revel Front Bed Support
 
+### While this kit can be installed yourself, for best results we recommend having it professionally installed
+
 ### Tools Needed:
 
 - Impact driver or drill
