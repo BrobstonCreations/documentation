@@ -136,3 +136,7 @@ These instructions are very new. It is very likely I left some details out! Plea
 ![PXL_20260305_201256475.jpg](2018-2020-Winnebago-Revel-Countertop-Install-images/PXL_20260305_201256475.jpg)
 ![PXL_20260305_201330760.jpg](2018-2020-Winnebago-Revel-Countertop-Install-images/PXL_20260305_201330760.jpg)
 ![PXL_20260305_201356345.jpg](2018-2020-Winnebago-Revel-Countertop-Install-images/PXL_20260305_201356345.jpg)
+
+
+Check for leaks
+If your top drawer interferes with the sink drain, it may need shortened or trimmed slightly.
