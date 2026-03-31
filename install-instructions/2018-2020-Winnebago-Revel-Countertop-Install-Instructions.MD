@@ -8,7 +8,11 @@
 - Impact driver with philips bit or Philips screw driver
 - 90 degree impact tool
 - Oscillating tool
+- Caulking Gun
 - Sharpie
+
+### Consumables:
+- Silicone Caulk
 
 ### Brackets and fasteners included in the kit:
 - CNC Machined Countertop
