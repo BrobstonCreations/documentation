@@ -64,5 +64,4 @@
 19. Insert the sink faucet (and drinking water faucet if applicable) into the countertop holes. Thread the faucet nut on the bottom but do not install the rest of the faucet components.
 
 20. With the countertop square to the pantry wall, as far forward as possible (after trimming the support), verify overall fitment and trim more of the support if necessary. If you are satisfied with the fitment, using a sharpie or other writing utensil, and begin marking the slots of the countertop mounts between the bracket and the countertop. I would recommend drilling center of the slot as the countertop will expand and contract some as temperatures rise and fall.
-Though I have not done this yet, I would recommend leaving a small gap and/or using a some silicone between the countertop and pantry wall. My setup developed a squeak after installing the new countertop right to the pantry wall.
 ![PXL_20260227_145300377.jpg](2018-2020-Winnebago-Revel-Countertop-Install-images/PXL_20260227_145300377.jpg)
