@@ -99,13 +99,15 @@ These instructions are very new. It is very likely I left some details out! Plea
 28. With the left side mounting hardware installed, angle the sink in as pictured.
 ![PXL_20260227_152345228.MP.jpg](2018-2020-Winnebago-Revel-Countertop-Install-images/PXL_20260227_152345228.MP.jpg)
 ![PXL_20260227_152359900~2.jpg](2018-2020-Winnebago-Revel-Countertop-Install-images/PXL_20260227_152359900~2.jpg)
+![PXL_20260227_152427797.jpg](2018-2020-Winnebago-Revel-Countertop-Install-images/PXL_20260227_152427797.jpg)
 
+29. Uninstall the sink.
 
-29. We need to apply silicone between the sink and the countertop to prevent water from getting below the sink. Tape off the countertop side of the sink and (while not pictured) tape off the sink side also.
+30. We need to apply silicone between the sink and the countertop to prevent water from getting below the sink. Tape off the countertop side of the sink and (while not pictured) tape off the sink side also.
 ![PXL_20260305_195022396.jpg](2018-2020-Winnebago-Revel-Countertop-Install-images/PXL_20260305_195022396.jpg)
 
-30. Apply silicone.
+31. Apply silicone.
 ![PXL_20260305_195506199.jpg](2018-2020-Winnebago-Revel-Countertop-Install-images/PXL_20260305_195506199.jpg)
 
-31. Install sink
+32. Install sink
 ![PXL_20260305_200226072.jpg](2018-2020-Winnebago-Revel-Countertop-Install-images/PXL_20260305_200226072.jpg)
