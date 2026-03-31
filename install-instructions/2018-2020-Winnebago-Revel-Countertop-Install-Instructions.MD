@@ -62,7 +62,7 @@ These instructions are very new. It is very likely I left some details out! Plea
 14. Because of the size and position of the sink, faucets, and slight change in induction cooktop position, you may need to move some of the original brackets holding the countertop to the kitchen galley. Here is a picture of where I positioned mine; your mileage may vary.
 ![PXL_20260305_194508930.jpg](2018-2020-Winnebago-Revel-Countertop-Install-images/PXL_20260305_194508930.jpg)
 
-15. Remove the vanity plate and unscrew the 110v outlet from the front left of the kitchen galley, a spacer will be installed (similar to the one below the bed on the other side of the bathroom).
+15. Remove the vanity plate and unscrew the 120v outlet from the front left of the kitchen galley, a spacer will be installed (similar to the one below the bed on the other side of the bathroom).
 
 16. Without installing any components in it, set the new kitchen galley countertop on top of the kitchen galley.
 
