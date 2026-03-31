@@ -91,10 +91,17 @@ These instructions are very new. It is very likely I left some details out! Plea
 25. Install all the screws to mount the countertop to the kitchen galley and then remove the painters tape.
 ![PXL_20260227_150507238.MP.jpg](2018-2020-Winnebago-Revel-Countertop-Install-images/PXL_20260227_150507238.MP.jpg)
 
-26. While the silicone we will install is definitely enough to hold the sink in place, for safe measure you can install the mounting hardward. For reference, while prototyping I made a second countertop and when uninstalling the sink I had to set the countertop/sink upside down on some 2x4's and sit on the bottom of the sink to get the silicone to release!
+26. Use these new few steps as a test install before we apply silicone. Note: the silicone we will install is enough to hold the sink in place, for safe measure you can install the mounting hardware. For reference, while prototyping I made a second countertop and when uninstalling the sink I had to set the countertop/sink upside down on some 2x4's and sit on the bottom of the sink to get the silicone to release!
 
-27. Install the mounting hardward for the left side (right side if upside down facing forward). With the orange mounting pieces not folded over, insert the orange piece into the opening in the sink and then fold it over and it should click together. Loosely install the metal bracket and screw as pictured. 
+27. Install the mounting hardward for the left side (right side if upside down facing forward). With the orange mounting pieces not folded over, insert the orange piece into the opening in the sink and then fold it over and it should click together. Loosely install the metal bracket and screw as pictured. The sink installation instructions may describe this better than I am.
 ![PXL_20260227_152226215.jpg](2018-2020-Winnebago-Revel-Countertop-Install-images/PXL_20260227_152226215.jpg)
+
+28. 
+![PXL_20260227_152345228.MP.jpg](2018-2020-Winnebago-Revel-Countertop-Install-images/PXL_20260227_152345228.MP.jpg)
+
+29.
+![PXL_20260227_152359900~2.jpg](2018-2020-Winnebago-Revel-Countertop-Install-images/PXL_20260227_152359900~2.jpg)
+
 
 28. We need to apply silicone between the sink and the countertop to prevent water from getting below the sink. Tape off the countertop side of the sink and (while not pictured) tape off the sink side also.
 ![PXL_20260305_195022396.jpg](2018-2020-Winnebago-Revel-Countertop-Install-images/PXL_20260305_195022396.jpg)
