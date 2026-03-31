@@ -74,9 +74,13 @@
 ![PXL_20260227_145321128.MP.jpg](2018-2020-Winnebago-Revel-Countertop-Install-images/PXL_20260227_145321128.MP.jpg)
 ![PXL_20260227_145801009.jpg](2018-2020-Winnebago-Revel-Countertop-Install-images/PXL_20260227_145801009.jpg)
 
-21.
+21. We are going to apply silicone between the countertop and the pantry wall. Use painters tape to tape off the area to help contain the squeeze-out of silicone that will occur when we install the countertop.
 ![PXL_20260305_192607940.jpg](2018-2020-Winnebago-Revel-Countertop-Install-images/PXL_20260305_192607940.jpg)
 ![PXL_20260305_192938975.jpg](2018-2020-Winnebago-Revel-Countertop-Install-images/PXL_20260305_192938975.jpg)
+
+22. Pull the countertop away from the wall and apply silicon to the wall. Press the countertop against the wall. I would wait until you have screwed down the countertop to remove the painters tape.
 ![PXL_20260305_193516721.MP.jpg](2018-2020-Winnebago-Revel-Countertop-Install-images/PXL_20260305_193516721.MP.jpg)
+
+23. Install all the screws to mount the countertop to the kitchen galley and then remove the painters tape.
 ![PXL_20260227_150507238.MP.jpg](2018-2020-Winnebago-Revel-Countertop-Install-images/PXL_20260227_150507238.MP.jpg)
 
