@@ -13,6 +13,7 @@
 
 ### Consumables:
 - Silicone Caulk
+- Painters Tape
 
 ### Brackets and fasteners included in the kit:
 - CNC Machined Countertop
