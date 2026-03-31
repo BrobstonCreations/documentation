@@ -48,17 +48,20 @@
 13. Swap the narrow mount in the back right (near the cooktop) with the wide one from the front left of the kitchen galley. Move the narrow mount into the furthest front left corner. Screw the bracket into the kitchen galley.
 ![PXL_20260227_150836670.jpg](2018-2020-Winnebago-Revel-Countertop-Install-images/PXL_20260227_150836670.jpg)
 
-14. Remove the vanity plate and unscrew the 110v outlet from the front left of the kitchen galley, a spacer will be installed (similar to the one below the bed on the other side of the bathroom).
+14. Because of the size and position of the sink, faucets, and slight change in induction cooktop position, you may need to move some of the original brackets holding the countertop to the kitchen galley. Here is a picture of where I positioned mine; your mileage may vary.
+![PXL_20260305_194508930.jpg](2018-2020-Winnebago-Revel-Countertop-Install-images/PXL_20260305_194508930.jpg)
 
-15. Without installing any components in it, set the new kitchen galley countertop on top of the kitchen galley.
+15. Remove the vanity plate and unscrew the 110v outlet from the front left of the kitchen galley, a spacer will be installed (similar to the one below the bed on the other side of the bathroom).
 
-16. Trim the front support inside the kitchen galley to allow space for the sink. There may be a screw in the area that you are trimming, but sure to remove it before trimming. After you've finished trimming, (and be sure your screw is not too long, you may need to replace it with one shorter) drill a pilot hole with a drill bit stop to limit the depth, and replace the screw.
+16. Without installing any components in it, set the new kitchen galley countertop on top of the kitchen galley.
+
+17. Trim the front support inside the kitchen galley to allow space for the sink. There may be a screw in the area that you are trimming, but sure to remove it before trimming. After you've finished trimming, (and be sure your screw is not too long, you may need to replace it with one shorter) drill a pilot hole with a drill bit stop to limit the depth, and replace the screw.
 ![PXL_20260227_150544943.MP.jpg](2018-2020-Winnebago-Revel-Countertop-Install-images/PXL_20260227_150544943.MP.jpg)
 ![PXL_20260227_150628333.jpg](2018-2020-Winnebago-Revel-Countertop-Install-images/PXL_20260227_150628333.jpg)
 
-17. Test fit the sink in the countertop (don't install the mounting hardware yet).
+18. Test fit the sink in the countertop (don't install the mounting hardware yet).
 
-18. Insert the sink faucet (and drinking water faucet if applicable) into the countertop holes. Thread the faucet nut on the bottom but do not install the rest of the faucet components.
+19. Insert the sink faucet (and drinking water faucet if applicable) into the countertop holes. Thread the faucet nut on the bottom but do not install the rest of the faucet components.
 
-19. With the countertop square to the pantry wall, as far forward as possible (after trimming the support), verify overall fitment and trim more of the support if necessary. If you are satisfied with the fitment, using a sharpie or other writing utensil, and begin marking the slots of the countertop mounts between the bracket and the countertop. I would recommend drilling center of the slot as the countertop will expand and contract some as temperatures rise and fall.
+20. With the countertop square to the pantry wall, as far forward as possible (after trimming the support), verify overall fitment and trim more of the support if necessary. If you are satisfied with the fitment, using a sharpie or other writing utensil, and begin marking the slots of the countertop mounts between the bracket and the countertop. I would recommend drilling center of the slot as the countertop will expand and contract some as temperatures rise and fall.
 Though I have not done this yet, I would recommend leaving a small gap and/or using a some silicone between the countertop and pantry wall. My setup developed a squeak after installing the new countertop right to the pantry wall.
