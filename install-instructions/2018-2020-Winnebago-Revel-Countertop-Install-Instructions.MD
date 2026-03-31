@@ -137,6 +137,12 @@ These instructions are very new. It is very likely I left some details out! Plea
 ![PXL_20260305_201330760.jpg](2018-2020-Winnebago-Revel-Countertop-Install-images/PXL_20260305_201330760.jpg)
 ![PXL_20260305_201356345.jpg](2018-2020-Winnebago-Revel-Countertop-Install-images/PXL_20260305_201356345.jpg)
 
+41. Install the spacer for your 120V outlet as pictured.
+![PXL_20260305_203046602.jpg](2018-2020-Winnebago-Revel-Countertop-Install-images/PXL_20260305_203046602.jpg)
+![PXL_20260305_203103438.jpg](2018-2020-Winnebago-Revel-Countertop-Install-images/PXL_20260305_203103438.jpg)
+![PXL_20260305_203113798.jpg](2018-2020-Winnebago-Revel-Countertop-Install-images/PXL_20260305_203113798.jpg)
+![PXL_20260305_203221560.jpg](2018-2020-Winnebago-Revel-Countertop-Install-images/PXL_20260305_203221560.jpg)
+![PXL_20260305_203228431.jpg](2018-2020-Winnebago-Revel-Countertop-Install-images/PXL_20260305_203228431.jpg)
 
 Check for leaks
 If your top drawer interferes with the sink drain, it may need shortened or trimmed slightly.
