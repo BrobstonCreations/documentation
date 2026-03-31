@@ -71,11 +71,11 @@
 
 20. With the countertop square to the pantry wall, as far forward as possible (after trimming the support), verify overall fitment and trim more of the support if necessary. If you are satisfied with the fitment, using a sharpie or other writing utensil, and begin marking the slots of the countertop mounts between the bracket and the countertop.
 ![PXL_20260227_145300377.jpg](2018-2020-Winnebago-Revel-Countertop-Install-images/PXL_20260227_145300377.jpg)
-![PXL_20260227_145321128.MP.jpg](2018-2020-Winnebago-Revel-Countertop-Install-images/PXL_20260227_145321128.MP.jpg)
-![PXL_20260227_145801009.jpg](2018-2020-Winnebago-Revel-Countertop-Install-images/PXL_20260227_145801009.jpg)
 
 21. Remove the faucets and sink.
 22. I would recommend drilling in the center of the slot that you marked as the countertop will expand and contract some as temperatures rise and fall. Be sure to use a drill bit stop collar and then drill pilot holes into the bottom of the countertop, triple check that you will not drill all the way through the countertop!
+![PXL_20260227_145321128.MP.jpg](2018-2020-Winnebago-Revel-Countertop-Install-images/PXL_20260227_145321128.MP.jpg)
+![PXL_20260227_145801009.jpg](2018-2020-Winnebago-Revel-Countertop-Install-images/PXL_20260227_145801009.jpg)
 
 23. We are going to apply silicone between the countertop and the pantry wall, this should help prevent some sqeaking while driving and also create a seal between the countertop and pantry wall. Use painters tape to tape off the area to help contain the squeeze-out of silicone that will occur when we install the countertop.
 ![PXL_20260305_192607940.jpg](2018-2020-Winnebago-Revel-Countertop-Install-images/PXL_20260305_192607940.jpg)
