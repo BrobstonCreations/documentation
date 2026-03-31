@@ -17,6 +17,7 @@
 
 ### Brackets and fasteners included in the kit:
 - CNC Machined Countertop
+- 120V Outlet Spacer
 
 ## Installation:
 1. Shut off the AC Breakers for the Cooktop and all outlets
