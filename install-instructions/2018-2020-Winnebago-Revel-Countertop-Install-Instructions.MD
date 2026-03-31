@@ -69,26 +69,29 @@
 
 19. Insert the sink faucet (and drinking water faucet if applicable) into the countertop holes. Thread the faucet nut on the bottom but do not install the rest of the faucet components.
 
-20. With the countertop square to the pantry wall, as far forward as possible (after trimming the support), verify overall fitment and trim more of the support if necessary. If you are satisfied with the fitment, using a sharpie or other writing utensil, and begin marking the slots of the countertop mounts between the bracket and the countertop. I would recommend drilling center of the slot as the countertop will expand and contract some as temperatures rise and fall.
+20. With the countertop square to the pantry wall, as far forward as possible (after trimming the support), verify overall fitment and trim more of the support if necessary. If you are satisfied with the fitment, using a sharpie or other writing utensil, and begin marking the slots of the countertop mounts between the bracket and the countertop.
 ![PXL_20260227_145300377.jpg](2018-2020-Winnebago-Revel-Countertop-Install-images/PXL_20260227_145300377.jpg)
 ![PXL_20260227_145321128.MP.jpg](2018-2020-Winnebago-Revel-Countertop-Install-images/PXL_20260227_145321128.MP.jpg)
 ![PXL_20260227_145801009.jpg](2018-2020-Winnebago-Revel-Countertop-Install-images/PXL_20260227_145801009.jpg)
 
-21. We are going to apply silicone between the countertop and the pantry wall, this should help prevent some sqeaking while driving and also create a seal between the countertop and pantry wall. Use painters tape to tape off the area to help contain the squeeze-out of silicone that will occur when we install the countertop.
+21. Remove the faucets and sink.
+22. I would recommend drilling in the center of the slot that you marked as the countertop will expand and contract some as temperatures rise and fall. Be sure to use a drill bit stop collar and then drill pilot holes into the bottom of the countertop, triple check that you will not drill all the way through the countertop!
+
+23. We are going to apply silicone between the countertop and the pantry wall, this should help prevent some sqeaking while driving and also create a seal between the countertop and pantry wall. Use painters tape to tape off the area to help contain the squeeze-out of silicone that will occur when we install the countertop.
 ![PXL_20260305_192607940.jpg](2018-2020-Winnebago-Revel-Countertop-Install-images/PXL_20260305_192607940.jpg)
 ![PXL_20260305_192938975.jpg](2018-2020-Winnebago-Revel-Countertop-Install-images/PXL_20260305_192938975.jpg)
 
-22. Pull the countertop away from the wall and apply silicon to the wall. Press the countertop against the wall. I would wait until you have screwed down the countertop to remove the painters tape.
+24. Pull the countertop away from the wall and apply silicon to the wall. Press the countertop against the wall. I would wait until you have screwed down the countertop to remove the painters tape.
 ![PXL_20260305_193516721.MP.jpg](2018-2020-Winnebago-Revel-Countertop-Install-images/PXL_20260305_193516721.MP.jpg)
 
-23. Install all the screws to mount the countertop to the kitchen galley and then remove the painters tape.
+25. Install all the screws to mount the countertop to the kitchen galley and then remove the painters tape.
 ![PXL_20260227_150507238.MP.jpg](2018-2020-Winnebago-Revel-Countertop-Install-images/PXL_20260227_150507238.MP.jpg)
 
-24. We need to apply silicone between the sink and the countertop to prevent water from getting below the sink. Tape off the countertop side of the sink and (while not pictured) tape off the sink side also.
+26. We need to apply silicone between the sink and the countertop to prevent water from getting below the sink. Tape off the countertop side of the sink and (while not pictured) tape off the sink side also.
 ![PXL_20260305_195022396.jpg](2018-2020-Winnebago-Revel-Countertop-Install-images/PXL_20260305_195022396.jpg)
 
-25. Apply silicone.
+27. Apply silicone.
 ![PXL_20260305_195506199.jpg](2018-2020-Winnebago-Revel-Countertop-Install-images/PXL_20260305_195506199.jpg)
 
-26. Install sink
+28. Install sink
 ![PXL_20260305_200226072.jpg](2018-2020-Winnebago-Revel-Countertop-Install-images/PXL_20260305_200226072.jpg)
