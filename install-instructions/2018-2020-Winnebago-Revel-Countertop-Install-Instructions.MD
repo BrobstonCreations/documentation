@@ -65,3 +65,9 @@
 
 20. With the countertop square to the pantry wall, as far forward as possible (after trimming the support), verify overall fitment and trim more of the support if necessary. If you are satisfied with the fitment, using a sharpie or other writing utensil, and begin marking the slots of the countertop mounts between the bracket and the countertop. I would recommend drilling center of the slot as the countertop will expand and contract some as temperatures rise and fall.
 ![PXL_20260227_145300377.jpg](2018-2020-Winnebago-Revel-Countertop-Install-images/PXL_20260227_145300377.jpg)
+![PXL_20260227_145321128.MP.jpg](2018-2020-Winnebago-Revel-Countertop-Install-images/PXL_20260227_145321128.MP.jpg)
+![PXL_20260227_145801009.jpg](2018-2020-Winnebago-Revel-Countertop-Install-images/PXL_20260227_145801009.jpg)
+
+21.
+![PXL_20260227_150507238.MP.jpg](2018-2020-Winnebago-Revel-Countertop-Install-images/PXL_20260227_150507238.MP.jpg)
+
