@@ -18,6 +18,7 @@ These instructions are very new. It is very likely I left some details out! Plea
 ### Consumables:
 - Silicone Caulk
 - Painters Tape
+- Plumbers Putty
 
 ### Brackets and fasteners included in the kit:
 - CNC Machined Countertop
@@ -118,4 +119,20 @@ These instructions are very new. It is very likely I left some details out! Plea
 34. Be sure not to over tighten! Using a long extension, tighten all four screws for the sink mounting hardware.
 ![PXL_20260227_152601787.jpg](2018-2020-Winnebago-Revel-Countertop-Install-images/PXL_20260227_152601787.jpg)
 
+35. If not already installed, install the sink drain. I would recommend using plumbers putty.
 
+36. Note: The last step of the drain install should be connecting the drain on the sink side, it is possible to accidently push up at the macerator end and break the 90 degree connector between the sink drain and the p-trap. If this happens you will have to order a replacement p-trap (available on Amazon) which is the only place I've been able to find that 90 degree piece.
+
+37. Install the sink drain tube without the p-trap.
+![PXL_20260305_200337847.jpg](2018-2020-Winnebago-Revel-Countertop-Install-images/PXL_20260305_200337847.jpg)
+
+38. Tighten the worm clamps on the coupler above the macerator.
+![PXL_20260305_201548093.jpg](2018-2020-Winnebago-Revel-Countertop-Install-images/PXL_20260305_201548093.jpg)
+
+39. Attach the p-trap to the drain.
+![PXL_20260305_200417173.jpg](2018-2020-Winnebago-Revel-Countertop-Install-images/PXL_20260305_200417173.jpg)
+
+40. Be sure the black seal is inside the 90 degree drain connector. Thread tape should not be necessary here. If you have trouble getting this to seal, it may help.
+![PXL_20260305_201256475.jpg](2018-2020-Winnebago-Revel-Countertop-Install-images/PXL_20260305_201256475.jpg)
+![PXL_20260305_201330760.jpg](2018-2020-Winnebago-Revel-Countertop-Install-images/PXL_20260305_201330760.jpg)
+![PXL_20260305_201356345.jpg](2018-2020-Winnebago-Revel-Countertop-Install-images/PXL_20260305_201356345.jpg)
