@@ -45,7 +45,7 @@
 
 12. Remove old countertop.
 
-13. Swap the narrow mount in the back right (near the cooktop) with the wide one from the front left of the kitchen galley. Move the narrow mount into the furthest front left corner, verify with the countertop sitting on top and the sink sitting in it, that the bracket will not interfere. Screw the bracket into the kitchen galley.
+13. Swap the narrow mount in the back right (near the cooktop) with the wide one from the front left of the kitchen galley. Move the narrow mount into the furthest front left corner. Screw the bracket into the kitchen galley.
 ![PXL_20260227_150836670.jpg](2018-2020-Winnebago-Revel-Countertop-Install-images/PXL_20260227_150836670.jpg)
 
 14. Remove the vanity plate and unscrew the 110v outlet from the front left of the kitchen galley, a spacer will be installed (similar to the one below the bed on the other side of the bathroom).
