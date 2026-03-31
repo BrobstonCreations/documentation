@@ -84,7 +84,11 @@
 23. Install all the screws to mount the countertop to the kitchen galley and then remove the painters tape.
 ![PXL_20260227_150507238.MP.jpg](2018-2020-Winnebago-Revel-Countertop-Install-images/PXL_20260227_150507238.MP.jpg)
 
-24. We need to apply silicone between the sink and the countertop to prevent water from getting below the sink.
+24. We need to apply silicone between the sink and the countertop to prevent water from getting below the sink. Tape off the countertop side of the sink and (while not pictured) tape off the sink side also.
 ![PXL_20260305_195022396.jpg](2018-2020-Winnebago-Revel-Countertop-Install-images/PXL_20260305_195022396.jpg)
+
+25. Apply silicone.
 ![PXL_20260305_195506199.jpg](2018-2020-Winnebago-Revel-Countertop-Install-images/PXL_20260305_195506199.jpg)
+
+26. Install sink
 ![PXL_20260305_200226072.jpg](2018-2020-Winnebago-Revel-Countertop-Install-images/PXL_20260305_200226072.jpg)
