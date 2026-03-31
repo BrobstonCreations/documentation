@@ -43,7 +43,7 @@
 
 11. Remove all screws between the countertop and kitchen galley on either the countertop side or galley side of the bracket, whichever is easiest to remove.
 
-12. Remove old countertop
+12. Remove old countertop.
 
 13. Swap the narrow mount in the back right (near the cooktop) with the wide one from the front left of the kitchen galley. Move the narrow mount into the furthest front left corner, verify with the countertop sitting on top and the sink sitting in it, that the bracket will not interfere. Screw the bracket into the kitchen galley.
 ![PXL_20260227_150836670.jpg](2018-2020-Winnebago-Revel-Countertop-Install-images/PXL_20260227_150836670.jpg)
