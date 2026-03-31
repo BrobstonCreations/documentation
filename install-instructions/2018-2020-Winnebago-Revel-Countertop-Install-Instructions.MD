@@ -85,4 +85,6 @@
 ![PXL_20260227_150507238.MP.jpg](2018-2020-Winnebago-Revel-Countertop-Install-images/PXL_20260227_150507238.MP.jpg)
 
 24. We need to apply silicone between the sink and the countertop to prevent water from getting below the sink.
-
+![PXL_20260305_195022396.jpg](2018-2020-Winnebago-Revel-Countertop-Install-images/PXL_20260305_195022396.jpg)
+![PXL_20260305_195506199.jpg](2018-2020-Winnebago-Revel-Countertop-Install-images/PXL_20260305_195506199.jpg)
+![PXL_20260305_200226072.jpg](2018-2020-Winnebago-Revel-Countertop-Install-images/PXL_20260305_200226072.jpg)
