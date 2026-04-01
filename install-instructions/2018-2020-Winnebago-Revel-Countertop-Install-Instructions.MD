@@ -116,7 +116,7 @@ These instructions are very new. It is very likely I left some details out! Plea
 32. Install sink
 ![PXL_20260305_200226072.jpg](2018-2020-Winnebago-Revel-Countertop-Install-images/PXL_20260305_200226072.jpg)
 
-33. Install the metal bracket and screw into the right side.
+33. Loosely install the metal bracket and screw into the right side.
 ![PXL_20260227_152526302.jpg](2018-2020-Winnebago-Revel-Countertop-Install-images/PXL_20260227_152526302.jpg)
 
 34. Be sure not to over tighten! Using a long extension, tighten all four screws for the sink mounting hardware.
