@@ -6,6 +6,7 @@ These instructions are very new. It is very likely I left some details out! Plea
 
 ### Tools Needed:
 - Adjustable wrench
+- Open ended wrenches
 - Drill
 - Drill bits
 - Drill Stop Bit Collar Set (https://www.amazon.com/dp/B073VS72R3)
