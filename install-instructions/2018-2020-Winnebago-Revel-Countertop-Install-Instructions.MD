@@ -11,9 +11,9 @@ These instructions are very new. It is very likely I left some details out! Plea
 - Open ended wrenches
 - Drill
 - Drill bits
-- Drill Stop Bit Collar Set (https://www.amazon.com/dp/B073VS72R3)
+- Drill Stop Bit Collar Set (https://amzn.to/4tkaDib)
 - Impact driver with philips bit or Philips screw driver
-- 90 degree impact tool
+- 90 degree impact tool (https://amzn.to/3PHXkK0)
 - Oscillating tool
 - Caulking Gun
 - Sharpie
