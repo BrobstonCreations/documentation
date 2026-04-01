@@ -124,7 +124,7 @@ These instructions are very new. It is very likely I left some details out! Plea
 
 35. If not already installed, install the sink drain using plumbers putty as a seal. Here is a short video to show how this is done: https://www.youtube.com/shorts/R2wRkErnFR4
 
-36. Note: The last step of the drain install should be connecting the drain on the sink side, it is possible to accidently push up at the macerator end and break the 90 degree connector between the sink drain and the p-trap. If this happens you will have to order a replacement p-trap (available on Amazon) which is the only place I've been able to find that 90 degree piece.
+36. Note: The last step of the drain install should be connecting the drain on the sink side, it is possible to accidently push up at the macerator end and break the 90 degree connector between the sink drain and the p-trap. If this happens you will have to order a replacement p-trap (available on Amazon https://amzn.to/4dnjBXs) which is the only place I've been able to find that 90 degree piece.
 
 37. Install the sink drain tube without the p-trap.
 ![PXL_20260305_200337847.jpg](2018-2020-Winnebago-Revel-Countertop-Install-images/PXL_20260305_200337847.jpg)
@@ -163,3 +163,5 @@ These instructions are very new. It is very likely I left some details out! Plea
 - Notching the sink
 - Check for leaks on both the pressured line connections and the drain with some water in the sink.
 - If your top drawer interferes with the sink drain, it may need shortened or trimmed slightly.
+
+*This page contains some Amazon Affiliate links, they help me support this project at no cost to you.
