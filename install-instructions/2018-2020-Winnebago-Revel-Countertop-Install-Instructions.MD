@@ -2,6 +2,8 @@ Do you have questions, ideas, or concerns? Feel free to reach out to us on [Face
 
 These instructions are very new. It is very likely I left some details out! Please reach out if something is missing or confusing! I'm happy to help explain and update the documentation to help others in the future!
 
+*This page contains some Amazon Affiliate links, they help me support this project at no cost to you.
+
 # 2018-2020 Winnebago Revel Countertop
 
 ### Tools Needed:
@@ -163,5 +165,3 @@ These instructions are very new. It is very likely I left some details out! Plea
 - Notching the sink
 - Check for leaks on both the pressured line connections and the drain with some water in the sink.
 - If your top drawer interferes with the sink drain, it may need shortened or trimmed slightly.
-
-*This page contains some Amazon Affiliate links, they help me support this project at no cost to you.
