@@ -163,5 +163,6 @@ These instructions are very new. It is very likely I left some details out! Plea
 47. Reinstall the fridge.
 
 - Notching the sink
+- Dimensions for sink drain tubes?
 - Check for leaks on both the pressured line connections and the drain with some water in the sink.
 - If your top drawer interferes with the sink drain, it may need shortened or trimmed slightly.
