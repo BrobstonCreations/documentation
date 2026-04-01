@@ -149,5 +149,7 @@ These instructions are very new. It is very likely I left some details out! Plea
 - Stock Plumbing: For the stock plumbing faucet lines are a bit long, you may need to coil them up and use a clamp to screw them to the inside of the kitchen galley, I would recommend doing this to the right of where the weight of the faucet moves up in down, you don't want that weight to have any obstructions or it may be annoying to use the faucet later. 
 - RoamRig Plumbing: You will need two 12 inch faucet line extensions and one-way valves. If you have a filtered water solution you will also need a t-valve and I would recommend one with a quarter turn shut-off. This t-value can be before the one-way values.
 
+43. Install your induction cooktop. Reinstall the rubber feet on the bottom of the cooktop using the machine screws that were removed when uninstalling the cooktop bracket. In our experience and with the intention to be able to optionally remove the cooktop to cook outside, the mounting hardware is not necessary. The cooktop should have some adhesive backed padding on the underside of the top lip which will help to prevent rattles.
+
 - Check for leaks on both the pressured line connections and the drain with some water in the sink.
 - If your top drawer interferes with the sink drain, it may need shortened or trimmed slightly.
