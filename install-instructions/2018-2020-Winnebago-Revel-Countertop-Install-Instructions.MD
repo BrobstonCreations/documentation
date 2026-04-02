@@ -155,7 +155,7 @@ These instructions are very new. It is very likely I left some details out! Plea
     - 3/8 compression female connector: https://amzn.to/3PK11Pn
 ![PXL_20260402_135444632.jpg](2018-2020-Winnebago-Revel-Countertop-Install-images/PXL_20260402_135444632.jpg)
 ![PXL_20260402_135518361.jpg](2018-2020-Winnebago-Revel-Countertop-Install-images/PXL_20260402_135518361.jpg)
-- RoamRig Plumbing: You will need two 12 inch faucet line extensions and one-way valves. If you have a filtered water solution you will also need a t-valve and I would recommend one with a quarter turn shut-off. This t-value can be before the one-way values.
+- RoamRig Plumbing: You will need two 12 inch faucet line extensions and one-way valves. If you have a filtered water solution you will also need a t-valve and I would recommend one with a quarter turn shut-off. This t-value can be before the one-way values. Unfortunately the t-valve points the opposite direction, but still functions fine otherwise.
     - 3/8 compression 3-way tee-stop valve: https://amzn.to/4dW4OD5
     - 3/8 compression check valve: https://amzn.to/4scEJ6n
     - 12 inch hot/cold line extensions: https://amzn.to/4tsJp9l
