@@ -153,12 +153,14 @@ These instructions are very new. It is very likely I left some details out! Plea
 - Stock Plumbing: The faucet lines are pretty long, you may need to coil them up and use a clamp to screw them to the inside of the kitchen galley, I would recommend doing this to the right of where the weight of the faucet moves up in down, you don't want the weight to have any obstructions when pulling down on the faucet. If you have a filtered water solution you will also need a t-valve and I would recommend one with a quarter turn shut-off.
     - Pex 3-way tee-Stop valve: https://amzn.to/4sNMCQG
     - 3/8 compression female connector: https://amzn.to/3PK11Pn
+
 ![PXL_20260402_135444632.jpg](2018-2020-Winnebago-Revel-Countertop-Install-images/PXL_20260402_135444632.jpg)
 ![PXL_20260402_135518361.jpg](2018-2020-Winnebago-Revel-Countertop-Install-images/PXL_20260402_135518361.jpg)
 - RoamRig Plumbing: You will need two 12 inch faucet line extensions and one-way valves. If you have a filtered water solution you will also need a t-valve and I would recommend one with a quarter turn shut-off. This t-value can be before the one-way values.
     - 3/8 compression 3-way tee-stop valve: https://amzn.to/4dW4OD5
     - 3/8 compression check valve: https://amzn.to/4scEJ6n
     - 12 inch hot/cold line extensions: https://amzn.to/4tsJp9l
+
 ![PXL_20260402_140142014.jpg](2018-2020-Winnebago-Revel-Countertop-Install-images/PXL_20260402_140142014.jpg)
 ![PXL_20260402_140531235.jpg](2018-2020-Winnebago-Revel-Countertop-Install-images/PXL_20260402_140531235.jpg)
 ![PXL_20260402_140549623.jpg](2018-2020-Winnebago-Revel-Countertop-Install-images/PXL_20260402_140549623.jpg)
