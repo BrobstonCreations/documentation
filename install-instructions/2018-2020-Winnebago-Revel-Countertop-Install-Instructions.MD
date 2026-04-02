@@ -150,7 +150,7 @@ These instructions are very new. It is very likely I left some details out! Plea
 ![PXL_20260305_203228431.jpg](2018-2020-Winnebago-Revel-Countertop-Install-images/PXL_20260305_203228431.jpg)
 
 42. Connect the hot and cold sides of your sink faucet.
-- Stock Plumbing: The faucet lines are pretty long, you may need to coil them up and use a clamp to screw them to the inside of the kitchen galley, I would recommend doing this to the right of where the weight of the faucet moves up in down, you don't want the weight to have any obstructions when pulling down on the faucet. If you have a filtered water solution you will also need a t-valve and I would recommend one with a quarter turn shut-off.
+- Stock Plumbing: The faucet lines are pretty long, you may need to coil them up and use a clamp to screw them to the inside of the kitchen galley, I would recommend doing this to the right of where the weight of the faucet moves up in down, you don't want the weight to have any obstructions when pulling down on the faucet. If you have the right tools, you could also cut your hot and cold water lines to be shorter. If you have a filtered water solution you will also need a t-valve and I would recommend one with a quarter turn shut-off.
     - Pex 3-way tee-Stop valve: https://amzn.to/4sNMCQG
     - 3/8 compression female connector: https://amzn.to/3PK11Pn
 ![PXL_20260402_135444632.jpg](2018-2020-Winnebago-Revel-Countertop-Install-images/PXL_20260402_135444632.jpg)
