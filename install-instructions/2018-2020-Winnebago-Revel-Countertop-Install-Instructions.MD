@@ -149,9 +149,14 @@ These instructions are very new. It is very likely I left some details out! Plea
 ![PXL_20260305_203221560.jpg](2018-2020-Winnebago-Revel-Countertop-Install-images/PXL_20260305_203221560.jpg)
 ![PXL_20260305_203228431.jpg](2018-2020-Winnebago-Revel-Countertop-Install-images/PXL_20260305_203228431.jpg)
 
-42. Connect the hot and cold sides of your sink faucet. 
-- Stock Plumbing: The faucet lines are pretty long, you may need to coil them up and use a clamp to screw them to the inside of the kitchen galley, I would recommend doing this to the right of where the weight of the faucet moves up in down, you don't want the weight to have any obstructions when pulling down on the faucet. 
+42. Connect the hot and cold sides of your sink faucet.
+- Stock Plumbing: The faucet lines are pretty long, you may need to coil them up and use a clamp to screw them to the inside of the kitchen galley, I would recommend doing this to the right of where the weight of the faucet moves up in down, you don't want the weight to have any obstructions when pulling down on the faucet.
+![PXL_20260402_135444632.jpg](2018-2020-Winnebago-Revel-Countertop-Install-images/PXL_20260402_135444632.jpg)
+![PXL_20260402_135518361.jpg](2018-2020-Winnebago-Revel-Countertop-Install-images/PXL_20260402_135518361.jpg)
 - RoamRig Plumbing: You will need two 12 inch faucet line extensions and one-way valves. If you have a filtered water solution you will also need a t-valve and I would recommend one with a quarter turn shut-off. This t-value can be before the one-way values.
+![PXL_20260402_140142014.jpg](2018-2020-Winnebago-Revel-Countertop-Install-images/PXL_20260402_140142014.jpg)
+![PXL_20260402_140531235.jpg](2018-2020-Winnebago-Revel-Countertop-Install-images/PXL_20260402_140531235.jpg)
+![PXL_20260402_140549623.jpg](2018-2020-Winnebago-Revel-Countertop-Install-images/PXL_20260402_140549623.jpg)
 
 43. Check for leaks on the pressure lines. I would recommend putting a towel below the sink area. With water in the fresh tank, turn on your water pump, using a flashlight check for leaks on any of the pressure side line connection points. If there are any leaks, tighten the connection point that is leaking; these should have a rubber seal inside them, if you find yourself needing to tighten them excessively, it is possible the rubber seal has shifted and you may need to disassemble, inspect, and realign the seal.
 
