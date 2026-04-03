@@ -7,21 +7,21 @@ These instructions are very new. It is very likely I left some details out! Plea
 # 2018-2020 Winnebago Revel Countertop
 
 ### Tools Needed:
-- Adjustable wrench
-- Open ended wrenches
-- Drill
-- Drill bits
+- Adjustable wrench (https://amzn.to/4bOWCTT)
+- Open ended wrenches (https://amzn.to/4v6Fhxe)
+- Drill (https://amzn.to/3PQku0L)
+- Drill bits (https://amzn.to/4dsnVEO)
 - Drill Stop Bit Collar Set (https://amzn.to/4tkaDib)
-- Impact driver with philips bit or Philips screw driver
+- Impact driver with philips bit or Philips screw driver (https://amzn.to/3PQku0L)
 - 90 degree impact tool (https://amzn.to/3PHXkK0)
-- Oscillating tool
-- Caulking Gun
-- Sharpie
-- Flash light of some sort
+- Oscillating tool (https://amzn.to/4drjfiv)
+- Caulking Gun (https://amzn.to/41dEkFG)
+- Sharpie (https://amzn.to/3OfNoHc)
+- Work light (https://amzn.to/4m6iMV0)
 - Towel
 
 ### Consumables:
-- Silicone Caulk
+- Silicone Caulk 
 - Painters Tape
 - Plumbers Putty
 
