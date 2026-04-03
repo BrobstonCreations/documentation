@@ -2,7 +2,7 @@ Do you have questions, ideas, or concerns? Feel free to reach out to us on [Face
 
 These instructions are very new. It is very likely I left some details out! Please reach out if something is missing or confusing! I'm happy to help explain and update the documentation to help others in the future!
 
-*This page contains some Amazon Affiliate links.
+*This page contains Amazon Affiliate links.
 
 # 2018-2020 Winnebago Revel Countertop
 
