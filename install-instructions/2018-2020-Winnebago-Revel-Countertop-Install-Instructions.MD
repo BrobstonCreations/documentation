@@ -21,9 +21,9 @@ These instructions are very new. It is very likely I left some details out! Plea
 - Towel
 
 ### Consumables:
-- Silicone Caulk 
-- Painters Tape
-- Plumbers Putty
+- Silicone Caulk (https://amzn.to/4v9kCsh)
+- Painters Tape (https://amzn.to/4c0Ak07)
+- Plumbers Putty (https://amzn.to/488RQhG)
 
 ### Brackets and fasteners included in the kit:
 - CNC Machined Countertop
