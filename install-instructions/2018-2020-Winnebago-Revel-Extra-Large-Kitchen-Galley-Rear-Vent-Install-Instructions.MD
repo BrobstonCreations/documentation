@@ -65,6 +65,6 @@ Do you have questions, ideas, or concerns? Feel free to reach out to us on [Face
 21. Reinstall the vent from the outside of the kitchen galley.
 ![6-PXL_20260227_190022052.jpg](2018-2020-Winnebago-Revel-Extra-Large-Kitchen-Galley-Rear-Vent-images/6-PXL_20260227_190022052.jpg)
 
-22. Reinstall all parts that were remove in the reverse order.
+22. Reinstall all parts that were removed in the reverse order.
 
 23. You are finished!
