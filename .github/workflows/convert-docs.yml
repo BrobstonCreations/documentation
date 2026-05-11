@@ -1,0 +1,44 @@
+name: Generate PDF Documentation
+
+on:
+  push:
+    tags:
+      - '*'
+
+jobs:
+  build-pdf:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install md-to-pdf
+        run: npm install -g md-to-pdf
+
+      - name: Convert Markdown to PDF
+        run: |
+          mkdir -p output-pdfs
+          for file in installation-instructions/*.md; do
+            filename=$(basename "$file" .md)
+            echo "Converting $file to output-pdfs/$filename.pdf"
+            md-to-pdf "$file" --output-path "output-pdfs/$filename.pdf"
+          done
+
+      - name: Create GitHub Release
+        id: create_release
+        uses: softprops/action-gh-release@v2
+        with:
+          files: output-pdfs/*.pdf
+          name: Release ${{ github.ref_name }}
+          draft: false
+          prerelease: false
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
