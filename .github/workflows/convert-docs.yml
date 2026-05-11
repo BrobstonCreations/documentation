@@ -33,14 +33,15 @@ jobs:
         run: |
           mkdir -p output-pdfs
 
-          # List files to verify directory structure in logs
           echo "Checking directory contents..."
           ls -R installation-instructions/
 
-          # Find all .md files and convert them
-          # We use find to ensure the shell expands the file list correctly
-          find installation-instructions/ -name "*.md" -type f | while read -r file; do
-            filename=$(basename "$file" .md)
+          # -iname makes the search case-insensitive (*.md and *.MD)
+          find installation-instructions/ -iname "*.md" -type f | while read -r file; do
+            # This strip suffix logic handles both .md and .MD
+            filename=$(basename "$file")
+            filename="${filename%.*}"
+
             echo "Converting $file to output-pdfs/$filename.pdf"
             md-to-pdf "$file" > "output-pdfs/$filename.pdf"
           done
