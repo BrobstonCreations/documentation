@@ -34,16 +34,17 @@ jobs:
           mkdir -p output-pdfs
 
           echo "Checking directory contents..."
-          # Corrected path: install-instructions
           ls -R install-instructions/
 
-          # Case-insensitive search for .MD and .md files
+          # Find all .md files (case-insensitive) and convert
           find install-instructions/ -iname "*.md" -type f | while read -r file; do
             filename=$(basename "$file")
             filename="${filename%.*}"
 
             echo "Converting $file to output-pdfs/$filename.pdf"
-            md-to-pdf "$file" > "output-pdfs/$filename.pdf"
+
+            # The key fix: --launch-options sets Chromium to --no-sandbox
+            md-to-pdf "$file" --launch-options '{ "args": ["--no-sandbox"] }' > "output-pdfs/$filename.pdf"
           done
 
       - name: Create GitHub Release
