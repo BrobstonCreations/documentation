@@ -31,25 +31,14 @@ jobs:
 
       - name: Convert Markdown to PDF
         run: |
-          mkdir -p output-pdfs
-
-          # Find each .MD file and process one by one
-          find install-instructions/ -iname "*.md" -type f | while read -r file; do
-            # Get the filename without path or extension
-            filename=$(basename "$file")
-            filename="${filename%.*}"
-
-            echo "Processing: $file"
-
-            # Use redirection (>) to save the file, which avoids the --output-path error
-            md-to-pdf "$file" --launch-options '{ "args": ["--no-sandbox"] }' > "output-pdfs/$filename.pdf"
-          done
+          chmod +x ./scripts/generate-pdfs.sh
+          ./scripts/generate-pdfs.sh
 
       - name: Create GitHub Release
         id: create_release
         uses: softprops/action-gh-release@v2
         with:
-          files: output-pdfs/*.pdf
+          files: install-instructions/*.pdf
           tag_name: ${{ github.event.inputs.version_number || github.ref_name }}
           name: Release ${{ github.event.inputs.version_number || github.ref_name }}
           draft: false
