@@ -33,21 +33,16 @@ jobs:
         run: |
           mkdir -p output-pdfs
 
-          # 1. Get the list of files into a variable
-          FILES=$(find install-instructions/ -iname "*.md" -type f)
-
-          # 2. Loop through them explicitly
-          for file in $FILES; do
-            # Extract just the filename without the path or extension
+          # Find each .MD file and process one by one
+          find install-instructions/ -iname "*.md" -type f | while read -r file; do
+            # Get the filename without path or extension
             filename=$(basename "$file")
             filename="${filename%.*}"
 
             echo "Processing: $file"
 
-            # 3. Run the command once for EACH file found
-            md-to-pdf "$file" \
-              --launch-options '{ "args": ["--no-sandbox"] }' \
-              --output-path "output-pdfs/$filename.pdf"
+            # Use redirection (>) to save the file, which avoids the --output-path error
+            md-to-pdf "$file" --launch-options '{ "args": ["--no-sandbox"] }' > "output-pdfs/$filename.pdf"
           done
 
       - name: Create GitHub Release
