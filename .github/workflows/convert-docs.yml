@@ -34,10 +34,10 @@ jobs:
           mkdir -p output-pdfs
 
           echo "Checking directory contents..."
-          ls -R installation-instructions/
+          ls -R install-instructions/
 
           # -iname makes the search case-insensitive (*.md and *.MD)
-          find installation-instructions/ -iname "*.md" -type f | while read -r file; do
+          find install-instructions/ -iname "*.md" -type f | while read -r file; do
             # This strip suffix logic handles both .md and .MD
             filename=$(basename "$file")
             filename="${filename%.*}"
