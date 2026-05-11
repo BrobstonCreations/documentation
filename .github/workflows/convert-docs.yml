@@ -7,9 +7,9 @@ on:
   workflow_dispatch:
     inputs:
       version_number:
-        description: 'Version Number (e.g., v1.0.5)'
+        description: 'Version Number (e.g., 1.0.1)'
         required: true
-        default: 'v1.0.0'
+        default: '1.0.0'
 
 jobs:
   build-pdf:
@@ -43,7 +43,7 @@ jobs:
 
             echo "Converting $file to output-pdfs/$filename.pdf"
 
-            # The key fix: --launch-options sets Chromium to --no-sandbox
+            # Chromium requires --no-sandbox to run in GitHub's environment
             md-to-pdf "$file" --launch-options '{ "args": ["--no-sandbox"] }' > "output-pdfs/$filename.pdf"
           done
 
