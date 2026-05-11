@@ -5,6 +5,11 @@ on:
     tags:
       - '*'
   workflow_dispatch:
+    inputs:
+      version_number:
+        description: 'Version Number (e.g., v1.0.5)'
+        required: true
+        default: 'v1.0.0'
 
 jobs:
   build-pdf:
@@ -30,7 +35,8 @@ jobs:
           for file in installation-instructions/*.md; do
             filename=$(basename "$file" .md)
             echo "Converting $file to output-pdfs/$filename.pdf"
-            md-to-pdf "$file" --output-path "output-pdfs/$filename.pdf"
+            # Using redirection (>) instead of --output-path to avoid ArgErrors
+            md-to-pdf "$file" > "output-pdfs/$filename.pdf"
           done
 
       - name: Create GitHub Release
@@ -38,7 +44,8 @@ jobs:
         uses: softprops/action-gh-release@v2
         with:
           files: output-pdfs/*.pdf
-          name: Release ${{ github.ref_name }}
+          tag_name: ${{ github.event.inputs.version_number || github.ref_name }}
+          name: Release ${{ github.event.inputs.version_number || github.ref_name }}
           draft: false
           prerelease: false
         env:
