@@ -27,7 +27,7 @@ Do you have questions, ideas, or concerns? Feel free to reach out to us on [Face
 - 1x - Microwave shelf bracket
 - 1x - Induction cooktop spacer
 - 1x - Induction cooktop mount brackets
-- 1x - Kitchen Galley vent bracket
+- 1x - (if purchased) Large Kitchen Galley rear vent bracket
 - 8x - self tapping countersunk head screws (for shelf)
 - 4x - self tapping cap head screws (for induction cooktop mounts)
 - 15x - self tapping cap head screws (for microwave bezel)
