@@ -24,13 +24,13 @@ Do you have questions, ideas, or concerns? Feel free to reach out to us on [Face
 - 1x - lower rear cover
 - 1x - pantry door
 - 4x - drawer slides
-- 10x - 1/8th inch 3D printed spacers
-- 1x - pack of shims
 - 20x - 22mm M4 flat head machine screws
 - 44x - 15mm M5 button head machine screws
 - 16x - 8mm M5 button head machine screws
 - 20x - M5 locknuts
 - 12x - phillips rounded head screws
+- 10x - 1/8th inch 3D printed spacers
+- 1x - pack of shims
 - 1x - plywood pantry slider jig
 
 ![PXL_20260818_195611678](./Winnebago-Revel-Slideout-Pantry-images/PXL_20260818_195611678.jpg)
