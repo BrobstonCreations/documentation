@@ -7,6 +7,8 @@ Do you have questions, ideas, or concerns? Feel free to reach out to us on [Face
 ### Tools Needed:
 - Drill
 - Phillips bit
+- Drill to socket adapter
+- Metric hex socket set
 - Scissors
 
 ### Brackets and fasteners included in the kit:
