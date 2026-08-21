@@ -68,13 +68,18 @@ Note: The textured side of the shelves are intended to be facing up.
 ![PXL_20260820_194033170.MP](./Winnebago-Revel-Slideout-Pantry-images/PXL_20260820_194033170.MP.jpg)
 ![PXL_20260820_194048348~2](./Winnebago-Revel-Slideout-Pantry-images/PXL_20260820_194048348~2.jpg)
 ![PXL_20260820_194221186~2](./Winnebago-Revel-Slideout-Pantry-images/PXL_20260820_194221186~2.jpg)
+15. Locate the pantry door and lay it face down.
 ![PXL_20260820_194355593](./Winnebago-Revel-Slideout-Pantry-images/PXL_20260820_194355593.jpg)
+16. Set the upper and lower assemblies onto the back side of the pantry door. The latch should be on the left if you are facing the front.
 ![PXL_20260820_194615775](./Winnebago-Revel-Slideout-Pantry-images/PXL_20260820_194615775.jpg)
+17. Install and partially tighten the phillips rounded head screws. Later when we install the pantry we will adjust the alignment of the door inside of the pantry opening. The frame has slots rather than holes to allow for this adjustment.
 ![PXL_20260820_194752603](./Winnebago-Revel-Slideout-Pantry-images/PXL_20260820_194752603.jpg)
+18. Using eight 15mm long M5 button head machine screws, install the middle back cover. In order to install the lowest two holes the lower fixed shelf will need most (or all) of the M4 fasteners removed. The shelf can be angled or removed and then reinstalled after the lowest two machine screws are installed.
 ![PXL_20260820_194909391](./Winnebago-Revel-Slideout-Pantry-images/PXL_20260820_194909391.jpg)
 ![PXL_20260820_195150122.MP](./Winnebago-Revel-Slideout-Pantry-images/PXL_20260820_195150122.MP.jpg)
 ![PXL_20260820_195232629](./Winnebago-Revel-Slideout-Pantry-images/PXL_20260820_195232629.jpg)
 ![PXL_20260820_195303466](./Winnebago-Revel-Slideout-Pantry-images/PXL_20260820_195303466.jpg)
+19. Using twenty 15mm long M5 button head machine screws and eight M5 locknuts install both of the middle section shelves and shel sides.
 ![PXL_20260820_200337266](./Winnebago-Revel-Slideout-Pantry-images/PXL_20260820_200337266.jpg)
 ![PXL_20260820_200437502](./Winnebago-Revel-Slideout-Pantry-images/PXL_20260820_200437502.jpg)
 ![PXL_20260820_200609476](./Winnebago-Revel-Slideout-Pantry-images/PXL_20260820_200609476.jpg)
