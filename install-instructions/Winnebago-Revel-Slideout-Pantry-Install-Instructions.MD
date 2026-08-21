@@ -12,6 +12,19 @@ Do you have questions, ideas, or concerns? Feel free to reach out to us on [Face
 - Scissors
 
 ### Brackets and fasteners included in the kit:
+- 8x - 5052 Aluminum Laser cut, bent, and powder coated frame parts.
+- 2x - fixed shelves
+- 1x - upper adjustable shelf, shelf sides, four bungees, and c-clips
+- 2x - middle adjustable shelf, shelf sides, four bungees, and c-clips
+- 1x - lower adjustable shelf, shelf sides, four bungees, and c-clips
+- 1x - upper rear cover
+- 1x - middle rear cover
+- 1x - lower rear cover
+- 1x - pantry door
+- 1x - plywood pantry slider jig
+- 10x - 1/8th inch 3D printed spacers
+- 1x - pack of shims
+
 
 ![PXL_20260818_195611678](./Winnebago-Revel-Slideout-Pantry-images/PXL_20260818_195611678.jpg)
 
