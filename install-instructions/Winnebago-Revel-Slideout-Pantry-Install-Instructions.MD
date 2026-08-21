@@ -33,8 +33,8 @@ Do you have questions, ideas, or concerns? Feel free to reach out to us on [Face
 - 20x - M5 locknuts
 - 12x - phillips rounded head screws
 - 10x - 1/8th inch 3D printed spacers
-- 6x - 2 in number 7 phillips flat head wood screw
-- 10x - 1.5 in number 7 phillips flat head wood screw
+- 6x - 2 in number 7 phillips flat head wood screws
+- 10x - 1.5 in number 7 phillips flat head wood screws
 - 1x - pack of shims
 - 1x - plywood pantry slider jig
 
