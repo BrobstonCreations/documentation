@@ -9,6 +9,7 @@ Do you have questions, ideas, or concerns? Feel free to reach out to us on [Face
 - Phillips bit
 - Drill to socket adapter
 - Metric hex socket set
+- 90 degree impact tool
 - Scissors
 
 ### Brackets and fasteners included in the kit:
