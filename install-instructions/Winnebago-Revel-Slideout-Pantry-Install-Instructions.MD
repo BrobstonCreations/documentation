@@ -22,12 +22,14 @@ There are six main steps:
 5. Install frame replacement trim.
 6. Install pantry drawer.
 
-There are a handful of steps that are very similar, in the first iteration I will describe the whole process and these steps will be repeated but I will omit the lengthy description.
+Note: There are a handful of steps that are very similar, in the first iteration I will describe the whole process and these steps will be repeated but I will omit the lengthy description.
+Note: I would recommend using a drill with a clutch to avoid over-tightening these bolts during install. I ran my clutch at 5 or 6.
+Note: The textured side of the shelves are intended to be facing up.
 
 ### Assemble pantry drawer
 1. Locate ten M4 flat head machine screws, two of the drawer side inserts from the drawer slides, the lower front right, lower front left, lower back right, and lower back left black frame pieces.
 ![PXL_20260820_185720315](./Winnebago-Revel-Slideout-Pantry-images/PXL_20260820_185720315.jpg)
-2. The black metal frame pieces will be sandwhiched between the drawer slide and the shelf. The textured side of the shelf is intended to be facing up. From the outside in it is: bolt -> drawer slide -> metal frame -> shelf. I have not had any issues, but if you wish you can add blue loctite to these bolts to ensure they don't rattle loose.
+2. The black metal frame pieces will be sandwhiched between the drawer slide and the shelf. From the outside in it is: bolt -> drawer slide -> metal frame -> shelf. I have not had any issues, but if you wish you can add blue loctite to these bolts to ensure they don't rattle loose.
 ![PXL_20260820_190216631~2](./Winnebago-Revel-Slideout-Pantry-images/PXL_20260820_190216631~2.jpg)
 ![PXL_20260820_190323012](./Winnebago-Revel-Slideout-Pantry-images/PXL_20260820_190323012.jpg)
 ![PXL_20260820_190359445](./Winnebago-Revel-Slideout-Pantry-images/PXL_20260820_190359445.jpg)
@@ -35,7 +37,7 @@ There are a handful of steps that are very similar, in the first iteration I wil
 ![PXL_20260820_190643716](./Winnebago-Revel-Slideout-Pantry-images/PXL_20260820_190643716.jpg)
 4. Flip the assembly so that the back side is facing down.
 ![PXL_20260820_191215748](./Winnebago-Revel-Slideout-Pantry-images/PXL_20260820_191215748.jpg)
-5. Using four 8mm long M5 button head machine screws, install the 1/2 thick lower back cover.
+5. Using four 8mm long M5 button head machine screws, install the lower back cover.
 ![PXL_20260820_191337492](./Winnebago-Revel-Slideout-Pantry-images/PXL_20260820_191337492.jpg)
 6. Using five 15mm long M5 button head machine screws and two M5 locknuts, install the lowest shelf as pictured. Three bolts are inserted into the threaded inserts in the shelves and two bolts are retained by locknuts installed from the other side.
 ![PXL_20260820_191654544.MP](./Winnebago-Revel-Slideout-Pantry-images/PXL_20260820_191654544.MP.jpg)
@@ -54,10 +56,11 @@ There are a handful of steps that are very similar, in the first iteration I wil
 11. Using the same steps as the lower assembly, assemble the upper assembly.
 ![PXL_20260820_192808252](./Winnebago-Revel-Slideout-Pantry-images/PXL_20260820_192808252.jpg)
 ![PXL_20260820_193005070](./Winnebago-Revel-Slideout-Pantry-images/PXL_20260820_193005070.jpg)
-12. Flip this assembly so that the front is facing down.
+12. Flip this assembly so that the front is facing down and the top if facing towards you.
 ![PXL_20260820_193131225](./Winnebago-Revel-Slideout-Pantry-images/PXL_20260820_193131225.jpg)
+13. Using four 8mm long M5 button head machine screws, install the upper back cover.
 ![PXL_20260820_193342443](./Winnebago-Revel-Slideout-Pantry-images/PXL_20260820_193342443.jpg)
-![PXL_20260820_193557509](./Winnebago-Revel-Slideout-Pantry-images/PXL_20260820_193557509.jpg)
+14. Using ten 15mm long M5 button head machine screws and four M5 locknuts install the upper shelf and shelf sides.
 ![PXL_20260820_193742999](./Winnebago-Revel-Slideout-Pantry-images/PXL_20260820_193742999.jpg)
 ![PXL_20260820_193828158](./Winnebago-Revel-Slideout-Pantry-images/PXL_20260820_193828158.jpg)
 ![PXL_20260820_193838614](./Winnebago-Revel-Slideout-Pantry-images/PXL_20260820_193838614.jpg)
