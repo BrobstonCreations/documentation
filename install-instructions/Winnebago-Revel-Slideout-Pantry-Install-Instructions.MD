@@ -58,7 +58,7 @@ There are six main steps:
 
 **Note:** The textured side of the shelves are intended to be facing up.
 
-**Note:** I have not had any issues, but if you wish you can add blue loctite to these bolts to ensure they don't rattle loose.
+**Note:** I have not had any issues, but if you wish you can add blue loctite on the threads of the bolts going into the heat set inserts in the plastic to ensure they don't rattle loose.
 
 ### Assemble pantry drawer
 1. Locate ten M4 flat head machine screws, two of the drawer side inserts from the drawer slides, the lower front right, lower front left, lower back right, and lower back left black frame pieces.
