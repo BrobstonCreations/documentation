@@ -45,11 +45,11 @@ Do you have questions, ideas, or concerns? Feel free to reach out to us on [Face
 ## Installation:
 There are six main steps:
 1. Assemble pantry drawer
-2. Deconstruct original pantry.
-3. Use the provided jig to create the holes for the drawer slides.
-4. Install and shim drawer slides.
-5. Install frame replacement trim.
-6. Install pantry drawer.
+2. Deconstruct original pantry
+3. Use the provided jig to create the holes for the drawer slides
+4. Install and shim drawer slides
+5. Install frame replacement trim
+6. Install pantry drawer
 
 Note: There are a handful of steps that are very similar, in the first iteration I will describe the whole process and these steps will be repeated but I will omit the lengthy description.
 Note: I would recommend using a drill with a clutch to avoid over-tightening these bolts during install. I ran my clutch at 5 or 6.
@@ -135,3 +135,13 @@ Note: The textured side of the shelves are intended to be facing up.
 ![PXL_20260820_211712551](./Winnebago-Revel-Slideout-Pantry-images/PXL_20260820_211712551.jpg)
 ![PXL_20260820_211726834](./Winnebago-Revel-Slideout-Pantry-images/PXL_20260820_211726834.jpg)
 27. Repeat this process with the bungee cords as you see fit.
+
+### Deconstruct original pantry
+
+### Use the provided jig to create the holes for the drawer slides
+
+### Install and shim drawer slides
+
+### Install frame replacement trim
+
+### Install pantry drawer
