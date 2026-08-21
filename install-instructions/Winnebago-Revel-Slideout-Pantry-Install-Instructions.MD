@@ -10,6 +10,7 @@ Do you have questions, ideas, or concerns? Feel free to reach out to us on [Face
 - Drill to socket adapter
 - Metric hex socket set
 - 90 degree impact tool
+- Flat head screw driver
 - Scissors
 
 ### Brackets and fasteners included in the kit:
@@ -22,10 +23,15 @@ Do you have questions, ideas, or concerns? Feel free to reach out to us on [Face
 - 1x - middle rear cover
 - 1x - lower rear cover
 - 1x - pantry door
-- 1x - plywood pantry slider jig
+- 4x - drawer slides
 - 10x - 1/8th inch 3D printed spacers
 - 1x - pack of shims
-
+- 20x - 22mm M4 flat head machine screws
+- 44x - 15mm M5 button head machine screws
+- 16x - 8mm M5 button head machine screws
+- 20x - M5 locknuts
+- 12x - phillips rounded head screws
+- 1x - plywood pantry slider jig
 
 ![PXL_20260818_195611678](./Winnebago-Revel-Slideout-Pantry-images/PXL_20260818_195611678.jpg)
 
@@ -66,7 +72,7 @@ Note: The textured side of the shelves are intended to be facing up.
 ![PXL_20260820_191850893](./Winnebago-Revel-Slideout-Pantry-images/PXL_20260820_191850893.jpg)
 7. Flip this assembly 180 degrees horizontally.
 ![PXL_20260820_191956313](./Winnebago-Revel-Slideout-Pantry-images/PXL_20260820_191956313.jpg)
-8. Use seven 5mm long M5 button head machine screws and four M5 locknuts, install the lower section right side cover. Three bolts are inserted into the threaded inserts in the shelves and four bolts are retained by locknuts installed from the other side.
+8. Use seven 8mm long M5 button head machine screws and four M5 locknuts, install the lower section right side cover. Three bolts are inserted into the threaded inserts in the shelves and four bolts are retained by locknuts installed from the other side.
 ![PXL_20260820_192017856](./Winnebago-Revel-Slideout-Pantry-images/PXL_20260820_192017856.jpg)
 ![PXL_20260820_192058842](./Winnebago-Revel-Slideout-Pantry-images/PXL_20260820_192058842.jpg)
 9. Set this lower assembly to the side.
