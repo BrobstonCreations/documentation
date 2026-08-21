@@ -52,9 +52,11 @@ There are six main steps:
 5. Install frame replacement trim
 6. Install pantry drawer
 
-Note: There are a handful of steps that are very similar, in the first iteration I will describe the whole process and these steps will be repeated but I will omit the lengthy description.
-Note: I would recommend using a drill with a clutch to avoid over-tightening these bolts during install. I ran my clutch at 5 or 6.
-Note: The textured side of the shelves are intended to be facing up.
+**Note:** There are a handful of steps that are very similar, in the first iteration I will describe the whole process and these steps will be repeated but I will omit the lengthy description.
+
+**Note:** I would recommend using a drill with a clutch to avoid over-tightening these bolts during install. I ran my clutch at 5 or 6.
+
+**Note:** The textured side of the shelves are intended to be facing up.
 
 ### Assemble pantry drawer
 1. Locate ten M4 flat head machine screws, two of the drawer side inserts from the drawer slides, the lower front right, lower front left, lower back right, and lower back left black frame pieces.
