@@ -53,6 +53,7 @@ There are a handful of steps that are very similar, in the first iteration I wil
 ![PXL_20260820_192558452](./Winnebago-Revel-Slideout-Pantry-images/PXL_20260820_192558452.jpg)
 11. Using the same steps as the lower assembly, assemble the upper assembly.
 ![PXL_20260820_192808252](./Winnebago-Revel-Slideout-Pantry-images/PXL_20260820_192808252.jpg)
+![PXL_20260820_192821437](./Winnebago-Revel-Slideout-Pantry-images/PXL_20260820_192821437.jpg)
 ![PXL_20260820_193005070](./Winnebago-Revel-Slideout-Pantry-images/PXL_20260820_193005070.jpg)
 12. Flip this assembly so that the front is facing down.
 ![PXL_20260820_193131225](./Winnebago-Revel-Slideout-Pantry-images/PXL_20260820_193131225.jpg)
