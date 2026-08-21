@@ -10,6 +10,9 @@ Do you have questions, ideas, or concerns? Feel free to reach out to us on [Face
 
 ![PXL_20260818_195611678](./Winnebago-Revel-Slideout-Pantry-images/PXL_20260818_195611678.jpg)
 
+### Not included in the kit:
+- Loctite (not necessary, but can be used)
+
 ## Installation:
 There are six main steps:
 1. Assemble pantry drawer
@@ -19,10 +22,16 @@ There are six main steps:
 5. Install frame replacement trim.
 6. Install pantry drawer.
 
+There are a handful of steps that are very similar, in the first iteration I will describe the whole process and these steps will be repeated but I will omit the lengthy description.
+
+### Assemble pantry drawer
+1. You will need ten m4 flat head machine screws, two of the drawer side inserts from the drawer slides, the lower front right, lower front left, lower back right, and lower back left black frame pieces.
 ![PXL_20260820_185720315](./Winnebago-Revel-Slideout-Pantry-images/PXL_20260820_185720315.jpg)
+2. The black metal frame pieces will be sandwhiched between the drawer slide and the shelf. The textured side of the shelf is intended to be facing up. From the outside in it is: bolt -> drawer slide -> metal frame -> shelf. I have not had any issues, but if you wish you can add blue loctite to these bolts to ensure they don't rattle loose.
 ![PXL_20260820_190216631~2](./Winnebago-Revel-Slideout-Pantry-images/PXL_20260820_190216631~2.jpg)
 ![PXL_20260820_190323012](./Winnebago-Revel-Slideout-Pantry-images/PXL_20260820_190323012.jpg)
 ![PXL_20260820_190359445](./Winnebago-Revel-Slideout-Pantry-images/PXL_20260820_190359445.jpg)
+3. Flip this assembly 180 degrees horizontally and assemble the opposite side the same way.
 ![PXL_20260820_190643716](./Winnebago-Revel-Slideout-Pantry-images/PXL_20260820_190643716.jpg)
 ![PXL_20260820_191215748](./Winnebago-Revel-Slideout-Pantry-images/PXL_20260820_191215748.jpg)
 ![PXL_20260820_191337492](./Winnebago-Revel-Slideout-Pantry-images/PXL_20260820_191337492.jpg)
