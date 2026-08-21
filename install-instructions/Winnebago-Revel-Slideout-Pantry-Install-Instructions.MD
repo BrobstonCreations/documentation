@@ -14,7 +14,7 @@ Do you have questions, ideas, or concerns? Feel free to reach out to us on [Face
 ![PXL_20260818_195611678](./Winnebago-Revel-Slideout-Pantry-images/PXL_20260818_195611678.jpg)
 
 ### Not included in the kit:
-- Loctite (not necessary, but can be used)
+- Loctite (not required, but can be used)
 
 ## Installation:
 There are six main steps:
