@@ -15,13 +15,15 @@ Do you have questions, ideas, or concerns? Feel free to reach out to us on [Face
 
 ### Brackets and fasteners included in the kit:
 - 8x - 5052 Aluminum Laser cut, bent, and powder coated frame parts.
-- 2x - fixed shelves
-- 1x - upper adjustable shelf, shelf sides, four bungees, and c-clips
-- 2x - middle adjustable shelf, shelf sides, four bungees, and c-clips
-- 1x - lower adjustable shelf, shelf sides, four bungees, and c-clips
-- 1x - upper rear cover
-- 1x - middle rear cover
-- 1x - lower rear cover
+- 2x - HDPE fixed shelves
+- 1x - HDPE upper adjustable shelf, shelf sides, four bungees, and c-clips
+- 2x - HDPE middle adjustable shelf, shelf sides, four bungees, and c-clips
+- 1x - HDPE lower adjustable shelf, shelf sides, four bungees, and c-clips
+- 1x - HDPE upper rear cover
+- 1x - HDPE middle rear cover
+- 1x - HDPE lower rear cover
+- 1x - HDPE upper trim frame replacement
+- 1x - HDPE lower trim frame replacement
 - 1x - pantry door
 - 4x - drawer slides
 - 20x - 22mm M4 flat head machine screws
@@ -30,6 +32,8 @@ Do you have questions, ideas, or concerns? Feel free to reach out to us on [Face
 - 20x - M5 locknuts
 - 12x - phillips rounded head screws
 - 10x - 1/8th inch 3D printed spacers
+- 6x - 2 inch Number 7 phillips flat head wood screw
+- 10x - 1.5 inch Number 7 phillips flat head wood screw
 - 1x - pack of shims
 - 1x - plywood pantry slider jig
 
