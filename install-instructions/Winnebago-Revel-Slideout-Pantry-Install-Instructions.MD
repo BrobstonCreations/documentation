@@ -54,7 +54,7 @@ There are six main steps:
 
 **Note:** There are a handful of steps that are very similar, in the first iteration I will describe the whole process and these steps will be repeated but I will omit the lengthy description after the first.
 
-**Note:** I would recommend using a drill with a clutch to avoid over-tightening these bolts during install. I ran my clutch at 5 or 6.
+**Note:** I would recommend using a drill with a clutch to avoid over-tightening these bolts during install. I ran my clutch at 5.
 
 **Note:** The textured side of the shelves are intended to be facing up.
 
