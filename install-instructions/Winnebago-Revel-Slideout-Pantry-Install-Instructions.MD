@@ -8,6 +8,8 @@ Do you have questions, ideas, or concerns? Feel free to reach out to us on [Face
 
 ### Brackets and fasteners included in the kit:
 
+![PXL_20260818_195611678](./Winnebago-Revel-Slideout-Pantry-images/PXL_20260818_195611678.jpg)
+
 ## Installation:
 There are six main steps:
 1. Assemble pantry drawer
@@ -17,7 +19,6 @@ There are six main steps:
 5. Install frame replacement trim.
 6. Install pantry drawer.
 
-![PXL_20260818_195611678](./Winnebago-Revel-Slideout-Pantry-images/PXL_20260818_195611678.jpg)
 ![PXL_20260820_185720315](./Winnebago-Revel-Slideout-Pantry-images/PXL_20260820_185720315.jpg)
 ![PXL_20260820_190216631~2](./Winnebago-Revel-Slideout-Pantry-images/PXL_20260820_190216631~2.jpg)
 ![PXL_20260820_190323012](./Winnebago-Revel-Slideout-Pantry-images/PXL_20260820_190323012.jpg)
