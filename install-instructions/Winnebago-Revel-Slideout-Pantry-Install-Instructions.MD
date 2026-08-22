@@ -202,6 +202,7 @@ Do you have questions, ideas, or concerns? Feel free to reach out to us on [Face
 ![PXL_20260822_161318592](./Winnebago-Revel-Slideout-Pantry-images/PXL_20260822_161318592.jpg)
 ![PXL_20260822_161341989](./Winnebago-Revel-Slideout-Pantry-images/PXL_20260822_161341989.jpg)
 ![PXL_20260822_162631042](./Winnebago-Revel-Slideout-Pantry-images/PXL_20260822_162631042.jpg)
+![PXL_20260822_170443264](./Winnebago-Revel-Slideout-Pantry-images/PXL_20260822_170443264.jpg)
 
 ### 5. Install frame replacement trim
 ![PXL_20260822_164541558](./Winnebago-Revel-Slideout-Pantry-images/PXL_20260822_164541558.jpg)
@@ -247,7 +248,3 @@ Do you have questions, ideas, or concerns? Feel free to reach out to us on [Face
 ![PXL_20260822_170952859](./Winnebago-Revel-Slideout-Pantry-images/PXL_20260822_170952859.jpg)
 ![PXL_20260822_171211984](./Winnebago-Revel-Slideout-Pantry-images/PXL_20260822_171211984.jpg)
 ![PXL_20260822_171216841](./Winnebago-Revel-Slideout-Pantry-images/PXL_20260822_171216841.jpg)
-
-
-
-![PXL_20260822_170443264](./Winnebago-Revel-Slideout-Pantry-images/PXL_20260822_170443264.jpg)
