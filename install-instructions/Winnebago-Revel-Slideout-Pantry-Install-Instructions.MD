@@ -232,10 +232,10 @@ Do you have questions, ideas, or concerns? Feel free to reach out to us on [Face
 ![PXL_20260822_170055982](./Winnebago-Revel-Slideout-Pantry-images/PXL_20260822_170055982.jpg)
 
 ### 6. Install pantry drawer
-![PXL_20260822_170327658](./Winnebago-Revel-Slideout-Pantry-images/PXL_20260822_170327658.jpg)
-![PXL_20260822_164029194](./Winnebago-Revel-Slideout-Pantry-images/PXL_20260822_164029194.jpg)
 ![PXL_20260822_164132483](./Winnebago-Revel-Slideout-Pantry-images/PXL_20260822_164132483.jpg)
 ![PXL_20260822_164247779.MP](./Winnebago-Revel-Slideout-Pantry-images/PXL_20260822_164247779.MP.jpg)
+![PXL_20260822_170327658](./Winnebago-Revel-Slideout-Pantry-images/PXL_20260822_170327658.jpg)
+![PXL_20260822_164029194](./Winnebago-Revel-Slideout-Pantry-images/PXL_20260822_164029194.jpg)
 
 ### 7. Measure shim spacing
 ![PXL_20260822_170552150](./Winnebago-Revel-Slideout-Pantry-images/PXL_20260822_170552150.jpg)
