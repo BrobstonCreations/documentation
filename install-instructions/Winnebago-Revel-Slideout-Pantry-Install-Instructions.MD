@@ -51,6 +51,7 @@ There are six main steps:
 4. Install and shim drawer slides
 5. Install frame replacement trim
 6. Install pantry drawer
+7. Measure shim spacing
 
 **Note:** There are a handful of steps that are very similar, in the first iteration I will describe the whole process and these steps will be repeated but I will omit the lengthy description after the first.
 
@@ -143,10 +144,115 @@ There are six main steps:
 
 ### Deconstruct original pantry
 
+![PXL_20260822_150626596.MP](./Winnebago-Revel-Slideout-Pantry-images/PXL_20260822_150626596.MP.jpg)
+![PXL_20260822_150639160](./Winnebago-Revel-Slideout-Pantry-images/PXL_20260822_150639160.jpg)
+
 ### Use the provided jig to create the holes for the drawer slides
+
+![PXL_20260822_145921364](./Winnebago-Revel-Slideout-Pantry-images/PXL_20260822_145921364.jpg)
+![PXL_20260822_145955089](./Winnebago-Revel-Slideout-Pantry-images/PXL_20260822_145955089.jpg)
+![PXL_20260822_150005892](./Winnebago-Revel-Slideout-Pantry-images/PXL_20260822_150005892.jpg)
+![PXL_20260822_150039130](./Winnebago-Revel-Slideout-Pantry-images/PXL_20260822_150039130.jpg)
+![PXL_20260822_150054645](./Winnebago-Revel-Slideout-Pantry-images/PXL_20260822_150054645.jpg)
+![PXL_20260822_150209121](./Winnebago-Revel-Slideout-Pantry-images/PXL_20260822_150209121.jpg)
+![PXL_20260822_150223182](./Winnebago-Revel-Slideout-Pantry-images/PXL_20260822_150223182.jpg)
 
 ### Install and shim drawer slides
 
+![PXL_20260822_151216289](./Winnebago-Revel-Slideout-Pantry-images/PXL_20260822_151216289.jpg)
+![PXL_20260822_151330202](./Winnebago-Revel-Slideout-Pantry-images/PXL_20260822_151330202.jpg)
+![PXL_20260822_151430901](./Winnebago-Revel-Slideout-Pantry-images/PXL_20260822_151430901.jpg)
+![PXL_20260822_151450301](./Winnebago-Revel-Slideout-Pantry-images/PXL_20260822_151450301.jpg)
+![PXL_20260822_151502115](./Winnebago-Revel-Slideout-Pantry-images/PXL_20260822_151502115.jpg)
+![PXL_20260822_151509924](./Winnebago-Revel-Slideout-Pantry-images/PXL_20260822_151509924.jpg)
+![PXL_20260822_151739719](./Winnebago-Revel-Slideout-Pantry-images/PXL_20260822_151739719.jpg)
+![PXL_20260822_151826726](./Winnebago-Revel-Slideout-Pantry-images/PXL_20260822_151826726.jpg)
+![PXL_20260822_151952793](./Winnebago-Revel-Slideout-Pantry-images/PXL_20260822_151952793.jpg)
+![PXL_20260822_152227088](./Winnebago-Revel-Slideout-Pantry-images/PXL_20260822_152227088.jpg)
+![PXL_20260822_152340874~2](./Winnebago-Revel-Slideout-Pantry-images/PXL_20260822_152340874~2.jpg)
+![PXL_20260822_152356640~2](./Winnebago-Revel-Slideout-Pantry-images/PXL_20260822_152356640~2.jpg)
+![PXL_20260822_152435383](./Winnebago-Revel-Slideout-Pantry-images/PXL_20260822_152435383.jpg)
+![PXL_20260822_154654173](./Winnebago-Revel-Slideout-Pantry-images/PXL_20260822_154654173.jpg)
+![PXL_20260822_154707636](./Winnebago-Revel-Slideout-Pantry-images/PXL_20260822_154707636.jpg)
+![PXL_20260822_154736071](./Winnebago-Revel-Slideout-Pantry-images/PXL_20260822_154736071.jpg)
+![PXL_20260822_154741711](./Winnebago-Revel-Slideout-Pantry-images/PXL_20260822_154741711.jpg)
+![PXL_20260822_154749078](./Winnebago-Revel-Slideout-Pantry-images/PXL_20260822_154749078.jpg)
+![PXL_20260822_155310701](./Winnebago-Revel-Slideout-Pantry-images/PXL_20260822_155310701.jpg)
+![PXL_20260822_155432430](./Winnebago-Revel-Slideout-Pantry-images/PXL_20260822_155432430.jpg)
+![PXL_20260822_155507412](./Winnebago-Revel-Slideout-Pantry-images/PXL_20260822_155507412.jpg)
+![PXL_20260822_155547887](./Winnebago-Revel-Slideout-Pantry-images/PXL_20260822_155547887.jpg)
+![PXL_20260822_155607330](./Winnebago-Revel-Slideout-Pantry-images/PXL_20260822_155607330.jpg)
+![PXL_20260822_155642605](./Winnebago-Revel-Slideout-Pantry-images/PXL_20260822_155642605.jpg)
+![PXL_20260822_155711765](./Winnebago-Revel-Slideout-Pantry-images/PXL_20260822_155711765.jpg)
+![PXL_20260822_155715253](./Winnebago-Revel-Slideout-Pantry-images/PXL_20260822_155715253.jpg)
+![PXL_20260822_155827343.MP](./Winnebago-Revel-Slideout-Pantry-images/PXL_20260822_155827343.MP.jpg)
+![PXL_20260822_155945425](./Winnebago-Revel-Slideout-Pantry-images/PXL_20260822_155945425.jpg)
+![PXL_20260822_160108905](./Winnebago-Revel-Slideout-Pantry-images/PXL_20260822_160108905.jpg)
+![PXL_20260822_160315084~2](./Winnebago-Revel-Slideout-Pantry-images/PXL_20260822_160315084~2.jpg)
+![PXL_20260822_160749953](./Winnebago-Revel-Slideout-Pantry-images/PXL_20260822_160749953.jpg)
+![PXL_20260822_160843370](./Winnebago-Revel-Slideout-Pantry-images/PXL_20260822_160843370.jpg)
+![PXL_20260822_160917977](./Winnebago-Revel-Slideout-Pantry-images/PXL_20260822_160917977.jpg)
+![PXL_20260822_160934573](./Winnebago-Revel-Slideout-Pantry-images/PXL_20260822_160934573.jpg)
+![PXL_20260822_160953188](./Winnebago-Revel-Slideout-Pantry-images/PXL_20260822_160953188.jpg)
+![PXL_20260822_161011475](./Winnebago-Revel-Slideout-Pantry-images/PXL_20260822_161011475.jpg)
+![PXL_20260822_161041880](./Winnebago-Revel-Slideout-Pantry-images/PXL_20260822_161041880.jpg)
+![PXL_20260822_161116491](./Winnebago-Revel-Slideout-Pantry-images/PXL_20260822_161116491.jpg)
+![PXL_20260822_161203686](./Winnebago-Revel-Slideout-Pantry-images/PXL_20260822_161203686.jpg)
+![PXL_20260822_161309250](./Winnebago-Revel-Slideout-Pantry-images/PXL_20260822_161309250.jpg)
+![PXL_20260822_161318592](./Winnebago-Revel-Slideout-Pantry-images/PXL_20260822_161318592.jpg)
+![PXL_20260822_161341989](./Winnebago-Revel-Slideout-Pantry-images/PXL_20260822_161341989.jpg)
+![PXL_20260822_161912688.MP](./Winnebago-Revel-Slideout-Pantry-images/PXL_20260822_161912688.MP.jpg)
+![PXL_20260822_161925405](./Winnebago-Revel-Slideout-Pantry-images/PXL_20260822_161925405.jpg)
+![PXL_20260822_161936853](./Winnebago-Revel-Slideout-Pantry-images/PXL_20260822_161936853.jpg)
+![PXL_20260822_162631042](./Winnebago-Revel-Slideout-Pantry-images/PXL_20260822_162631042.jpg)
+
 ### Install frame replacement trim
 
+![PXL_20260822_164541558](./Winnebago-Revel-Slideout-Pantry-images/PXL_20260822_164541558.jpg)
+![PXL_20260822_164629103~2](./Winnebago-Revel-Slideout-Pantry-images/PXL_20260822_164629103~2.jpg)
+![PXL_20260822_164643624~2](./Winnebago-Revel-Slideout-Pantry-images/PXL_20260822_164643624~2.jpg)
+![PXL_20260822_164723949.MP](./Winnebago-Revel-Slideout-Pantry-images/PXL_20260822_164723949.MP.jpg)
+![PXL_20260822_164803915](./Winnebago-Revel-Slideout-Pantry-images/PXL_20260822_164803915.jpg)
+![PXL_20260822_164837044](./Winnebago-Revel-Slideout-Pantry-images/PXL_20260822_164837044.jpg)
+![PXL_20260822_164841194](./Winnebago-Revel-Slideout-Pantry-images/PXL_20260822_164841194.jpg)
+![PXL_20260822_164858961](./Winnebago-Revel-Slideout-Pantry-images/PXL_20260822_164858961.jpg)
+![PXL_20260822_164950109](./Winnebago-Revel-Slideout-Pantry-images/PXL_20260822_164950109.jpg)
+![PXL_20260822_165055399](./Winnebago-Revel-Slideout-Pantry-images/PXL_20260822_165055399.jpg)
+![PXL_20260822_165338422](./Winnebago-Revel-Slideout-Pantry-images/PXL_20260822_165338422.jpg)
+![PXL_20260822_165515450.MP](./Winnebago-Revel-Slideout-Pantry-images/PXL_20260822_165515450.MP.jpg)
+![PXL_20260822_165554799](./Winnebago-Revel-Slideout-Pantry-images/PXL_20260822_165554799.jpg)
+![PXL_20260822_165628498](./Winnebago-Revel-Slideout-Pantry-images/PXL_20260822_165628498.jpg)
+![PXL_20260822_165646407](./Winnebago-Revel-Slideout-Pantry-images/PXL_20260822_165646407.jpg)
+![PXL_20260822_165657602](./Winnebago-Revel-Slideout-Pantry-images/PXL_20260822_165657602.jpg)
+![PXL_20260822_165710463](./Winnebago-Revel-Slideout-Pantry-images/PXL_20260822_165710463.jpg)
+![PXL_20260822_165723183](./Winnebago-Revel-Slideout-Pantry-images/PXL_20260822_165723183.jpg)
+![PXL_20260822_165807614](./Winnebago-Revel-Slideout-Pantry-images/PXL_20260822_165807614.jpg)
+![PXL_20260822_165848001](./Winnebago-Revel-Slideout-Pantry-images/PXL_20260822_165848001.jpg)
+![PXL_20260822_165907429](./Winnebago-Revel-Slideout-Pantry-images/PXL_20260822_165907429.jpg)
+
 ### Install pantry drawer
+
+### Measure shim spacing
+
+![PXL_20260822_165939108](./Winnebago-Revel-Slideout-Pantry-images/PXL_20260822_165939108.jpg)
+![PXL_20260822_165958049](./Winnebago-Revel-Slideout-Pantry-images/PXL_20260822_165958049.jpg)
+![PXL_20260822_170025284](./Winnebago-Revel-Slideout-Pantry-images/PXL_20260822_170025284.jpg)
+![PXL_20260822_170055982](./Winnebago-Revel-Slideout-Pantry-images/PXL_20260822_170055982.jpg)
+![PXL_20260822_170552150](./Winnebago-Revel-Slideout-Pantry-images/PXL_20260822_170552150.jpg)
+![PXL_20260822_170635861.MP](./Winnebago-Revel-Slideout-Pantry-images/PXL_20260822_170635861.MP.jpg)
+![PXL_20260822_170647811](./Winnebago-Revel-Slideout-Pantry-images/PXL_20260822_170647811.jpg)
+![PXL_20260822_170712443](./Winnebago-Revel-Slideout-Pantry-images/PXL_20260822_170712443.jpg)
+![PXL_20260822_170739609](./Winnebago-Revel-Slideout-Pantry-images/PXL_20260822_170739609.jpg)
+![PXL_20260822_170758978](./Winnebago-Revel-Slideout-Pantry-images/PXL_20260822_170758978.jpg)
+![PXL_20260822_170945653](./Winnebago-Revel-Slideout-Pantry-images/PXL_20260822_170945653.jpg)
+![PXL_20260822_170952859](./Winnebago-Revel-Slideout-Pantry-images/PXL_20260822_170952859.jpg)
+![PXL_20260822_171211984](./Winnebago-Revel-Slideout-Pantry-images/PXL_20260822_171211984.jpg)
+![PXL_20260822_171216841](./Winnebago-Revel-Slideout-Pantry-images/PXL_20260822_171216841.jpg)
+
+
+
+![PXL_20260822_170443264](./Winnebago-Revel-Slideout-Pantry-images/PXL_20260822_170443264.jpg)
+![PXL_20260822_170327658](./Winnebago-Revel-Slideout-Pantry-images/PXL_20260822_170327658.jpg)
+![PXL_20260822_164029194](./Winnebago-Revel-Slideout-Pantry-images/PXL_20260822_164029194.jpg)
+![PXL_20260822_164132483](./Winnebago-Revel-Slideout-Pantry-images/PXL_20260822_164132483.jpg)
+![PXL_20260822_164247779.MP](./Winnebago-Revel-Slideout-Pantry-images/PXL_20260822_164247779.MP.jpg)
