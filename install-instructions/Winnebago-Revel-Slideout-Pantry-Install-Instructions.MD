@@ -44,14 +44,14 @@ Do you have questions, ideas, or concerns? Feel free to reach out to us on [Face
 - Loctite (not required, but can be used)
 
 ## Installation:
-There are six main steps:
-1. Assemble pantry drawer
-2. Deconstruct original pantry
-3. Use the provided jig to create the holes for the drawer slides
-4. Install and shim drawer slides
-5. Install frame replacement trim
-6. Install pantry drawer
-7. Measure shim spacing
+### Table of Contents
+* [1. Assemble pantry drawer](#1-assemble-pantry-drawer)
+* [2. Disassemble original pantry](#2-disassemble-original-pantry)
+* [3. Use the provided jig to create the holes for the drawer slides](#3-use-the-provided-jig-to-create-the-holes-for-the-drawer-slides)
+* [4. Install and shim drawer slides](#4-install-and-shim-drawer-slides)
+* [5. Install frame replacement trim](#5-install-frame-replacement-trim)
+* [6. Install pantry drawer](#6-install-pantry-drawer)
+* [7. Measure shim spacing](#7-measure-shim-spacing)
 
 **Note:** There are a handful of steps that are very similar, in the first iteration I will describe the whole process and these steps will be repeated but I will omit the lengthy description after the first.
 
@@ -142,7 +142,7 @@ There are six main steps:
 ![PXL_20260820_211726834](./Winnebago-Revel-Slideout-Pantry-images/PXL_20260820_211726834.jpg)
 27. Repeat this process with the bungee cords as you see fit.
 
-### Deconstruct original pantry
+### Disassemble original pantry
 
 ![PXL_20260822_150626596.MP](./Winnebago-Revel-Slideout-Pantry-images/PXL_20260822_150626596.MP.jpg)
 ![PXL_20260822_150639160](./Winnebago-Revel-Slideout-Pantry-images/PXL_20260822_150639160.jpg)
