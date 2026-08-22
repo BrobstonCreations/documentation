@@ -156,9 +156,6 @@ There are six main steps:
 ![PXL_20260822_150054645](./Winnebago-Revel-Slideout-Pantry-images/PXL_20260822_150054645.jpg)
 ![PXL_20260822_150209121](./Winnebago-Revel-Slideout-Pantry-images/PXL_20260822_150209121.jpg)
 ![PXL_20260822_150223182](./Winnebago-Revel-Slideout-Pantry-images/PXL_20260822_150223182.jpg)
-
-### Install and shim drawer slides
-
 ![PXL_20260822_151216289](./Winnebago-Revel-Slideout-Pantry-images/PXL_20260822_151216289.jpg)
 ![PXL_20260822_151330202](./Winnebago-Revel-Slideout-Pantry-images/PXL_20260822_151330202.jpg)
 ![PXL_20260822_151430901](./Winnebago-Revel-Slideout-Pantry-images/PXL_20260822_151430901.jpg)
@@ -177,6 +174,9 @@ There are six main steps:
 ![PXL_20260822_154736071](./Winnebago-Revel-Slideout-Pantry-images/PXL_20260822_154736071.jpg)
 ![PXL_20260822_154741711](./Winnebago-Revel-Slideout-Pantry-images/PXL_20260822_154741711.jpg)
 ![PXL_20260822_154749078](./Winnebago-Revel-Slideout-Pantry-images/PXL_20260822_154749078.jpg)
+
+### Install and shim drawer slides
+
 ![PXL_20260822_155310701](./Winnebago-Revel-Slideout-Pantry-images/PXL_20260822_155310701.jpg)
 ![PXL_20260822_155432430](./Winnebago-Revel-Slideout-Pantry-images/PXL_20260822_155432430.jpg)
 ![PXL_20260822_155507412](./Winnebago-Revel-Slideout-Pantry-images/PXL_20260822_155507412.jpg)
