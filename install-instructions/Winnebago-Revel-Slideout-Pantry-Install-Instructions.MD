@@ -44,14 +44,13 @@ Do you have questions, ideas, or concerns? Feel free to reach out to us on [Face
 - Loctite (not required, but can be used)
 
 ## Installation:
-### Table of Contents
-* [1. Assemble pantry drawer](#1-assemble-pantry-drawer)
-* [2. Disassemble original pantry](#2-disassemble-original-pantry)
-* [3. Create the holes for the drawer slides](#3-create-the-holes-for-the-drawer-slides)
-* [4. Install drawer slides](#4-install-drawer-slides)
-* [5. Install frame replacement trim](#5-install-frame-replacement-trim)
-* [6. Install pantry drawer](#6-install-pantry-drawer)
-* [7. Measure shim spacing](#7-measure-shim-spacing)
+1. [Assemble pantry drawer](#1-assemble-pantry-drawer)
+2. [Disassemble original pantry](#2-disassemble-original-pantry)
+3. [Create the holes for the drawer slides](#3-create-the-holes-for-the-drawer-slides)
+4. [Install drawer slides](#4-install-drawer-slides)
+5. [Install frame replacement trim](#5-install-frame-replacement-trim)
+6. [Install pantry drawer](#6-install-pantry-drawer)
+7. [Measure shim spacing](#7-measure-shim-spacing)
 
 **Note:** There are a handful of steps that are very similar, in the first iteration I will describe the whole process and these steps will be repeated but I will omit the lengthy description after the first.
 
