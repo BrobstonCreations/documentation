@@ -41,7 +41,7 @@ Do you have questions, ideas, or concerns? Feel free to reach out to us on [Face
 ![PXL_20260818_195611678](./Winnebago-Revel-Slideout-Pantry-images/PXL_20260818_195611678.jpg)
 
 ### Not included in the kit:
-- Loctite (not required, but can be used)
+- Blue Loctite (not required, but can be used)
 
 **Note:** There are a handful of steps that are very similar, in the first iteration I will describe the whole process and these steps will be repeated but I will omit the lengthy description after the first.
 
@@ -49,7 +49,7 @@ Do you have questions, ideas, or concerns? Feel free to reach out to us on [Face
 
 **Note:** The textured side of the shelves are intended to be facing up.
 
-**Note:** I have not had any issues, but if you wish you can add blue loctite on the threads of the bolts going into the heat set inserts in the plastic to ensure they don't rattle loose.
+**Note:** I have not had any issues, but if you wish you can add blue Blue Loctite on the threads of the bolts going into the heat set inserts in the plastic to ensure they don't rattle loose.
 
 ## Installation:
 1. [Assemble pantry drawer](./Winnebago-Revel-Slideout-Pantry-pages/assemble-pantry-drawer.MD)
