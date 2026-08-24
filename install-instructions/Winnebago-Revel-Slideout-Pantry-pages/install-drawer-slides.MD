@@ -1,6 +1,6 @@
 
 ### 4. Install drawer slides
-1. Install the top left drawer slide using the screws included in the drawer slide packaging. Use five screws in the three larger holes along the center and the two near the back.
+1. Install the top left drawer slide using the screws included in the drawer slide packaging. Use five screws in the three larger holes along the center and the two screws near the back.
 ![PXL_20260822_155432430](../Winnebago-Revel-Slideout-Pantry-images/PXL_20260822_155432430.jpg)
 
 2. Install the bottom left drawer slide.
