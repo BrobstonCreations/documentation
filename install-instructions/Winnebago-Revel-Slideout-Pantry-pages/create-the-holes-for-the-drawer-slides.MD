@@ -26,7 +26,7 @@
 
 ***Note***: I would recommend working in this order: top left -> bottom left -> top right -> bottom right.
 
-4. With the jig positioned, clamp the top left drawer slide section the pantry wall.
+4. With the jig positioned, clamp the top left drawer slide section to the pantry wall.
 ![PXL_20260822_151739719](../Winnebago-Revel-Slideout-Pantry-images/PXL_20260822_151739719.jpg)
 
 ***Note:*** Be sure to use the correct length screw! If you have any doubts, hold the screw up to the front end of the pantry in-line with where it will be screwed through the jig into the pantry wall, if the screw is longer than the combined distance you have the wrong screw!
