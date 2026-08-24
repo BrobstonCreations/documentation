@@ -4,7 +4,7 @@
 ![PXL_20260822_155432430](../Winnebago-Revel-Slideout-Pantry-images/PXL_20260822_155432430.jpg)
 ![PXL_20260822_155310701](../Winnebago-Revel-Slideout-Pantry-images/PXL_20260822_155310701.jpg)
 
-2.
+2. Depending on the order you decide to install, you may need to remove one fixed shelf from the pantry drawer which will be used to properly space the right drawer slide from the left.
 ![PXL_20260822_155507412](../Winnebago-Revel-Slideout-Pantry-images/PXL_20260822_155507412.jpg)
 ![PXL_20260822_155547887](../Winnebago-Revel-Slideout-Pantry-images/PXL_20260822_155547887.jpg)
 ![PXL_20260822_155607330](../Winnebago-Revel-Slideout-Pantry-images/PXL_20260822_155607330.jpg)
