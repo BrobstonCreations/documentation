@@ -13,7 +13,7 @@ While shims likely will work file, especially if you were to drill through them 
 2. Using digial calipers, measure the thickness of the overlapped section as pictured.
 ![PXL_20260822_170712443](../Winnebago-Revel-Slideout-Pantry-images/PXL_20260822_170712443.jpg)
 
-3. Repeat this for all shims. Front to back is labelled 1 through 4 and T is for Top and B is for Bottom. Send this to us via email (brobstoncreations@gmail.com) and we'll make the spacers and send them to you in the mail.
+3. Repeat this for all shims. Front to back is labelled 1 through 4. You can copy/paste the text below and then fill the values in and send this information to us via email (brobstoncreations@gmail.com) and we'll make the spacers and send them to you in the mail.
 ```text
 Thickness Measurements
 Top 4:
