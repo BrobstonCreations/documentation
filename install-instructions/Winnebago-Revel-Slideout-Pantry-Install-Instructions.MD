@@ -46,7 +46,7 @@ Do you have questions, ideas, or concerns? Feel free to reach out to us on [Face
 ### Not included in the kit:
 - Blue Loctite (not required, but can be used)
 
-**Note:** There are a handful of steps that are very similar, in the first iteration I will describe the whole process and these steps will be repeated but I will omit the lengthy description after the first.
+**Note:** There are a handful of steps that are very similar, in the first instance I will describe the whole process and these steps will be repeated but I will omit the lengthy description on the rest.
 
 **Note:** I would recommend using a drill with a clutch to avoid over-tightening screws/bolts during install. I ran my clutch at 5.
 
