@@ -1,7 +1,7 @@
 
 ### 7. Measure shim spacing
 
-While shims likely will work file, especially if you were to drill through them and then cut them to size, we would prefer to offer a more refined solution. We still need the same spacing, but wouldn't it look so much better if it was minimal the spacer was labeled? With maintenance in mind, it would be nice to be able to remove all of this and have the process to reassembly be as frictionless as possible.
+While shims likely will work file, especially if you were to drill through them and then cut them to size, we would prefer to offer a more refined solution. We still need the same spacing, but wouldn't it look so much better if it was as minimal as possible so that it blended in and the spacer was labeled? With maintenance in mind, it would be nice to be able to remove all of this and have the process to reassembly be as frictionless as possible.
 
 
 ![PXL_20260822_170552150](../Winnebago-Revel-Slideout-Pantry-images/PXL_20260822_170552150.jpg)
