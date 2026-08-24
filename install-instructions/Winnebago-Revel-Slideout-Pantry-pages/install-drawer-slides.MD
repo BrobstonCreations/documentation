@@ -39,7 +39,7 @@
 8. Starting at the back, just behind the screws, insert one shim from the top and insert one shim from the bottom. Press the top one down and the bottom one up until there is enough pressure that the shims are held in place.
 ![PXL_20260822_161203686](../Winnebago-Revel-Slideout-Pantry-images/PXL_20260822_161203686.jpg)
 
-9. You may want to slide the shelf out far enough to further tighten the screws right next to the shim, but it is also possible to install all four sets of shims, and tigten of the screws after.
+9. You may want to slide the shelf out far enough to further tighten the screws right next to the shim, but it is also possible to install all four sets of shims, and tigten of the screws after. Repeat this process for the other three sets of shims.
 ![PXL_20260822_161309250](../Winnebago-Revel-Slideout-Pantry-images/PXL_20260822_161309250.jpg)
 ![PXL_20260822_161318592](../Winnebago-Revel-Slideout-Pantry-images/PXL_20260822_161318592.jpg)
 ![PXL_20260822_161341989](../Winnebago-Revel-Slideout-Pantry-images/PXL_20260822_161341989.jpg)
