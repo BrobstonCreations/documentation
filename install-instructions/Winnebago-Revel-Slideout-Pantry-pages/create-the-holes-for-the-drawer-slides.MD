@@ -50,6 +50,8 @@
 
 8. Transfer the holes for the strike plate.
 ![PXL_20260822_154749078](../Winnebago-Revel-Slideout-Pantry-images/PXL_20260822_154749078.jpg)
+
+9. Reinstall the front right metal cover.
 ![PXL_20260822_161912688.MP](../Winnebago-Revel-Slideout-Pantry-images/PXL_20260822_161912688.MP.jpg)
 ![PXL_20260822_161925405](../Winnebago-Revel-Slideout-Pantry-images/PXL_20260822_161925405.jpg)
 ![PXL_20260822_161936853](../Winnebago-Revel-Slideout-Pantry-images/PXL_20260822_161936853.jpg)
