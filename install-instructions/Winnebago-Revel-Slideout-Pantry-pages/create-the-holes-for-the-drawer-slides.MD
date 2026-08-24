@@ -35,7 +35,10 @@
 
 5. Using a 1 1/2 inch number 7 phillips flat head wood screw, screw through the holes in the wood jig. The self-taping end of the screw will transfer the hole location into the pantry wall. I would recommend leaving the screw in once installed, until all the holes are transferred for the entire jig.
 ![PXL_20260822_151826726](../Winnebago-Revel-Slideout-Pantry-images/PXL_20260822_151826726.jpg)
+6. Do the same for the bottom left.
 ![PXL_20260822_151952793](../Winnebago-Revel-Slideout-Pantry-images/PXL_20260822_151952793.jpg)
+
+7. Before transferring the holes for the right side, I would recommend checking square. The jig holds square pretty well, but it is best to double check, and get it as close as possible.
 ![PXL_20260822_152227088](../Winnebago-Revel-Slideout-Pantry-images/PXL_20260822_152227088.jpg)
 ![PXL_20260822_152340874~2](../Winnebago-Revel-Slideout-Pantry-images/PXL_20260822_152340874~2.jpg)
 ![PXL_20260822_152356640~2](../Winnebago-Revel-Slideout-Pantry-images/PXL_20260822_152356640~2.jpg)

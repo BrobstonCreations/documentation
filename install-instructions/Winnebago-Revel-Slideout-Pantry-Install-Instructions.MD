@@ -13,6 +13,7 @@ Do you have questions, ideas, or concerns? Feel free to reach out to us on [Face
 - Flat head screw driver
 - Scissors
 - Wood Clamp (Bar Clamp)
+- Speed Square
 - Digital Caliper
 
 ### Brackets and fasteners included in the kit:
