@@ -47,6 +47,8 @@
 ![PXL_20260822_154736071](../Winnebago-Revel-Slideout-Pantry-images/PXL_20260822_154736071.jpg)
 ![PXL_20260822_152435383](../Winnebago-Revel-Slideout-Pantry-images/PXL_20260822_152435383.jpg)
 ![PXL_20260822_154741711](../Winnebago-Revel-Slideout-Pantry-images/PXL_20260822_154741711.jpg)
+
+8. Transfer the holes for the strike plate.
 ![PXL_20260822_154749078](../Winnebago-Revel-Slideout-Pantry-images/PXL_20260822_154749078.jpg)
 ![PXL_20260822_161912688.MP](../Winnebago-Revel-Slideout-Pantry-images/PXL_20260822_161912688.MP.jpg)
 ![PXL_20260822_161925405](../Winnebago-Revel-Slideout-Pantry-images/PXL_20260822_161925405.jpg)
