@@ -11,6 +11,3 @@
 8. Remove the furring strips (backing that the fabric attached to).
 
 ***Note***: We will reinstall the metal piece that was to the right of the frame after a later step; after we use the provided jig to create the holes for the drawer slides.
-
-![PXL_20260822_150626596.MP](../Winnebago-Revel-Slideout-Pantry-images/PXL_20260822_150626596.MP.jpg)
-![PXL_20260822_150639160](../Winnebago-Revel-Slideout-Pantry-images/PXL_20260822_150639160.jpg)
