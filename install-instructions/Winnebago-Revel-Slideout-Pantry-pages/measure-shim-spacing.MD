@@ -29,7 +29,7 @@ Bottom 1:
 Once you receive these you can loosen the screws, insert the new spacers, and retighten the screws.
 ![PXL_20260822_170739609](../Winnebago-Revel-Slideout-Pantry-images/PXL_20260822_170739609.jpg)
 ![PXL_20260822_170758978](../Winnebago-Revel-Slideout-Pantry-images/PXL_20260822_170758978.jpg)
-![PXL_20260822_170945653](../Winnebago-Revel-Slideout-Pantry-images/PXL_20260822_170945653.jpg)
-![PXL_20260822_170952859](../Winnebago-Revel-Slideout-Pantry-images/PXL_20260822_170952859.jpg)
+![PXL_20260824_192534943.jpg](../Winnebago-Revel-Slideout-Pantry-images/PXL_20260824_192534943.jpg)
+![PXL_20260824_192541696.jpg](../Winnebago-Revel-Slideout-Pantry-images/PXL_20260824_192541696.jpg)
 ![PXL_20260822_171211984](../Winnebago-Revel-Slideout-Pantry-images/PXL_20260822_171211984.jpg)
 ![PXL_20260822_171216841](../Winnebago-Revel-Slideout-Pantry-images/PXL_20260822_171216841.jpg)
