@@ -44,4 +44,6 @@
 ![PXL_20260822_161318592](../Winnebago-Revel-Slideout-Pantry-images/PXL_20260822_161318592.jpg)
 ![PXL_20260822_161341989](../Winnebago-Revel-Slideout-Pantry-images/PXL_20260822_161341989.jpg)
 ![PXL_20260822_162631042](../Winnebago-Revel-Slideout-Pantry-images/PXL_20260822_162631042.jpg)
+
+10. If you observe these grey sections, the section closer to the front is part of the soft-close mechanism. When you close the drawer this section is pressed back, when you open the drawer this section is pulled forward. This is one indication that the drawer slide spacing is correct. With the shelf slid out, if you press it shut quickly (more like slam it) the soft-close will catch when the drawer is nearly closed and pull it the rest of the way shut. However, later when we install the full pantry drawer with slam latches, the soft-close does function exactly as it would in a residential house, this is because the slam latch hits the strike plate at the same time that the soft-close mechanism tries to pull the drawer shut. I believe there is still a benefit to using soft-close slides, as they provide resistance when opening, which helps to keep a fully loaded pantry from putting a lot of strain on the slam latch and strike plate.
 ![PXL_20260822_170443264](../Winnebago-Revel-Slideout-Pantry-images/PXL_20260822_170443264.jpg)
