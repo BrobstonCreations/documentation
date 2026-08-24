@@ -12,6 +12,7 @@ Do you have questions, ideas, or concerns? Feel free to reach out to us on [Face
 - 90 degree impact tool
 - Flat head screw driver
 - Scissors
+- Wood Clamp (Bar Clamp)
 - Digital Caliper
 
 ### Brackets and fasteners included in the kit:

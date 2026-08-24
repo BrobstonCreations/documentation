@@ -12,12 +12,20 @@
 ![PXL_20260822_150054645](../Winnebago-Revel-Slideout-Pantry-images/PXL_20260822_150054645.jpg)
 ![PXL_20260822_150209121](../Winnebago-Revel-Slideout-Pantry-images/PXL_20260822_150209121.jpg)
 ![PXL_20260822_150223182](../Winnebago-Revel-Slideout-Pantry-images/PXL_20260822_150223182.jpg)
+
+3. Insert the jig into the pantry opening as pictured. Be sure that the lower leg is touching the floor without any obstructions.
 ![PXL_20260822_151216289](../Winnebago-Revel-Slideout-Pantry-images/PXL_20260822_151216289.jpg)
 ![PXL_20260822_151330202](../Winnebago-Revel-Slideout-Pantry-images/PXL_20260822_151330202.jpg)
 ![PXL_20260822_151430901](../Winnebago-Revel-Slideout-Pantry-images/PXL_20260822_151430901.jpg)
+
+4. Position the front edge of the jig flush with the front of the left pantry wall's edge banding. Make sure all three points are flush (the front edge of the top drawer slide section, the front of edge of the latch plate section, and the front edge of the bottom drawer slide section).
 ![PXL_20260822_151450301](../Winnebago-Revel-Slideout-Pantry-images/PXL_20260822_151450301.jpg)
 ![PXL_20260822_151502115](../Winnebago-Revel-Slideout-Pantry-images/PXL_20260822_151502115.jpg)
 ![PXL_20260822_151509924](../Winnebago-Revel-Slideout-Pantry-images/PXL_20260822_151509924.jpg)
+
+***Note***: I would recommend working in this order: top left -> bottom left -> top right -> bottom right.
+
+5. With the jig positioned, clamp the top left drawer slide section the pantry wall.
 ![PXL_20260822_151739719](../Winnebago-Revel-Slideout-Pantry-images/PXL_20260822_151739719.jpg)
 ![PXL_20260822_151826726](../Winnebago-Revel-Slideout-Pantry-images/PXL_20260822_151826726.jpg)
 ![PXL_20260822_151952793](../Winnebago-Revel-Slideout-Pantry-images/PXL_20260822_151952793.jpg)
