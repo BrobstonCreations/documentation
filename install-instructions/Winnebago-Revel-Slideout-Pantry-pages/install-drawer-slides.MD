@@ -20,7 +20,7 @@
 ![PXL_20260822_160108905](../Winnebago-Revel-Slideout-Pantry-images/PXL_20260822_160108905.jpg)
 ![PXL_20260822_160315084~2](../Winnebago-Revel-Slideout-Pantry-images/PXL_20260822_160315084~2.jpg)
 
-5. Being sure to only install the screws just enough for the screws to hold in place, use five 1 1/2 inch phillips flat head screws to hang the drawer slide.
+5. Being sure to only install the screws just enough for the screws to hold in place, use five 1 1/2 inch phillips flat head screws to allow the drawer slide to hang from by the screws.
 ![PXL_20260822_160749953](../Winnebago-Revel-Slideout-Pantry-images/PXL_20260822_160749953.jpg)
 
 6. Begin sliding the shelf onto the left and right drawer slides. The goal is to add shims to the right drawer slide in the next step. Ideally we would tigthen these screws with the shelf slid all the way in, but that isn't possible. Tighten the right slide drawer screws enough for the drawer slide to close but not so tight that it begins pulling the slide too far to the right. If you slightly overtigten them, that is ok, we can loosen them while shimming.
