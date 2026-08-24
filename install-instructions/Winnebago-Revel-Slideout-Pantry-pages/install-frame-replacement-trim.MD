@@ -25,10 +25,20 @@
 ![PXL_20260822_165554799](../Winnebago-Revel-Slideout-Pantry-images/PXL_20260822_165554799.jpg)
 ![PXL_20260822_165710463](../Winnebago-Revel-Slideout-Pantry-images/PXL_20260822_165710463.jpg)
 ![PXL_20260822_165723183](../Winnebago-Revel-Slideout-Pantry-images/PXL_20260822_165723183.jpg)
+
+6. To install the upper frame replament trim, use two of the screws from the original, and two screws that came in the drawer slide packaging.
 ![PXL_20260822_165807614](../Winnebago-Revel-Slideout-Pantry-images/PXL_20260822_165807614.jpg)
+
+7. Slide the upper frame replacement trim into place.
 ![PXL_20260822_165848001](../Winnebago-Revel-Slideout-Pantry-images/PXL_20260822_165848001.jpg)
+
+8. Find the original upper frame hole and install the original screw as pictured.
 ![PXL_20260822_165907429](../Winnebago-Revel-Slideout-Pantry-images/PXL_20260822_165907429.jpg)
 ![PXL_20260822_165939108](../Winnebago-Revel-Slideout-Pantry-images/PXL_20260822_165939108.jpg)
 ![PXL_20260822_165958049](../Winnebago-Revel-Slideout-Pantry-images/PXL_20260822_165958049.jpg)
+
+9. Following the same process as the lower frame, create a new hole for the right side screw into the right metal piece and install the small screw.
 ![PXL_20260822_170025284](../Winnebago-Revel-Slideout-Pantry-images/PXL_20260822_170025284.jpg)
+
+10. Use the self tapping end of the small screw to and install it on the left side.
 ![PXL_20260822_170055982](../Winnebago-Revel-Slideout-Pantry-images/PXL_20260822_170055982.jpg)
