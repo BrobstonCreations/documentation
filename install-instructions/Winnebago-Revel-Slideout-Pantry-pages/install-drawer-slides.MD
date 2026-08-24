@@ -33,7 +33,7 @@
 
 ***Note***: The goal of these next few steps is to space the right drawer slide away from the right pantry wall to create a distance from the right drawer slide to the left drawer slide that allows the shelf to slide in and out smoothly. Later in the install process I give steps to measure the shim thicknesses so that I can make and send you spacers based on these shims.
 
-7. Locate the pack of shims. Shims are used in this orientation. As one shim is slid down the other is slid up, they create a consistent thickness, which allows us to tighten the drawer slide down against the shims at the correct distance to allow the drawer to slide in and out smoothly.
+7. Locate the pack of shims. Shims are used in this orientation. As one shim is slid down the other shim is slid up, they create a consistent thickness, which allows us to tighten the drawer slide down against the shims at the correct distance to allow the drawer to slide in and out smoothly.
 ![PXL_20260822_161116491](../Winnebago-Revel-Slideout-Pantry-images/PXL_20260822_161116491.jpg)
 
 8. Starting at the back, just behind the screws, insert one shim from the top and insert one shim from the bottom. Press the top one down and the bottom one up until there is enough pressure that the shims are held in place.
