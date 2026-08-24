@@ -55,7 +55,7 @@ Do you have questions, ideas, or concerns? Feel free to reach out to us on [Face
 **Note:** I have not had any issues, but if you wish you can add blue Blue Loctite on the threads of the bolts going into the heat set inserts in the plastic to ensure they don't rattle loose.
 
 ## Installation:
-**Note:** You can either aassemble the pantry drawer first or last.
+**Note:** You can either assemble the pantry drawer first or last.
 
 If you prefer to see the progress of the pantry drawer going together first and/or wish to have your van disassembled for the least amount of time possible and don't mind a minimal amount of extra work do it in this order:
 1. [Assemble pantry drawer](./Winnebago-Revel-Slideout-Pantry-pages/assemble-pantry-drawer.MD)
