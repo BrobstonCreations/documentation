@@ -57,7 +57,7 @@ Do you have questions, ideas, or concerns? Feel free to reach out to us on [Face
 ## Installation:
 **Note:** You can either aassemble the pantry drawer first or last.
 
-If you prefer to see the progress of the pantry drawer going together first and/or wish to have your van disassembled for the least amount of time possible and don't mind a minimal amount of extra work:
+If you prefer to see the progress of the pantry drawer going together first and/or wish to have your van disassembled for the least amount of time possible and don't mind a minimal amount of extra work do it in this order:
 1. [Assemble pantry drawer](./Winnebago-Revel-Slideout-Pantry-pages/assemble-pantry-drawer.MD)
 2. [Disassemble original pantry](./Winnebago-Revel-Slideout-Pantry-pages/disassemble-original-pantry.MD)
 3. [Create the holes for the drawer slides](./Winnebago-Revel-Slideout-Pantry-pages/create-the-holes-for-the-drawer-slides.MD)
@@ -66,7 +66,7 @@ If you prefer to see the progress of the pantry drawer going together first and/
 6. [Install pantry drawer](./Winnebago-Revel-Slideout-Pantry-pages/install-pantry-drawer.MD)
 7. [Measure shim spacing](./Winnebago-Revel-Slideout-Pantry-pages/measure-shim-spacing.MD)
 
-If you prefer the most efficient process:
+If you prefer the most efficient process do it in this order:
 1. [Disassemble original pantry](./Winnebago-Revel-Slideout-Pantry-pages/disassemble-original-pantry.MD)
 2. [Create the holes for the drawer slides](./Winnebago-Revel-Slideout-Pantry-pages/create-the-holes-for-the-drawer-slides.MD)
 3. [Install drawer slides](./Winnebago-Revel-Slideout-Pantry-pages/install-drawer-slides.MD)
