@@ -28,6 +28,9 @@
 
 4. With the jig positioned, clamp the top left drawer slide section the pantry wall.
 ![PXL_20260822_151739719](../Winnebago-Revel-Slideout-Pantry-images/PXL_20260822_151739719.jpg)
+
+***Note:*** Be sure to use the correct length screw! If you have any doubts, hold the screw up to the front end of the pantry in-line with where it will be screwed through the jig into the pantry wall, if the screw is longer than the combined distance you have the wrong screw!
+5. Using a 1 1/2 inch number 7 phillips flat head wood screw, screw through the holes in the wood jig. The self-taping end of the screw will transfer the hole location into the pantry wall. I would recommend leaving the screw in once installed, until all the holes are transferred for the entire jig.
 ![PXL_20260822_151826726](../Winnebago-Revel-Slideout-Pantry-images/PXL_20260822_151826726.jpg)
 ![PXL_20260822_151952793](../Winnebago-Revel-Slideout-Pantry-images/PXL_20260822_151952793.jpg)
 ![PXL_20260822_152227088](../Winnebago-Revel-Slideout-Pantry-images/PXL_20260822_152227088.jpg)
