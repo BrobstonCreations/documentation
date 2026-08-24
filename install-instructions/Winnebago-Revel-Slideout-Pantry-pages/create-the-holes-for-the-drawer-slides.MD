@@ -38,7 +38,7 @@
 6. Do the same for the bottom left.
 ![PXL_20260822_151952793](../Winnebago-Revel-Slideout-Pantry-images/PXL_20260822_151952793.jpg)
 
-7. Before transferring the holes for the right side, I would recommend checking square. The jig holds square pretty well, but it is best to double check, and get it as close as possible.
+7. Before transferring the holes for the right side, I would recommend checking square. The jig holds square pretty well, but it is best to double check, and get it as close as possible. Square the left to the front and then the front to the right.
 ![PXL_20260822_152227088](../Winnebago-Revel-Slideout-Pantry-images/PXL_20260822_152227088.jpg)
 ![PXL_20260822_152340874~2](../Winnebago-Revel-Slideout-Pantry-images/PXL_20260822_152340874~2.jpg)
 ![PXL_20260822_152356640~2](../Winnebago-Revel-Slideout-Pantry-images/PXL_20260822_152356640~2.jpg)
