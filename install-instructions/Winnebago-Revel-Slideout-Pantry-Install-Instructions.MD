@@ -55,10 +55,10 @@ Do you have questions, ideas, or concerns? Feel free to reach out to us on [Face
 **Note:** I have not had any issues, but if you wish you can add blue Blue Loctite on the threads of the bolts going into the heat set inserts in the plastic to ensure they don't rattle loose.
 
 ## Installation:
+[How to separate drawer slides](./Winnebago-Revel-Slideout-Pantry-pages/seperate-drawer-slides.MD)
 You can either assemble the pantry drawer first or last.
 
 If you prefer to see the progress of the pantry drawer going together first and/or wish to have your van disassembled for the least amount of time possible and don't mind a minimal amount of extra work do it in this order:
-0. [Seperate drawer slides](./Winnebago-Revel-Slideout-Pantry-pages/seperate-drawer-slides.MD)
 1. [Assemble pantry drawer](./Winnebago-Revel-Slideout-Pantry-pages/assemble-pantry-drawer.MD)
 2. [Disassemble original pantry](./Winnebago-Revel-Slideout-Pantry-pages/disassemble-original-pantry.MD)
 3. [Create the holes for the drawer slides](./Winnebago-Revel-Slideout-Pantry-pages/create-the-holes-for-the-drawer-slides.MD)
@@ -68,7 +68,6 @@ If you prefer to see the progress of the pantry drawer going together first and/
 7. [Measure shim spacing](./Winnebago-Revel-Slideout-Pantry-pages/measure-shim-spacing.MD)
 
 If you prefer the most efficient process do it in this order:
-0. [Seperate drawer slides](./Winnebago-Revel-Slideout-Pantry-pages/seperate-drawer-slides.MD)
 1. [Disassemble original pantry](./Winnebago-Revel-Slideout-Pantry-pages/disassemble-original-pantry.MD)
 2. [Create the holes for the drawer slides](./Winnebago-Revel-Slideout-Pantry-pages/create-the-holes-for-the-drawer-slides.MD)
 3. [Install drawer slides](./Winnebago-Revel-Slideout-Pantry-pages/install-drawer-slides.MD)
