@@ -55,7 +55,7 @@ Do you have questions, ideas, or concerns? Feel free to reach out to us on [Face
 **Note:** I have not had any issues, but if you wish you can add blue Blue Loctite on the threads of the bolts going into the heat set inserts in the plastic to ensure they don't rattle loose.
 
 ## Installation:
-[How to separate drawer slides](./Winnebago-Revel-Slideout-Pantry-pages/seperate-drawer-slides.MD)
+[How to separate drawer slides](./Winnebago-Revel-Slideout-Pantry-pages/separate-drawer-slides.MD)
 
 You can either assemble the pantry drawer first or last.
 
