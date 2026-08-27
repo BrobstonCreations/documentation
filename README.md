@@ -1,11 +1,13 @@
 # Documentation
 
 ### 🛠️Installation Guides:
-- [Mercedes Sprinter NCV3 Rear Door Gas Strut Kit Install Instructions](/install-instructions/Mercedes-Sprinter-NCV3-Rear-Door-Gas-Strut-Kit-Install-Instructions.MD)
+- [2019 Winnebago Revel Slideout Pantry Install Instructions](/install-instructions/Winnebago-Revel-Slideout-Pantry-Install-Instructions.MD)
 - [2018-2020 Winnebago Revel Kitchen Galley Microwave Install Instructions](/install-instructions/2018-2020-Winnebago-Revel-Kitchen-Galley-Microwave-Install-Instructions.MD)
-- [2018-2020 Winnebago Revel Front Bed Support Install Instructions](/install-instructions/2018-2020-Winnebago-Revel-Front-Bed-Support-Install-Instructions.MD)
-- [2018-2020 Winnebago Revel Suspended Outdoor Table Conversion Install Instructions](/install-instructions/2018-2020-Winnebago-Revel-Suspended-Outdoor-Table-Conversion-Install-Instructions.MD)
 - [2018-2020 Winnebago Revel Extra Large Kitchen Galley Rear Vent Install Instructions](/install-instructions/2018-2020-Winnebago-Revel-Extra-Large-Kitchen-Galley-Rear-Vent-Install-Instructions.MD)
+- [Mercedes Sprinter NCV3 Rear Door Gas Strut Kit Install Instructions](/install-instructions/Mercedes-Sprinter-NCV3-Rear-Door-Gas-Strut-Kit-Install-Instructions.MD)
+- [2018-2020 Winnebago Revel Suspended Outdoor Table Conversion Install Instructions](/install-instructions/2018-2020-Winnebago-Revel-Suspended-Outdoor-Table-Conversion-Install-Instructions.MD)
 - [Gloss Black Magnetic Fridge Front for Nova Kool R3100](/install-instructions/Gloss-Black-Magnetic-Fridge-Front-for-Nova-Kool-R3100-Install-Instructions.MD)
+- [2018-2020 Winnebago Revel Front Bed Support Install Instructions](/install-instructions/2018-2020-Winnebago-Revel-Front-Bed-Support-Install-Instructions.MD)
+
 
 Do you have questions, ideas, or concerns? Feel free to reach out to us on [Facebook Messenger](https://www.facebook.com/BrobstonCreationsLLC) or by Email (brobstoncreations@gmail.com).
