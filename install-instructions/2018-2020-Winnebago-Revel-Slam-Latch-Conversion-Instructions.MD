@@ -11,7 +11,7 @@ Do you have questions, ideas, or concerns? Feel free to reach out to us on [Face
 - Flat head screw driver
 - Either Drill and 2 inch hole saw or Wood router and Flush Trim Router Bit (with the bearing towards the shaft side)
 
-### Brackets and fasteners included in the kit:
+### Hardware:
 
 ![PXL_20260828_155523314.jpg](./2018-2020-Winnebago-Revel-Slam-Latch-Conversion-images/PXL_20260828_155523314.jpg)
 
