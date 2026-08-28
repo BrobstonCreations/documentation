@@ -44,7 +44,7 @@ Do you have questions, ideas, or concerns? Feel free to reach out to us on [Face
 ![PXL_20260618_134501775.jpg](./2018-2020-Winnebago-Revel-Slam-Latch-Conversion-images/PXL_20260618_134501775.jpg)
 ![PXL_20260618_134504980.jpg](./2018-2020-Winnebago-Revel-Slam-Latch-Conversion-images/PXL_20260618_134504980.jpg)
 
-8. IT IS EXTREMELY IMPORTANT YOU READ THIS STEP THOROUGHLY, ONCE YOU HAVE MADE YOUR CUT, MATERIAL CAN'T BE ADDED BACK. Remove the jig alignment insert and triple check that everything looks aligned, square, etc. If you were to draw an imaginary line down the center of both the original hole and the hole in the jig, the two lines should line up perfectly. The original hole edge should nearly touch the edge of the hole in the jig or the original hole should be slightl inside.
+8. IT IS EXTREMELY IMPORTANT YOU READ THIS STEP THOROUGHLY, ONCE YOU HAVE MADE YOUR CUT, MATERIAL CAN'T BE ADDED BACK. Remove the jig alignment insert and triple check that everything looks aligned, square, etc. If you were to draw an imaginary line down the center of both the original hole and the hole in the jig, the two lines should line up perfectly. The original hole edge should nearly touch the edge of the hole in the jig or the original hole should be slightly inside of the jig hole.
 ![PXL_20260618_134548438.jpg](./2018-2020-Winnebago-Revel-Slam-Latch-Conversion-images/PXL_20260618_134548438.jpg)
 
 9. Following the next steps, you can use either a 2 inch hole saw in a drill or a flush-cut router bit in a wood router, to cut the opening.
