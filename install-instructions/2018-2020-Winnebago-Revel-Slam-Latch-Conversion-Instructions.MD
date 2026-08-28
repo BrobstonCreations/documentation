@@ -9,11 +9,16 @@ Do you have questions, ideas, or concerns? Feel free to reach out to us on [Face
 - Phillips bit
 - Drill bits
 - Flat head screw driver
+Either:
+- Drill
+- 2 inch hole saw
+or:
+- Wood router
+- Flush Trim Router Bit with the bearing towards the shaft side
 
 ### Brackets and fasteners included in the kit:
-![PXL_20260828_155523314.jpg](./2018-2020-Winnebago-Revel-Slam-Latch-Conversion-images/PXL_20260828_155523314.jpg)
 
-### Not included in the kit:
+![PXL_20260828_155523314.jpg](./2018-2020-Winnebago-Revel-Slam-Latch-Conversion-images/PXL_20260828_155523314.jpg)
 
 ## Installation:
 1. Remove the drawer or cabinet door. The drawers have a plastic tab on either side, pressing it one of the two directions releases the catch and allows the drawer to be removed. For the cabinet door, remove the screws from the hinges on the cabinet door side.
