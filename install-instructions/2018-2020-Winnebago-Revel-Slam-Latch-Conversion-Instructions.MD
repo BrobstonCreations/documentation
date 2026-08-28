@@ -82,3 +82,5 @@ Wood router:
 
 15. Repeat the same steps for the other drawers and cabinet doors using the correct jig.
 ![PXL_20260619_003529229.jpg](./2018-2020-Winnebago-Revel-Slam-Latch-Conversion-images/PXL_20260619_003529229.jpg)
+![PXL_20260619_003545037.jpg](./2018-2020-Winnebago-Revel-Slam-Latch-Conversion-images/PXL_20260619_003545037.jpg)
+
