@@ -9,7 +9,7 @@ Do you have questions, ideas, or concerns? Feel free to reach out to us on [Face
 - Phillips bit
 - Drill bits
 - Flat head screw driver
-- Either Drill and 2 inch hole saw or Wood router and Flush Trim Router Bit (with the bearing towards the shaft side)
+- Either a Drill and 2 inch hole saw or Wood router and Flush Trim Router Bit (with the bearing towards the shaft side)
 
 ### Hardware:
 
