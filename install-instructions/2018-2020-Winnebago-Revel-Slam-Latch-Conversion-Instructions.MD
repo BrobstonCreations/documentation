@@ -48,7 +48,9 @@ Do you have questions, ideas, or concerns? Feel free to reach out to us on [Face
 ![PXL_20260618_134548438.jpg](./2018-2020-Winnebago-Revel-Slam-Latch-Conversion-images/PXL_20260618_134548438.jpg)
 
 9. Following the next steps, you can use either a 2 inch hole saw in a drill or a flush-cut router bit in a wood router, to cut the opening.
+
 Drill:
+If you go the drill route, let the hole saw do the work; be sure not to press down too hard. Whichever side you hole saw from will have a nicer finish, I would recommend cutting from the front, if you don't press too hard, the cracking of the laminate on the backside will be minimal and covered by the rear hardware.
 ![PXL_20260828_165349054.jpg](./2018-2020-Winnebago-Revel-Slam-Latch-Conversion-images/PXL_20260828_165349054.jpg)
 ![PXL_20260828_165402220.jpg](./2018-2020-Winnebago-Revel-Slam-Latch-Conversion-images/PXL_20260828_165402220.jpg)
 ![PXL_20260828_165430003.jpg](./2018-2020-Winnebago-Revel-Slam-Latch-Conversion-images/PXL_20260828_165430003.jpg)
