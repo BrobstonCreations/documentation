@@ -11,6 +11,7 @@ Do you have questions, ideas, or concerns? Feel free to reach out to us on [Face
 - Flat head screw driver
 
 ### Brackets and fasteners included in the kit:
+![PXL_20260828_155523314.jpg](./2018-2020-Winnebago-Revel-Slam-Latch-Conversion-images/PXL_20260828_155523314.jpg)
 
 ### Not included in the kit:
 
@@ -79,17 +80,3 @@ Wood router:
 
 15. Repeat the same steps for the other drawers and cabinet doors using the correct jig.
 ![PXL_20260619_003529229.jpg](./2018-2020-Winnebago-Revel-Slam-Latch-Conversion-images/PXL_20260619_003529229.jpg)
-![PXL_20260619_003545037.jpg](./2018-2020-Winnebago-Revel-Slam-Latch-Conversion-images/PXL_20260619_003545037.jpg)
-![PXL_20260828_155229760.jpg](./2018-2020-Winnebago-Revel-Slam-Latch-Conversion-images/PXL_20260828_155229760.jpg)
-![PXL_20260828_155246887.jpg](./2018-2020-Winnebago-Revel-Slam-Latch-Conversion-images/PXL_20260828_155246887.jpg)
-![PXL_20260828_155523314.jpg](./2018-2020-Winnebago-Revel-Slam-Latch-Conversion-images/PXL_20260828_155523314.jpg)
-![PXL_20260828_164542710.jpg](./2018-2020-Winnebago-Revel-Slam-Latch-Conversion-images/PXL_20260828_164542710.jpg)
-![PXL_20260828_164557960.jpg](./2018-2020-Winnebago-Revel-Slam-Latch-Conversion-images/PXL_20260828_164557960.jpg)
-![PXL_20260828_164613899.jpg](./2018-2020-Winnebago-Revel-Slam-Latch-Conversion-images/PXL_20260828_164613899.jpg)
-![PXL_20260828_164633385.jpg](./2018-2020-Winnebago-Revel-Slam-Latch-Conversion-images/PXL_20260828_164633385.jpg)
-![PXL_20260828_164806867.jpg](./2018-2020-Winnebago-Revel-Slam-Latch-Conversion-images/PXL_20260828_164806867.jpg)
-![PXL_20260828_164827246.jpg](./2018-2020-Winnebago-Revel-Slam-Latch-Conversion-images/PXL_20260828_164827246.jpg)
-![PXL_20260828_165349054.jpg](./2018-2020-Winnebago-Revel-Slam-Latch-Conversion-images/PXL_20260828_165349054.jpg)
-![PXL_20260828_165823553.jpg](./2018-2020-Winnebago-Revel-Slam-Latch-Conversion-images/PXL_20260828_165823553.jpg)
-![PXL_20260828_170319432.jpg](./2018-2020-Winnebago-Revel-Slam-Latch-Conversion-images/PXL_20260828_170319432.jpg)
-![PXL_20260828_170345880.jpg](./2018-2020-Winnebago-Revel-Slam-Latch-Conversion-images/PXL_20260828_170345880.jpg)
