@@ -8,6 +8,7 @@
 - [2018-2020 Winnebago Revel Suspended Outdoor Table Conversion Install Instructions](/install-instructions/2018-2020-Winnebago-Revel-Suspended-Outdoor-Table-Conversion-Install-Instructions.MD)
 - [Gloss Black Magnetic Fridge Front for Nova Kool R3100](/install-instructions/Gloss-Black-Magnetic-Fridge-Front-for-Nova-Kool-R3100-Install-Instructions.MD)
 - [2018-2020 Winnebago Revel Front Bed Support Install Instructions](/install-instructions/2018-2020-Winnebago-Revel-Front-Bed-Support-Install-Instructions.MD)
+- [2018-2020 Winnebago Revel Slam Latch Conversion Instructions](/install-instructions/2018-2020-Winnebago-Revel-Slam-Latch-Conversion-Instructions.MD)
 
 
 Do you have questions, ideas, or concerns? Feel free to reach out to us on [Facebook Messenger](https://www.facebook.com/BrobstonCreationsLLC) or by Email (brobstoncreations@gmail.com).
