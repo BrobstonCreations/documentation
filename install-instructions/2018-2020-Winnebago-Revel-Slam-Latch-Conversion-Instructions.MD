@@ -6,7 +6,7 @@ Do you have questions, ideas, or concerns? Feel free to reach out to us on [Face
 
 ### Tools Needed:
 - [Ratcheting Table Clamp](https://amzn.to/3V2F6W3)
-- Drill
+- [Drill](https://amzn.to/4xtETcQ)
 - Phillips bit
 - Drill bits
 - Flat head screw driver
