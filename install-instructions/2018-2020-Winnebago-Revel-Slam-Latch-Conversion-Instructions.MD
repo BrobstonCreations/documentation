@@ -5,11 +5,14 @@ Do you have questions, ideas, or concerns? Feel free to reach out to us on [Face
 ### While this kit can be installed yourself, for best results we recommend having it professionally installed.
 
 ### Tools Needed:
+- [Ratcheting Table Clamp](https://amzn.to/3V2F6W3)
 - Drill
 - Phillips bit
 - Drill bits
 - Flat head screw driver
 - Either a Drill and 2 inch hole saw or Wood router and Flush Trim Router Bit (with the bearing towards the shaft side)
+
+*This page contains some Amazon Affiliate links, they help me support this project at no cost to you.
 
 ### Hardware:
 
