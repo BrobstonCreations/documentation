@@ -11,4 +11,4 @@
 - [2018-2020 Winnebago Revel Slam Latch Conversion Instructions](/install-instructions/2018-2020-Winnebago-Revel-Slam-Latch-Conversion-Instructions.MD)
 
 
-Do you have questions, ideas, or concerns? Feel free to reach out to us on [Facebook Messenger](https://www.facebook.com/BrobstonCreationsLLC) or by Email (brobstoncreations@gmail.com).
+Do you have questions, ideas, or concerns? Feel free to reach out to us on [Facebook Messenger](https://www.facebook.com/BrobstonCreationsLLC) or by Email (admin@brobstoncreations.com).
