@@ -27,9 +27,9 @@ These instructions are very new. It is very likely I left some details out! Plea
 
 ### Not included in the kit:
 
-- 1x - [Sink](https://amzn.to/47uAaw7)
-- 1x - [Sink faucet](https://amzn.to/4hpuTfp)
-- 1x - [Sink drain strainer kit](https://amzn.to/4yymjRG)
+- 1x - Sink (https://amzn.to/47uAaw7)
+- 1x - Sink faucet (https://amzn.to/4hpuTfp)
+- 1x - Sink drain strainer kit (https://amzn.to/4yymjRG)
 
 Drain plumbing (1.5-inch PVC):
 
@@ -42,14 +42,14 @@ The Revel already has the p-trap (with its 90-degree connector and seal) and the
 
 If you have filtered drinking water:
 
-- 1x - [RO Sink Faucet](https://amzn.to/3VrbzFR)
+- 1x - RO Sink Faucet (https://amzn.to/3VrbzFR)
 - 1x - Guzzle H2O system (if using this setup)
 
 If you have filtered drinking water and RoamRig plumbing:
 
-- 1x - [2 x 12 inch 3/8 faucet line extensions](https://amzn.to/4hY8uG1)
-- 2x - [3/8 compression check valves](https://amzn.to/3W2FMLB)
-- 1x - [3/8 3-way tee-stop valve](https://amzn.to/4zdg3Pa)
+- 1x - 2 x 12 inch 3/8 faucet line extensions (https://amzn.to/4hY8uG1)
+- 2x - 3/8 compression check valves (https://amzn.to/3W2FMLB)
+- 1x - 3/8 3-way tee-stop valve (https://amzn.to/4zdg3Pa)
 
 If you have filtered drinking water and stock plumbing:
 
