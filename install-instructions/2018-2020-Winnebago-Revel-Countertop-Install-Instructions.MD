@@ -2,7 +2,7 @@ Do you have questions, ideas, or concerns? Feel free to reach out to us on [Face
 
 These instructions are very new. It is very likely I left some details out! Please reach out if something is missing or confusing! I'm happy to help explain and update the documentation to help others in the future!
 
-*This page contains Amazon Affiliate links.
+*This page contains Amazon Affiliate links.*
 
 # 2018-2020 Winnebago Revel Countertop
 
@@ -28,6 +28,21 @@ These instructions are very new. It is very likely I left some details out! Plea
 ### Brackets and fasteners included in the kit:
 - CNC Machined Countertop
 - 120V Outlet Spacer
+
+### Not included in the kit:
+
+- 1x - [Sink](https://amzn.to/47uAaw7)
+- 1x - [Sink faucet](https://amzn.to/4hpuTfp)
+
+If you have filtered drinking water:
+
+- 1x - [RO Sink Faucet](https://amzn.to/3VrbzFR)
+
+If you have filtered drinking water and RoamRig plumbing:
+
+- 1x - [2 x 12 inch 3/8 faucet line extensions](https://amzn.to/4hY8uG1)
+- 2x - [3/8 compression check valves](https://amzn.to/3W2FMLB)
+- 1x - [3/8 tee valve](https://amzn.to/4zdg3Pa)
 
 ## Installation:
 1. Shut off the AC Breakers for the Cooktop and all outlets
@@ -156,9 +171,9 @@ These instructions are very new. It is very likely I left some details out! Plea
 ![PXL_20260402_135444632.jpg](2018-2020-Winnebago-Revel-Countertop-Install-images/PXL_20260402_135444632.jpg)
 ![PXL_20260402_135518361.jpg](2018-2020-Winnebago-Revel-Countertop-Install-images/PXL_20260402_135518361.jpg)
 - RoamRig Plumbing: You will need two 12 inch faucet line extensions and one-way valves. If you have a filtered water solution you will also need a t-valve and I would recommend one with a quarter turn shut-off. This t-value can be before the one-way values. Unfortunately the t-valve points the opposite direction, but still functions fine otherwise.
-    - 3/8 compression 3-way tee-stop valve: https://amzn.to/4dW4OD5
-    - 3/8 compression check valve: https://amzn.to/4scEJ6n
-    - 12 inch hot/cold line extensions: https://amzn.to/4tsJp9l
+    - 3/8 compression 3-way tee-stop valve: https://amzn.to/4zdg3Pa
+    - 3/8 compression check valve: https://amzn.to/3W2FMLB
+    - 12 inch hot/cold line extensions: https://amzn.to/4hY8uG1
 ![PXL_20260402_140142014.jpg](2018-2020-Winnebago-Revel-Countertop-Install-images/PXL_20260402_140142014.jpg)
 ![PXL_20260402_140531235.jpg](2018-2020-Winnebago-Revel-Countertop-Install-images/PXL_20260402_140531235.jpg)
 ![PXL_20260402_140549623.jpg](2018-2020-Winnebago-Revel-Countertop-Install-images/PXL_20260402_140549623.jpg)
