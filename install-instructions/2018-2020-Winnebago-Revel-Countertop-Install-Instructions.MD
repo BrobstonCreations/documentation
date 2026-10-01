@@ -56,12 +56,6 @@ If you have filtered drinking water and stock plumbing:
 - PEX 3-way tee-stop valve (https://amzn.to/4sNMCQG)
 - 3/8-inch compression female connector (https://amzn.to/3PK11Pn)
 
-As needed:
-
-- Faucet-line clamp and screw (stock plumbing)
-- Shorter support screw (after trimming)
-- Sink mounting hardware (if not supplied with sink)
-
 #### Consumables:
 
 - Silicone Caulk (https://amzn.to/4hAZTrE)
