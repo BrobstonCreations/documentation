@@ -34,7 +34,7 @@ These instructions are very new. It is very likely I left some details out! Plea
 Drain plumbing:
 
 - Straight drain pipe, cut to fit
-- 1x - Angled drain fitting
+- 1x - 22.5-degree drain elbow
 - 1x - 90-degree drain fitting
 - Trap-to-pipe adapter with nut and seal
 - Waterless trap (called a P-trap below), with 90-degree connector and seal
