@@ -31,7 +31,7 @@ These instructions are very new. It is very likely I left some details out! Plea
 - 1x - [Sink faucet](https://amzn.to/4hpuTfp)
 - 1x - [Sink drain strainer kit](https://amzn.to/4yymjRG)
 
-Drain plumbing:
+Drain plumbing (1 1/2 inch):
 
 - Straight drain pipe, cut to fit
 - 1x - 22.5-degree drain elbow
