@@ -37,10 +37,8 @@ Drain plumbing:
 - 1x - 22.5-degree drain elbow
 - 1x - 90-degree drain fitting
 - Trap-to-pipe adapter with nut and seal
-- Waterless trap (called a P-trap below), with 90-degree connector and seal
-- Macerator coupler and worm-drive clamps
 
-Match pipe/fitting sizes and angles to your setup. Reuse suitable parts and check kit contents to avoid duplicate fittings.
+The Revel already has the p-trap (with its 90-degree connector and seal) and the macerator coupler with worm clamps, so reuse those. Match pipe/fitting sizes and angles to your setup.
 
 If you have filtered drinking water:
 
