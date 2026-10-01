@@ -64,8 +64,6 @@ If you have filtered drinking water and stock plumbing:
 - Material-compatible plumbing cement
 - PVC primer (as specified by the cement manufacturer)
 
-Use cement/primer only on compatible solvent-weld joints, not removable gasketed connections.
-
 ## Installation:
 1. Shut off the AC Breakers for the Cooktop and all outlets
 
