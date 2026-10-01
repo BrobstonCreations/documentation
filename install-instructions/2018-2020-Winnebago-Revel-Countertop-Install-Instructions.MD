@@ -29,7 +29,7 @@ These instructions are very new. It is very likely I left some details out! Plea
 
 - 1x - [Sink](https://amzn.to/47uAaw7)
 - 1x - [Sink faucet](https://amzn.to/4hpuTfp)
-- 1x - Sink drain strainer kit
+- 1x - [Sink drain strainer kit](https://amzn.to/4yymjRG)
 
 Drain plumbing:
 
