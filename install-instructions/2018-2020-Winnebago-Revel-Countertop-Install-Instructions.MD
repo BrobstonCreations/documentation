@@ -31,14 +31,14 @@ These instructions are very new. It is very likely I left some details out! Plea
 - 1x - [Sink faucet](https://amzn.to/4hpuTfp)
 - 1x - [Sink drain strainer kit](https://amzn.to/4yymjRG)
 
-Drain plumbing (1 1/2 inch):
+Drain plumbing (1.5-inch PVC):
 
 - Straight drain pipe, cut to fit
 - 1x - 22.5-degree drain elbow
 - 1x - 90-degree drain fitting
 - Trap-to-pipe adapter with nut and seal
 
-The Revel already has the p-trap (with its 90-degree connector and seal) and the macerator coupler with worm clamps, so reuse those. Match pipe/fitting sizes and angles to your setup.
+The Revel already has the p-trap (with its 90-degree connector and seal) and the macerator coupler with worm clamps, so reuse those. Use 1.5-inch PVC pipe and fittings.
 
 If you have filtered drinking water:
 
