@@ -29,25 +29,29 @@ These instructions are very new. It is very likely I left some details out! Plea
 
 - 1x - [Sink](https://amzn.to/47uAaw7)
 - 1x - [Sink faucet](https://amzn.to/4hpuTfp)
+- 1x - Sink drain strainer kit
 
-Drain plumbing (not supplied with the countertop kit):
+Drain plumbing:
 
-- Straight drain pipe, cut to fit the installed sink-to-macerator routing. Match the pipe diameter to the connected fittings; confirm the required lengths during fitting.
-- 1x - Angled drain fitting to suit the routing. Confirm the required angle and size before purchasing.
-- 1x - 90-degree drain fitting to suit the routing. Check whether the sink-side connector supplied with the trap meets this need before purchasing an additional elbow.
-- Compatible trap-to-pipe adapter with the required nut and seal.
-- Compatible sink drain/strainer, waterless trap with its sink-side 90-degree connector and seal, and macerator coupler with worm-drive clamps. Obtain these components only if they are not supplied with the sink or available for reuse. The waterless trap is referred to as a P-trap in the installation steps; a second spare trap is not required.
+- Straight drain pipe, cut to fit
+- 1x - Angled drain fitting
+- 1x - 90-degree drain fitting
+- Trap-to-pipe adapter with nut and seal
+- Waterless trap (called a P-trap below), with 90-degree connector and seal
+- Macerator coupler and worm-drive clamps
+
+Match pipe/fitting sizes and angles to your setup. Reuse suitable parts and check kit contents to avoid duplicate fittings.
 
 If you have filtered drinking water:
 
 - 1x - [RO Sink Faucet](https://amzn.to/3VrbzFR)
-- 1x - Guzzle H2O water-filtration system, if using the Guzzle H2O setup described below. The system is not included in the countertop kit; reuse an existing system if applicable.
+- 1x - Guzzle H2O system (if using this setup)
 
 If you have filtered drinking water and RoamRig plumbing:
 
 - 1x - [2 x 12 inch 3/8 faucet line extensions](https://amzn.to/4hY8uG1)
 - 2x - [3/8 compression check valves](https://amzn.to/3W2FMLB)
-- 1x - [3/8 tee valve](https://amzn.to/4zdg3Pa)
+- 1x - [3/8 3-way tee-stop valve](https://amzn.to/4zdg3Pa)
 
 If you have filtered drinking water and stock plumbing:
 
@@ -56,17 +60,19 @@ If you have filtered drinking water and stock plumbing:
 
 As needed:
 
-- Faucet-line retaining clamp and suitable screw for stock plumbing (recommended in step 42).
-- Shorter support screw if the original is too long after trimming (step 17).
-- Compatible sink mounting hardware if not supplied with the sink (steps 27–34).
+- Faucet-line clamp and screw (stock plumbing)
+- Shorter support screw (after trimming)
+- Sink mounting hardware (if not supplied with sink)
 
 #### Consumables:
 
-- Silicone Caulk (https://amzn.to/4v9kCsh)
-- Painters Tape (https://amzn.to/4c0Ak07)
-- Plumbers Putty (https://amzn.to/488RQhG)
-- Plumbing solvent cement compatible with the selected drain pipe and fitting material.
-- Compatible primer for PVC solvent-weld joints. Follow the pipe and cement manufacturers' instructions for material compatibility and primer use; do not use solvent cement on removable gasketed connections.
+- Silicone Caulk (https://amzn.to/4hAZTrE)
+- Painters Tape (https://amzn.to/4hCLlrp)
+- Plumbers Putty (https://amzn.to/4dk7Vns)
+- Material-compatible plumbing cement
+- PVC primer (as specified by the cement manufacturer)
+
+Use cement/primer only on compatible solvent-weld joints, not removable gasketed connections.
 
 ## Installation:
 1. Shut off the AC Breakers for the Cooktop and all outlets
