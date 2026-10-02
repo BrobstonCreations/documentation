@@ -2,7 +2,7 @@ Do you have questions, ideas, or concerns? Feel free to reach out to us on [Face
 
 These instructions are very new. It is very likely I left some details out! Please reach out if something is missing or confusing! I'm happy to help explain and update the documentation to help others in the future!
 
-*This page contains Amazon Affiliate links.
+*This page contains Amazon Affiliate links.*
 
 # 2018-2020 Winnebago Revel Countertop
 
@@ -13,6 +13,7 @@ These instructions are very new. It is very likely I left some details out! Plea
 - Drill bits (https://amzn.to/4dsnVEO)
 - Drill Stop Bit Collar Set (https://amzn.to/4tkaDib)
 - Impact driver with philips bit or Philips screw driver (https://amzn.to/3PQku0L)
+- Long driver extension for the sink mounting screws
 - 90 degree impact tool (https://amzn.to/3PHXkK0)
 - Oscillating tool (https://amzn.to/4drjfiv)
 - Caulking Gun (https://amzn.to/41dEkFG)
@@ -20,14 +21,48 @@ These instructions are very new. It is very likely I left some details out! Plea
 - Work light (https://amzn.to/4m6iMV0)
 - Towel
 
-### Consumables:
-- Silicone Caulk (https://amzn.to/4v9kCsh)
-- Painters Tape (https://amzn.to/4c0Ak07)
-- Plumbers Putty (https://amzn.to/488RQhG)
-
 ### Brackets and fasteners included in the kit:
 - CNC Machined Countertop
 - 120V Outlet Spacer
+
+### Not included in the kit:
+
+- 1x - Sink (https://amzn.to/47uAaw7)
+- 1x - Sink faucet (https://amzn.to/4hpuTfp)
+- 1x - Sink drain strainer kit (https://amzn.to/4yymjRG)
+
+Drain plumbing (1.5-inch PVC):
+
+- Straight drain pipe, cut to fit
+- 1x - 22.5-degree drain elbow
+- 1x - 90-degree drain fitting
+- Trap-to-pipe adapter with nut and seal
+
+The Revel already has the p-trap (with its 90-degree connector and seal) and the macerator coupler with worm clamps, so reuse those. Use 1.5-inch PVC pipe and fittings.
+
+If you have filtered drinking water:
+
+- 1x - RO Sink Faucet (https://amzn.to/3VrbzFR)
+- 1x - Guzzle H2O system (if using this setup)
+
+If you have filtered drinking water and RoamRig plumbing:
+
+- 1x - 2 x 12 inch 3/8 faucet line extensions (https://amzn.to/4hY8uG1)
+- 2x - 3/8 compression check valves (https://amzn.to/3W2FMLB)
+- 1x - 3/8 3-way tee-stop valve (https://amzn.to/4zdg3Pa)
+
+If you have filtered drinking water and stock plumbing:
+
+- PEX 3-way tee-stop valve (https://amzn.to/4sNMCQG)
+- 3/8-inch compression female connector (https://amzn.to/3PK11Pn)
+
+#### Consumables:
+
+- Silicone Caulk (https://amzn.to/4hAZTrE)
+- Painters Tape (https://amzn.to/4hCLlrp)
+- Plumbers Putty (https://amzn.to/4dk7Vns)
+- Material-compatible plumbing cement
+- PVC primer (as specified by the cement manufacturer)
 
 ## Installation:
 1. Shut off the AC Breakers for the Cooktop and all outlets
@@ -156,9 +191,9 @@ These instructions are very new. It is very likely I left some details out! Plea
 ![PXL_20260402_135444632.jpg](2018-2020-Winnebago-Revel-Countertop-Install-images/PXL_20260402_135444632.jpg)
 ![PXL_20260402_135518361.jpg](2018-2020-Winnebago-Revel-Countertop-Install-images/PXL_20260402_135518361.jpg)
 - RoamRig Plumbing: You will need two 12 inch faucet line extensions and one-way valves. If you have a filtered water solution you will also need a t-valve and I would recommend one with a quarter turn shut-off. This t-value can be before the one-way values. Unfortunately the t-valve points the opposite direction, but still functions fine otherwise.
-    - 3/8 compression 3-way tee-stop valve: https://amzn.to/4dW4OD5
-    - 3/8 compression check valve: https://amzn.to/4scEJ6n
-    - 12 inch hot/cold line extensions: https://amzn.to/4tsJp9l
+    - 3/8 compression 3-way tee-stop valve: https://amzn.to/4zdg3Pa
+    - 3/8 compression check valve: https://amzn.to/3W2FMLB
+    - 12 inch hot/cold line extensions: https://amzn.to/4hY8uG1
 ![PXL_20260402_140142014.jpg](2018-2020-Winnebago-Revel-Countertop-Install-images/PXL_20260402_140142014.jpg)
 ![PXL_20260402_140531235.jpg](2018-2020-Winnebago-Revel-Countertop-Install-images/PXL_20260402_140531235.jpg)
 ![PXL_20260402_140549623.jpg](2018-2020-Winnebago-Revel-Countertop-Install-images/PXL_20260402_140549623.jpg)
