@@ -11,4 +11,7 @@
 - [2018-2020 Winnebago Revel Slam Latch Conversion Instructions](/install-instructions/2018-2020-Winnebago-Revel-Slam-Latch-Conversion-Instructions.MD)
 
 
+### 📏 Measurement Guides:
+- [Winnebago Revel Pantry Measurement Instructions](/measurement-instructions/Winnebago-Revel-Pantry-Measurement-Instructions.MD)
+
 Do you have questions, ideas, or concerns? Feel free to email us at admin@brobstoncreations.com.
