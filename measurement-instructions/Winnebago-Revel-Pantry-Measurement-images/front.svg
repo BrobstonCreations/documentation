@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg
+  PUBLIC '-//W3C//DTD SVG 1.0//EN'
+  'http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd'>
+<svg width="504" height="445" preserveAspectRatio="xMinYMin meet" viewBox="0 0 504 445" xmlns="http://www.w3.org/2000/svg" version="1.0" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>...</title>
+	<desc>...</desc>
+	<clipPath id="clip">
+		<rect x="0" y="0" width="504" height="445"/>
+	</clipPath>
+	<g id="group" transform="scale(1,-1) translate(0,-445)" style="clip-path: url(#clip)">
+		<g transform=" matrix(0.960317,0,0,0.960317,10,10)">
+			<g transform=" matrix(1.041322,0,0,1.041322,-10.413223,-10.413223)">
+				<rect x="0" y="0" width="504" height="445" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			</g>
+			<text x="0" y="430" style="font-family: Helvetica; font-size: 12px;fill: rgb(12%,23%,27%); stroke:none;" transform="translate(0,860) scale(1,-1)">Front view — Keep the original Winnebago frame installed</text>
+			<text x="0" y="413" style="font-family: Helvetica; font-size: 9px;fill: rgb(12%,23%,27%); stroke:none;" transform="translate(0,826) scale(1,-1)">Original frame extends to the floor. Measure near the front, inside the pantry.</text>
+			<rect x="241.85674999999995" y="45.0" width="3.1432500000000516" height="316.94437499999987" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(89%,91%,92%); fill-rule: evenodd;"/>
+			<path d="M 241.85675,45 L 245,45 Z" style="stroke: rgb(12%,23%,27%); stroke-linecap: butt; stroke-width: 1.4;"/>
+			<path d="M 245,45 L 245,361.944375 Z" style="stroke: rgb(12%,23%,27%); stroke-linecap: butt; stroke-width: 1.4;"/>
+			<path d="M 245,361.944375 L 241.85675,361.944375 Z" style="stroke: rgb(12%,23%,27%); stroke-linecap: butt; stroke-width: 1.4;"/>
+			<path d="M 241.85675,361.944375 L 241.85675,45 Z" style="stroke: rgb(12%,23%,27%); stroke-linecap: butt; stroke-width: 1.4;"/>
+			<rect x="280.6234999999999" y="45.0" width="3.14325000000008" height="316.94437499999987" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(89%,91%,92%); fill-rule: evenodd;"/>
+			<path d="M 280.6235,45 L 283.76675,45 Z" style="stroke: rgb(12%,23%,27%); stroke-linecap: butt; stroke-width: 1.4;"/>
+			<path d="M 283.76675,45 L 283.76675,361.944375 Z" style="stroke: rgb(12%,23%,27%); stroke-linecap: butt; stroke-width: 1.4;"/>
+			<path d="M 283.76675,361.944375 L 280.6235,361.944375 Z" style="stroke: rgb(12%,23%,27%); stroke-linecap: butt; stroke-width: 1.4;"/>
+			<path d="M 280.6235,361.944375 L 280.6235,45 Z" style="stroke: rgb(12%,23%,27%); stroke-linecap: butt; stroke-width: 1.4;"/>
+			<rect x="245.0" y="44.99793749999998" width="5.532119999999992" height="316.94643749999994" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(76%,84%,83%); fill-rule: evenodd;"/>
+			<path d="M 245,44.997937 L 250.53212,44.997937 Z" style="stroke: rgb(12%,23%,27%); stroke-linecap: butt; stroke-width: 1.4;"/>
+			<path d="M 250.53212,44.997937 L 250.53212,361.944375 Z" style="stroke: rgb(12%,23%,27%); stroke-linecap: butt; stroke-width: 1.4;"/>
+			<path d="M 250.53212,361.944375 L 245,361.944375 Z" style="stroke: rgb(12%,23%,27%); stroke-linecap: butt; stroke-width: 1.4;"/>
+			<path d="M 245,361.944375 L 245,44.997937 Z" style="stroke: rgb(12%,23%,27%); stroke-linecap: butt; stroke-width: 1.4;"/>
+			<rect x="275.21711" y="44.99793749999998" width="5.53212000000002" height="316.94643749999994" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(76%,84%,83%); fill-rule: evenodd;"/>
+			<path d="M 275.21711,44.997937 L 280.74923,44.997937 Z" style="stroke: rgb(12%,23%,27%); stroke-linecap: butt; stroke-width: 1.4;"/>
+			<path d="M 280.74923,44.997937 L 280.74923,361.944375 Z" style="stroke: rgb(12%,23%,27%); stroke-linecap: butt; stroke-width: 1.4;"/>
+			<path d="M 280.74923,361.944375 L 275.21711,361.944375 Z" style="stroke: rgb(12%,23%,27%); stroke-linecap: butt; stroke-width: 1.4;"/>
+			<path d="M 275.21711,361.944375 L 275.21711,44.997937 Z" style="stroke: rgb(12%,23%,27%); stroke-linecap: butt; stroke-width: 1.4;"/>
+			<rect x="250.53212" y="44.99793749999998" width="24.68499" height="3.1432499999999877" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(76%,84%,83%); fill-rule: evenodd;"/>
+			<path d="M 250.53212,44.997937 L 275.21711,44.997937 Z" style="stroke: rgb(12%,23%,27%); stroke-linecap: butt; stroke-width: 1.4;"/>
+			<path d="M 275.21711,44.997937 L 275.21711,48.141187 Z" style="stroke: rgb(12%,23%,27%); stroke-linecap: butt; stroke-width: 1.4;"/>
+			<path d="M 275.21711,48.141187 L 250.53212,48.141187 Z" style="stroke: rgb(12%,23%,27%); stroke-linecap: butt; stroke-width: 1.4;"/>
+			<path d="M 250.53212,48.141187 L 250.53212,44.997937 Z" style="stroke: rgb(12%,23%,27%); stroke-linecap: butt; stroke-width: 1.4;"/>
+			<rect x="250.53212" y="117.03281249999998" width="24.68499" height="7.334249999999997" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(76%,84%,83%); fill-rule: evenodd;"/>
+			<path d="M 250.53212,117.032812 L 275.21711,117.032812 Z" style="stroke: rgb(12%,23%,27%); stroke-linecap: butt; stroke-width: 1.4;"/>
+			<path d="M 275.21711,117.032812 L 275.21711,124.367062 Z" style="stroke: rgb(12%,23%,27%); stroke-linecap: butt; stroke-width: 1.4;"/>
+			<path d="M 275.21711,124.367062 L 250.53212,124.367062 Z" style="stroke: rgb(12%,23%,27%); stroke-linecap: butt; stroke-width: 1.4;"/>
+			<path d="M 250.53212,124.367062 L 250.53212,117.032812 Z" style="stroke: rgb(12%,23%,27%); stroke-linecap: butt; stroke-width: 1.4;"/>
+			<rect x="250.53212" y="351.4668749999999" width="24.68499" height="10.47750000000002" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(76%,84%,83%); fill-rule: evenodd;"/>
+			<path d="M 250.53212,351.466875 L 275.21711,351.466875 Z" style="stroke: rgb(12%,23%,27%); stroke-linecap: butt; stroke-width: 1.4;"/>
+			<path d="M 275.21711,351.466875 L 275.21711,361.944375 Z" style="stroke: rgb(12%,23%,27%); stroke-linecap: butt; stroke-width: 1.4;"/>
+			<path d="M 275.21711,361.944375 L 250.53212,361.944375 Z" style="stroke: rgb(12%,23%,27%); stroke-linecap: butt; stroke-width: 1.4;"/>
+			<path d="M 250.53212,361.944375 L 250.53212,351.466875 Z" style="stroke: rgb(12%,23%,27%); stroke-linecap: butt; stroke-width: 1.4;"/>
+			<path d="M 233,45 L 300,45 Z" style="stroke: rgb(12%,23%,27%); stroke-linecap: butt; stroke-width: 1.4;"/>
+			<text x="315" y="28" style="font-family: Helvetica; font-size: 9px;fill: rgb(12%,23%,27%); stroke:none;" transform="translate(0,56) scale(1,-1)">Floor</text>
+			<path d="M 300,45 L 309,34 Z" style="stroke: rgb(45%,54%,58%); stroke-linecap: butt; stroke-width: 1.4;"/>
+			<path d="M 233,361.944375 L 293,361.944375 Z" style="stroke: rgb(45%,54%,58%); stroke-linecap: butt; stroke-width: 1.4;"/>
+			<text x="300" y="397" style="font-family: Helvetica; font-size: 9px;fill: rgb(12%,23%,27%); stroke:none;" transform="translate(0,794) scale(1,-1)">Ceiling at wall top</text>
+			<text x="300" y="385" style="font-family: Helvetica; font-size: 9px;fill: rgb(12%,23%,27%); stroke:none;" transform="translate(0,770) scale(1,-1)">75 5/8 in</text>
+			<text x="300" y="373" style="font-family: Helvetica; font-size: 9px;fill: rgb(12%,23%,27%); stroke:none;" transform="translate(0,746) scale(1,-1)">1920.9 mm above floor</text>
+			<path d="M 280.6235,361.944375 L 293,382 Z" style="stroke: rgb(45%,54%,58%); stroke-linecap: butt; stroke-width: 1.4;"/>
+			<path d="M 210,124.367062 L 250.53212,124.367062 Z" style="stroke: rgb(45%,54%,58%); stroke-linecap: butt; stroke-width: 1.4;"/>
+			<path d="M 215,45 L 215,124.367062 Z" style="stroke: rgb(7%,39%,48%); stroke-linecap: butt; stroke-width: 1.4;"/>
+			<polyline points="212 49, 215 45, 218 49" style="stroke: rgb(7%,39%,48%); stroke-linecap: butt; stroke-width: 1; fill: None; fill-rule: evenodd;"/>
+			<polyline points="212 120.3671, 215 124.3671, 218 120.3671" style="stroke: rgb(7%,39%,48%); stroke-linecap: butt; stroke-width: 1; fill: None; fill-rule: evenodd;"/>
+			<text x="126.63" y="103" style="font-family: Helvetica; font-size: 10px;fill: rgb(12%,23%,27%); stroke:none;" transform="translate(0,206) scale(1,-1)">Floor to bottom of</text>
+			<text x="111.61999999999999" y="90" style="font-family: Helvetica; font-size: 10px;fill: rgb(12%,23%,27%); stroke:none;" transform="translate(0,180) scale(1,-1)">original door opening</text>
+			<text x="81.37599999999999" y="66" style="font-family: Helvetica; font-size: 8px;fill: rgb(12%,23%,27%); stroke:none;" transform="translate(0,132) scale(1,-1)">18 15/16 in / 481.0 mm above floor</text>
+			<path d="M 230,124.367062 L 230,361.944375 Z" style="stroke: rgb(7%,39%,48%); stroke-linecap: butt; stroke-width: 1.4;"/>
+			<polyline points="227 128.3671, 230 124.3671, 233 128.3671" style="stroke: rgb(7%,39%,48%); stroke-linecap: butt; stroke-width: 1; fill: None; fill-rule: evenodd;"/>
+			<polyline points="227 357.9444, 230 361.9444, 233 357.9444" style="stroke: rgb(7%,39%,48%); stroke-linecap: butt; stroke-width: 1; fill: None; fill-rule: evenodd;"/>
+			<text x="119.39999999999999" y="252" style="font-family: Helvetica; font-size: 10px;fill: rgb(12%,23%,27%); stroke:none;" transform="translate(0,504) scale(1,-1)">Bottom of original door</text>
+			<text x="142.18" y="239" style="font-family: Helvetica; font-size: 10px;fill: rgb(12%,23%,27%); stroke:none;" transform="translate(0,478) scale(1,-1)">opening to ceiling</text>
+			<path d="M 280.6235,124.367062 L 293,124.367062 Z" style="stroke: rgb(45%,54%,58%); stroke-linecap: butt; stroke-width: 1.4;"/>
+			<text x="300" y="129.36706249999997" style="font-family: Helvetica; font-size: 9px;fill: rgb(12%,23%,27%); stroke:none;" transform="translate(0,258) scale(1,-1)">Bottom of original door</text>
+			<text x="300" y="117.36706249999997" style="font-family: Helvetica; font-size: 9px;fill: rgb(12%,23%,27%); stroke:none;" transform="translate(0,234) scale(1,-1)">opening</text>
+			<path d="M 245,343.466875 L 280.6235,343.466875 Z" style="stroke: rgb(7%,39%,48%); stroke-linecap: butt; stroke-width: 1.4;"/>
+			<polyline points="249 340.4669, 245 343.4669, 249 346.4669" style="stroke: rgb(7%,39%,48%); stroke-linecap: butt; stroke-width: 1; fill: None; fill-rule: evenodd;"/>
+			<polyline points="276.6235 340.4669, 280.6235 343.4669, 276.6235 346.4669" style="stroke: rgb(7%,39%,48%); stroke-linecap: butt; stroke-width: 1; fill: None; fill-rule: evenodd;"/>
+			<path d="M 284.6235,343.466875 L 293,343.466875 Z" style="stroke: rgb(7%,39%,48%); stroke-linecap: butt; stroke-width: 1.4;"/>
+			<text x="300" y="349.4668749999999" style="font-family: Helvetica; font-size: 9px;fill: rgb(12%,23%,27%); stroke:none;" transform="translate(0,698) scale(1,-1)">Width across the pantry</text>
+			<text x="300" y="337.4668749999999" style="font-family: Helvetica; font-size: 9px;fill: rgb(12%,23%,27%); stroke:none;" transform="translate(0,674) scale(1,-1)">front at the top</text>
+			<path d="M 245,237.916969 L 280.6235,237.916969 Z" style="stroke: rgb(7%,39%,48%); stroke-linecap: butt; stroke-width: 1.4;"/>
+			<polyline points="249 234.917, 245 237.917, 249 240.917" style="stroke: rgb(7%,39%,48%); stroke-linecap: butt; stroke-width: 1; fill: None; fill-rule: evenodd;"/>
+			<polyline points="276.6235 234.917, 280.6235 237.917, 276.6235 240.917" style="stroke: rgb(7%,39%,48%); stroke-linecap: butt; stroke-width: 1; fill: None; fill-rule: evenodd;"/>
+			<path d="M 284.6235,237.916969 L 293,253.916969 Z" style="stroke: rgb(7%,39%,48%); stroke-linecap: butt; stroke-width: 1.4;"/>
+			<text x="300" y="259.9169687499999" style="font-family: Helvetica; font-size: 9px;fill: rgb(12%,23%,27%); stroke:none;" transform="translate(0,519) scale(1,-1)">Width across the pantry</text>
+			<text x="300" y="247.9169687499999" style="font-family: Helvetica; font-size: 9px;fill: rgb(12%,23%,27%); stroke:none;" transform="translate(0,495) scale(1,-1)">front at the middle</text>
+			<path d="M 245,132.367062 L 280.6235,132.367062 Z" style="stroke: rgb(7%,39%,48%); stroke-linecap: butt; stroke-width: 1.4;"/>
+			<polyline points="249 129.3671, 245 132.3671, 249 135.3671" style="stroke: rgb(7%,39%,48%); stroke-linecap: butt; stroke-width: 1; fill: None; fill-rule: evenodd;"/>
+			<polyline points="276.6235 129.3671, 280.6235 132.3671, 276.6235 135.3671" style="stroke: rgb(7%,39%,48%); stroke-linecap: butt; stroke-width: 1; fill: None; fill-rule: evenodd;"/>
+			<polyline points="284.6235 132.3671, 296 132.3671, 296 170.3671, 293 170.3671" style="stroke: rgb(7%,39%,48%); stroke-linecap: butt; stroke-width: 1.4; fill: None; fill-rule: evenodd;"/>
+			<text x="300" y="176.36706249999997" style="font-family: Helvetica; font-size: 9px;fill: rgb(12%,23%,27%); stroke:none;" transform="translate(0,352) scale(1,-1)">Width across the pantry</text>
+			<text x="300" y="164.36706249999997" style="font-family: Helvetica; font-size: 9px;fill: rgb(12%,23%,27%); stroke:none;" transform="translate(0,328) scale(1,-1)">front at the bottom</text>
+		</g>
+	</g>
+</svg>
