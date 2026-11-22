@@ -2,10 +2,10 @@
 
 Prefer to print it? Download the [PDF version](Winnebago-Revel-Pantry-Measurement-Instructions.pdf).
 
-Help us check which Revel model years can use the [Brobston Creations slideout pantry](https://shop.brobstoncreations.com/winnebago-revel-slideout-pantry/).
+Help us verify that the [Brobston Creations slideout pantry](https://shop.brobstoncreations.com/winnebago-revel-slideout-pantry/) fits every Revel model year.
 The first two complete submissions for each model year each earn a single-use **10% off code**. See the Thank-you section for the full terms.
 For this measurement stage, allow 45 minutes: 15 for access, 15 for fourteen readings and one photo, and 15 for reinstalling, filling the template and sending.
-Stage 1 alone earns the code; a later test fit is expected in exchange.
+Stage 1 alone earns the code; a later test fit and feedback are expected in exchange.
 
 ## Model year status
 
@@ -14,7 +14,7 @@ Check your model year here before measuring. Tony updates this table as submissi
 | Model year | Spots filled (out of 2) | Status |
 | --- | --- | --- |
 | 2018 | 0 of 2 | Open |
-| 2019 | 1 of 2 | Covered, no measurements needed |
+| 2019 | 1 of 2 | Open, 1 spot left |
 | 2020 | 0 of 2 | Open |
 | 2021 | 0 of 2 | Open |
 | 2022 | 0 of 2 | Open |
@@ -152,5 +152,5 @@ Thanks for helping us get the fit right! We offer two 10% off codes per model ye
 Tony confirms your submission and sends a single-use code.
 The code is honored on a deposit or an order, with no expiry while the program is open.
 
-When your year's unit is ready, test fit means installing it per the instructions and sending a short fit report.
-If your year needs a design change, your deposit is refunded or held, at your choice.
+Test fit means installing the pantry per the instructions and sending a short fit report with your feedback.
+If the pantry turns out not to fit your model year, your deposit is refunded.
