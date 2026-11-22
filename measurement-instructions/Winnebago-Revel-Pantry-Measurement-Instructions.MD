@@ -3,9 +3,26 @@
 Prefer to print it? Download the [PDF version](Winnebago-Revel-Pantry-Measurement-Instructions.pdf).
 
 Help us check which Revel model years can use the [Brobston Creations slideout pantry](https://shop.brobstoncreations.com/winnebago-revel-slideout-pantry/).
-The first complete submission for each model year earns a **10% off code**. See the Thank-you section for the full terms.
+The first two complete submissions for each model year each earn a single-use **10% off code**. See the Thank-you section for the full terms.
 For this measurement stage, allow 45 minutes: 15 for access, 15 for fourteen readings and one photo, and 15 for reinstalling, filling the template and sending.
 Stage 1 alone earns the code; a later test fit is expected in exchange.
+
+## Model year status
+
+Check your model year here before measuring. Tony updates this table as submissions are confirmed.
+
+| Model year | Spots filled (out of 2) | Status |
+| --- | --- | --- |
+| 2018 | 0 of 2 | Open |
+| 2019 | 1 of 2 | Covered, no measurements needed |
+| 2020 | 0 of 2 | Open |
+| 2021 | 0 of 2 | Open |
+| 2022 | 0 of 2 | Open |
+| 2023 | 0 of 2 | Open |
+| 2024 | 0 of 2 | Open |
+| 2025 | 0 of 2 | Open |
+| 2026 | 0 of 2 | Open |
+| 2027 | 0 of 2 | Open |
 
 ## Tools
 
@@ -131,7 +148,7 @@ The data is shared publicly, anonymized; we remove identifying details before pu
 
 ## Thank-you: 10% off
 
-Thanks for helping us get the fit right! We offer one 10% off code per model year, for the first complete submission.
+Thanks for helping us get the fit right! We offer two 10% off codes per model year, for the first two complete submissions.
 Tony confirms your submission and sends a single-use code.
 The code is honored on a deposit or an order, with no expiry while the program is open.
 
